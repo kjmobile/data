@@ -1,0 +1,8 @@
+Is It Hard to Learn Python?
+Python is considered one of the easiest programming languages to learn. However, that doesn't mean that it's easy! While anyone can learn Python programming — even if you've never written a line of code before — you should expect that it will take time, and you should expect moments of frustration.
+Do I Need to be Good at Math to Learn Python?
+Nope! While the conventional wisdom has long been that having natural talent for mathematics makes learning programming easier, a recent study suggests that's not the case. In fact, if you've learned a foreign language, you might actually find it easier to learn Python than a "math person"!
+As we've said, though, anyone can learn Python. We've seen learners with a wide variety of backgrounds worth through our courses and succeed, so don't let your own background stop you from giving Python a try!
+Should I Learn Python 2 or Python 3?
+You should learn Python 3. While some outdated learning resources still teach Python 2, this version of the language is no longer supported, and security vulnerabilities will not be patched.
+You should learn the most up-to-date version of Python, which is Python 3.
