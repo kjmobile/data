@@ -1,0 +1,2267 @@
+﻿icao_code,iata_code,name,country,callsign,active,international,iata_member,iosa_certified,average_fleet_age,aircraft_over_25_years,accidents_last_5_years,fatal_accidents_last_5_years,destinations,annual_domestic_flights,annual_international_flights
+AAA,AN,Ansett Australia,AU,ANSETT,0,1,0,0,,,,,,,
+AAB,W9,Luxaviation Belgium,BE,ABG,1,0,0,0,8.22,0,0,0,,,
+AAC,,Army Air Corps,GB,ARMYAIR,1,0,0,0,19.38,25,0,0,,,
+AAD,,Arrendamientos Aereos,PA,PANABEAR,1,0,0,0,7.00,0,0,0,,,
+AAF,ZI,Aigle Azur,FR,AIGLE AZUR,0,1,0,0,,,,,,,
+AAH,KH,Aloha Air Cargo,US,ALOHA,1,0,0,0,24.50,3,1,0,7,15053,0
+AAJ,,Alfa Airlines,SD,ALFA SUDAN,1,0,0,0,47.00,1,0,0,,,
+AAL,AA,American Airlines,US,AMERICAN,1,1,1,1,10.88,0,24,0,295,921489,213447
+AAP,,Arabasco,SA,ARABASCO,1,0,0,0,27.50,1,0,0,,,
+AAQ,HB,Asia Atlantic Airlines,TH,ASIA ATLANTIC,0,1,0,0,,,,,,,
+AAR,OZ,Asiana Airlines,KR,ASIANA,1,1,1,1,12.49,6,2,0,116,36934,81912
+AAS,,Askari Aviation,PK,AL-AAS,1,0,0,0,44.00,1,0,0,,,
+AAV,8Y*,Pan Pacific Airlines,PH,ASTRO-PHIL,1,1,0,0,24.80,0,,,,,
+AAW,8U,Afriqiyah Airways,LY,AFRIQIYAH,1,1,0,0,14.00,0,0,0,16,596,4367
+AAX,,Advance Aviation Company Ltd,TH,ADVANCE AVIATION,1,0,0,0,9.71,0,0,0,,,
+AAY,G4,Allegiant Air,US,ALLEGIANT,1,1,0,0,8.33,0,0,0,106,75335,34
+ABB,KF,Air Belgium,BE,AIR BELGIUM,1,0,0,0,13.00,0,0,0,,,
+ABC,,AirBridgeCargo,RU,AIRBRIDGE CARGO,0,0,1,0,,,,,,,
+ABD,CC,Air Atlanta Icelandic,IS,ATLANTA,1,0,0,1,26.00,4,0,0,,,
+ABF,,ScanWings Oy,FI,SKYWINGS,1,0,0,0,28.60,3,0,0,,,
+ABG,RL,Royal Flight,RU,ROYAL FLIGHT,1,0,0,0,18.29,2,0,0,,,
+ABJ,,Abaete Linhas Aereas,BR,ABAETE,1,0,0,0,37.67,18,0,0,,,
+ABL,,Air Busan,KR,AIR BUSAN,1,1,0,0,12.47,0,0,0,29,23435,14169
+ABN,,Air Fret Senegal,SN,AIR FRET SENEGAL,1,0,0,0,,,,,,,
+ABO,,Aeroexpreso Bogota,CO,AEROEXPRESO,0,0,0,0,23.00,0,0,0,,,
+ABP,,ABS Jets,CZ,BAIR,1,0,0,0,8.30,0,0,0,,,
+ABQ,PA,Airblue,PK,AIRBLUE,1,1,0,0,,,,,,,
+ABR,,ASL Airlines Ireland,IE,CONTRACT,1,0,0,1,26.50,26,0,0,,,
+ABS,J7,Afrijet Business Service,GA,,1,0,0,0,15.83,1,1,0,,,
+ABT,,Benin Airlines,BJ,BENWAYS,1,0,0,0,26.00,1,0,0,,,
+ABW,RU,AirBridgeCargo,RU,AIRBRIDGE CARGO,1,1,1,1,6.81,0,0,0,42,179,12809
+ABX,GB,ABX Air,US,ABEX,1,1,1,1,32.25,16,0,0,24,8617,4809
+ABY,G9,Air Arabia,AE,ARABIA,1,1,1,1,5.50,0,0,0,72,0,61126
+ABZ,,ATA Brasil,BR,ATA BRASIL,0,0,0,0,,,,,,,
+ACA,AC,Air Canada,CA,AIR CANADA,1,1,1,1,11.84,4,0,0,123,107722,86913
+ACG,,Air Partner,GB,AIR PARTNER,1,0,0,0,,,,,,,
+ACH,,Africas Connection,ST,,0,0,0,0,34.00,1,0,0,,,
+ACI,SB,Air Calin,NC,AIRCALIN,1,1,1,1,23.50,1,0,0,12,0,4376
+ACJ,,AC Aviation Company,TH,SINOJET,1,0,0,0,18.33,0,0,0,,,
+ACL,JK,AerCaribe,CO,ADMIRE,1,0,0,0,30.80,5,0,0,,,
+ACP,,Astral Aviation,KE,ASTRAL CARGO,1,1,0,0,35.00,5,0,0,11,0,902
+ACS,,ASSL Air,PK,AIRCRAFT SALES,1,0,0,0,27.00,2,0,0,,,
+ACW,,RAF Air Cadets,GB,AIR CADET,1,0,0,0,,,,,,,
+ACX,,Air Charters,CA,PARAIR,1,1,0,0,,,,,,,
+ADB,,Antonov Airlines,UA,ANTONOV BUREAU,1,0,0,0,33.45,11,0,0,,,
+ADC,,Ad Astra Executive Charter,PL,AD ASTRA,1,0,0,0,11.00,0,0,0,,,
+ADD,,Advanced Air,JP,,1,0,0,0,25.00,1,0,0,,,
+ADE,ZY,ADA Air,AL,ADA AIR,0,1,0,0,,,,,,,
+ADH,AP,Air One,IT,HERON,0,1,0,0,,,,,,,
+ADK,Z7,ADC Airlines,NG,ADCO,0,1,0,0,,,,,,,
+ADN,,Aero Dienst,DE,AERODIENST,1,0,0,0,13.44,0,0,0,,,
+ADO,HD,Air Do,JP,AIR DO,1,0,0,0,16.07,0,0,0,12,27295,0
+ADP,,Aerodiplomatic SA de CV,MX,AERODIPLOMATIC,1,0,0,0,45.00,1,0,0,,,
+ADR,JP,Adria Airways,SI,ADRIA,0,1,0,0,,,,,,,
+ADY,,Aerodyne,US,AERODYNE,1,0,0,0,,,,,,,
+ADZ,,Avio Delta,BG,MIGRATOR,1,0,0,0,12.00,0,0,0,,,
+AEA,UX,Air Europa,ES,EUROPA,1,1,1,1,4.00,0,1,0,70,35865,29396
+AEE,A3,Aegean Airlines,GR,AEGEAN,1,1,1,1,7.82,0,0,0,95,29638,45983
+AEF,LL,Aero Lloyd,DE,AERO LLOYD,0,1,0,0,,,,,,,
+AEG,,AirEst,EE,AIREST CARGO,1,0,0,0,32.22,8,0,0,,,
+AEH,NL,Amelia International,SI,VEGA,1,0,0,1,13.50,0,0,0,,,
+AEL,PE,Air Europe,IT,AIR EUROPE,0,1,0,0,,,,,,,
+AER,KO*,ACE Air Cargo,US,ACE AIR,1,0,0,0,30.92,12,0,0,14,3883,0
+AES,VX,Aerolíneas Centrales de Colombia,CO,ACES,0,1,0,0,,,,,,,
+AEU,5W,Astraeus,GB,FLYSTAR,0,0,0,0,,,,,,,
+AEW,VV,Aerosvit Airlines,UA,AEROSVIT,0,1,1,1,,,,,,,
+AEY,I9,Air Italy,IT,AIR ITALY,0,1,0,0,,,,,,,
+AFA,,Alfa Air,CZ,BLUE ALFA,1,0,0,0,4.00,0,0,0,,,
+AFD,,Unity Air,GH,,1,0,0,0,22.00,0,0,0,,,
+AFE,,AIRFAST Indonesia,ID,AIRFAST,1,0,0,0,22.06,10,0,0,,,
+AFG,FG,Ariana Afghan Airlines,AF,ARIANA,1,1,0,0,29.00,2,0,0,11,1148,1304
+AFI,,Africaone,UG,AFRICAWORLD,1,0,0,0,,,,,,,
+AFL,SU,Aeroflot Russian Airlines,RU,AEROFLOT,1,1,1,1,4.73,0,6,1,136,105276,116583
+AFP,,Portuguese Air Force,PT,PORTUGUESE AIR FORCE,1,0,0,0,26.52,63,0,0,,,
+AFQ,,ALBA Servici Aerotrasporti SpA,IT,ALBA,1,0,0,0,9.50,0,0,0,,,
+AFR,AF,Air France,FR,AIRFRANS,1,1,1,1,10.84,0,7,0,178,96789,171510
+AFW,AW,Africa World Airlines,GH,BLACKSTAR,1,0,1,0,,,,,,,
+AGB,X7,Air Service Gabon,GA,,0,1,0,0,,,,,,,
+AGC,VC,Air Australia,AU,STRATEGIC,0,1,0,0,,,,,,,
+AGH,,Altagna,FR,ALTAGNA,1,0,0,0,8.00,0,0,0,,,
+AGM,,Aviation West Charters,US,ANGEL MED,1,0,0,0,44.00,1,0,0,,,
+AGN,GN,Air Gabon,GA,GOLF NOVEMBER,0,1,0,0,,,,,,,
+AGU,,Angara Airlines,RU,SARMA,1,1,0,0,34.61,23,1,1,20,3018,96
+AGV,,Air Glaciers SA,CH,AIR GLACIERS,1,0,0,0,25.95,9,0,0,,,
+AGX,JJ,Aviogenex,RS,GENEX,0,1,0,0,,,,,,,
+AHA,GD,Air Alpha Greenland,GL,AIR ALPHA,0,0,0,0,,,,,,,
+AHC,,Azal Avia Cargo,AZ,,1,0,0,0,32.00,1,0,0,,,
+AHE,,Airport Helicopter AHB AG,CH,AIRPORT HELICOPTER,1,0,0,0,24.78,6,0,0,,,
+AHF,,Aspen Helicopters,US,ASPEN,1,0,0,0,31.67,11,0,0,,,
+AHI,,Servicios Aereos de Chihuahua Aerochisa S.A. de C.,MX,AEROCHISA,1,0,0,0,16.50,0,1,0,,,
+AHK,LD*,Air Hong Kong,HK,AIR HONG KONG,1,1,0,1,16.67,1,0,0,13,0,7424
+AHM,,Atlantis Helicopters de Mexico SA de CV,MX,HELI ATLANTIS,1,0,0,0,47.50,2,0,0,,,
+AHO,,Air Hamburg Private Jets,DE,AIR HAMBURG,1,0,0,0,5.33,0,0,0,,,
+AHT,,HTA Helicopteros,PT,HELIAPRA,1,0,0,0,13.27,1,0,0,,,
+AHW,,Sky Capital Airlines,BD,SKY CAPITAL,1,0,0,0,28.67,2,0,0,,,
+AHX,MZ,Amakusa Airlines,JP,AMAKUSA AIR,1,0,0,0,5.00,0,0,0,,,
+AHY,J2,Azerbaijan Airlines,AZ,AZAL,1,1,1,1,10.00,0,0,0,69,698,13147
+AIA,U3,Avies,EE,AVIES,0,1,0,0,,,,,,,
+AIB,,Airbus,FR,AIRBUS INDUSTRIE,1,0,0,0,6.69,1,0,0,,,
+AIC,AI,Air India,IN,AIRINDIA,1,1,1,1,10.80,0,0,0,88,109081,36168
+AIE,3H,Air Inuit,CA,INUIT,1,0,0,0,34.56,17,0,0,24,18256,0
+AIF,,AIM Aviation Ltd,IL,,1,0,0,0,32.00,1,0,0,,,
+AIH,KJ,Air Incheon,KR,AIR INCHEON,1,1,0,0,29.00,1,0,0,6,0,431
+AIJ,4O,Interjet,MX,ABC AEROLINEAS,1,1,1,1,11.75,0,1,0,53,88667,22181
+AIM,QM,Air Malawi,MW,MALAWI,0,1,0,0,,,,,,,
+AIP,5A,Alpine Air,US,ALPINE AIR,1,0,0,0,36.87,39,0,0,,,
+AIQ,FD,Thai AirAsia,TH,THAI ASIA,1,1,0,0,,,,,,,
+AIT,,Air Taurus,UA,AIR TAURUS,1,0,0,0,28.00,4,0,0,,,
+AIW,,Atlantic Island Airways,CA,TARTAN,0,0,0,0,,,,,,,
+AIZ,IZ,Arkia,IL,ARKIA,1,1,1,1,6.00,0,0,0,26,3539,1850
+AJA,HN,Afghan Jet International Airlines,AF,AFGHAN JET,0,0,0,0,,,,,,,
+AJE,,Aero Jet Express SA de CV,MX,JET EXPRES,0,0,0,0,35.00,4,0,0,,,
+AJI,,Ameristar Charters,US,AMERISTAR,1,0,0,0,53.00,4,0,0,,,
+AJJ,,Avcon Jet Africa,ZA,AVJET,1,0,0,0,10.00,0,0,0,,,
+AJK,4W,Allied Air Cargo,NG,BAMBI,1,0,1,1,28.00,3,0,0,,,
+AJM,JM,Air Jamaica,JM,JAMAICA,0,1,0,0,,,,,,,
+AJR,,A-Jet Aviation,MN,JET MONGOLIA,1,0,0,0,21.00,1,0,0,,,
+AJS,,Central Charter de Colombia,CO,AEROEJECUTIVOS,1,0,0,0,11.00,0,0,0,,,
+AJT,M6,Amerijet International,US,AMERIJET,1,1,0,0,30.57,7,0,0,54,134,10077
+AJU,,Airjetsul,PT,AIRJETSUL,1,0,0,0,23.25,2,0,0,,,
+AJX,NQ,Air Japan,JP,AIR JAPAN,1,1,0,1,17.45,3,1,0,12,0,7538
+AKA,,Air Korea Co Ltd,KR,,1,0,0,0,26.00,1,0,0,,,
+AKC,,Asialink Cargo Airlines,ID,ASIALINK CARGO,1,0,0,0,36.00,1,0,0,,,
+AKF,,Aero Asahi Corp,JP,,1,0,0,0,20.05,23,0,0,,,
+AKK,,Aker ASA,NO,AKER,1,0,0,0,4.00,0,0,0,6,3532,0
+AKL,,Air Kiribati,KI,AIR KIRIBATI,1,1,0,0,29.80,4,0,0,17,0,1120
+AKN,,Alkan Air,CA,ALKAN AIR,1,0,0,0,35.12,12,0,0,,,
+AKQ,,Aerospace Consortium,KE,MOONLIGHT,1,0,0,0,35.50,4,0,0,,,
+AKX,EH,ANA Wings,JP,ALFA WING,1,0,0,1,11.88,0,0,0,40,109848,0
+ALD,,Albion Aviation,GB,ALBION,1,1,0,0,,,,,,,
+ALI,,Airlift AS,NO,BLUELIFT,1,0,0,0,13.58,1,0,0,,,
+ALK,UL,SriLankan Airlines,LK,SRILANKAN,1,1,1,1,5.00,0,0,0,44,519,26205
+ALM,,Alfa Air,MA,,1,0,0,0,39.75,4,0,0,,,
+ALS,,Alas Del Sur CA,VE,ALASDELSUR,1,0,0,0,40.00,1,0,0,,,
+ALT,,Aerolineas Centrales SA de CV,MX,AEROLINEAS CENTRALES,1,0,0,0,5.00,0,0,0,,,
+ALV,,Aeropostal Alas de Venezuela,VE,ALVEN,1,1,0,0,,,,,,,
+ALW,,ALS Limited,KE,,1,0,0,0,24.83,12,1,0,,,
+AMB,,DRF - Deutsche Luftrettung,DE,CIVIL AIR AMBULANCE,1,0,0,0,14.61,17,0,0,,,
+AMC,KM,Air Malta,MT,AIR MALTA,1,1,1,1,1.33,0,0,0,31,0,12310
+AME,,Spanish Air Force,ES,AIRMIL,1,0,0,0,14.13,258,0,0,,,
+AMF,,Ameriflight,US,AMFLIGHT,1,0,0,0,35.95,128,1,0,,,
+AMG,6M,Air Minas Linhas Aéreas,BR,AIR MINAS,0,0,0,0,,,,,,,
+AMI,L6,Air Maldives,MV,AIR MALDIVES,0,1,0,0,,,,,,,
+AMJ,,Amjet Executive,GR,AMJET EXEC,1,0,0,0,20.00,0,0,0,,,
+AMP,4A,ATSA - Aero Transporte,PE,ATSA,1,0,0,0,30.47,14,0,0,,,
+AMQ,,AMC Aviation Sp ZOO,PL,AMEX,1,0,0,0,12.36,1,0,0,,,
+AMS,,ASTA - America do Sul Taxi Aereo,BR,,1,0,0,0,10.50,0,0,0,,,
+AMU,NX,Air Macau,MO,AIR MACAU,1,1,1,1,7.50,0,0,0,39,0,24017
+AMV,YJ,AMC Airlines,EG,AMV,1,1,0,0,,,,,,,
+AMW,6A,Armenia Airways,AM,,1,1,0,0,28.00,1,0,0,11,0,680
+AMX,AM,Aeromexico,MX,AEROMEXICO,1,1,1,1,7.43,0,1,0,63,47015,41155
+ANA,NH,ANA-All Nippon Airways,JP,ALL NIPPON,1,1,1,1,7.71,1,2,0,96,184926,60063
+ANC,A0,Avianca Argentina,AR,AVIAN,0,1,0,0,,,,,,,
+AND,,Servicios Aereos de Los Andes,PE,SERVI ANDES,1,0,0,0,15.45,2,0,0,,,
+ANE,YW,Air Nostrum,ES,NOSTRU AIR,1,1,1,1,22.00,0,1,0,95,61696,23330
+ANG,PX,Air Niugini,PG,NIUGINI,1,1,1,1,23.62,5,1,1,32,21289,5101
+ANO,TL,Airnorth,AU,TOPEND,1,1,0,0,21.50,4,0,0,20,10224,856
+ANQ,DA,Aerolínea de Antioquia,CO,ANTIOQUIA,0,0,0,0,,,,,,,
+ANR,,Yanair,UA,YANAIR,1,1,0,0,,,,,,,
+ANS,,Andes Lineas Aereas,AR,AEROANDES,1,1,0,0,,,,,,,
+ANT,4N,Air North,CA,AIR NORTH,1,0,0,0,38.67,6,0,0,12,3703,0
+ANZ,NZ,Air New Zealand,NZ,NEW ZEALAND,1,1,1,1,5.64,0,0,0,35,36770,27793
+AOB,,Aerocaribe,VE,CARIBE CORO,1,0,0,0,38.00,2,0,0,,,
+AOJ,,Avcon Jet AG,AT,ASTERIX,1,0,0,0,9.38,0,0,0,,,
+AOM,IW,AOM French Airlines,FR,FRENCH LINES,0,1,0,0,,,,,,,
+AOV,,Aero Vision,FR,AEROVISION,1,0,0,0,34.00,1,0,0,,,
+APA,,Apoyo Logistico S.A. de C.V.,MX,APOYO LOG,1,0,0,0,10.75,0,0,0,,,
+APC,,Airpac Airlines,US,AIRPAC,1,0,0,0,40.00,1,0,0,,,
+APF,HP,Amapola Flyg,SE,AMAPOLA,1,0,0,1,30.83,6,0,0,,,
+APG,3D,Air People International,TH,AIR PEOPLE,1,1,0,0,,,,,,,
+APH,,Alpha Aviation,US,AIRFLIGHT,1,0,0,0,,,,,,,
+APJ,MM,Peach,JP,AIR PEACH,1,1,0,0,4.07,0,0,0,18,20343,11885
+APK,P4,Air Peace,NG,PEACE BIRD,1,0,1,1,22.00,1,0,0,,,
+AQO,,Alcoa Aircraft Operations,US,,1,0,0,0,8.00,0,0,0,,,
+AQS,,Airstream as,CZ,AIRSTREAM,1,0,0,0,21.00,0,0,0,,,
+ARA,W3,Arik Air,NG,ARIK AIR,1,1,1,1,16.00,0,0,0,32,28463,10536
+ARD,,Aeroandinas,VE,CORDILLERAS,1,0,0,0,30.00,1,0,0,,,
+ARE,4C,LATAM Airlines Colombia,CO,LAN COLOMBIA,1,1,1,1,9.00,0,0,0,21,36442,3002
+ARG,AR,Aerolineas Argentinas,AR,ARGENTINA,1,1,1,1,7.50,0,0,0,56,60680,20635
+ARH,,Aerohelicopteros,VE,AEROHELCA,1,0,0,0,28.00,1,0,0,,,
+ARI,,Aerovics SA de CV,MX,AEROVICS,1,0,0,0,15.80,1,0,0,,,
+ARK,,Aero Link Flight Academy,ES,LINK SERVICE,1,0,0,0,33.25,4,0,0,,,
+ARL,,Airlec Air Espace,FR,AIRLEC,1,0,0,0,32.33,5,0,0,,,
+ARM,,MEGAviation SRL,MD,SUNSKY,1,0,0,0,29.00,1,0,0,,,
+ARO,,Acerotaxi SA de CV,MX,ACERO,1,0,0,0,12.00,0,0,0,,,
+ARR,QN,Air Armenia,AM,AIR ARMENIA,1,1,0,0,,,,,,,
+ARS,,Aeromet,CL,METSERVICE,1,0,0,0,39.00,1,0,0,,,
+ART,6Y,SmartLynx Airlines,LV,SMART LYNX,1,0,0,1,16.00,0,0,0,,,
+ARU,AG,Aruba Airlines,NL,ARUBA,1,1,0,0,,,,,,,
+ARV,,Aravco Ltd,GB,ARAVCO,1,0,0,0,10.00,0,0,0,,,
+ARZ,,Air Resorts,US,AIR RESORTS,0,0,0,0,,,,,,,
+ASA,AS,Alaska Airlines,US,ALASKA,1,1,1,1,7.81,0,0,0,80,179667,13427
+ASD,4D,Air Sinai,EG,AIR SINAI,1,1,0,0,,,,,,,
+ASH,YV,Mesa Airlines,US,AIR SHUTTLE,1,1,0,1,10.06,0,2,0,128,194065,24266
+ASJ,,Astonjet,FR,ASTONJET,1,0,0,0,8.25,0,0,0,,,
+ASL,JU,Air Serbia,RS,AIR SERBIA,1,0,1,1,16.00,0,0,0,,,
+ASM,,Awesome Flight Services - South Africa,ZA,AWESOME,1,0,0,0,27.57,5,0,0,,,
+ASP,,AirSprint,CA,AIRSPRINT,1,0,0,0,4.62,0,0,0,,,
+ASQ,EV,ExpressJet Airlines,US,ACEY,0,0,0,1,13.48,0,0,0,,,
+ASR,,AeroSotravia Rent,FR,SOTRAVIA,1,0,0,0,37.25,4,0,0,,,
+ASV,,Air Seoul,KR,AIR SEOUL,1,0,0,0,5.00,0,0,0,,,
+ASW,,Asia Airways,TJ,ASIAWAYS,0,0,0,0,40.00,1,0,0,,,
+ASY,,Royal Australian Air Force,AU,AUSSIE,1,0,0,0,14.66,70,0,0,,,
+ATC,TC,Air Tanzania,TZ,TANZANIA,1,1,1,1,12.00,2,0,0,5,1660,575
+ATG,F5,Aerotranscargo,MD,MOLDCARGO,1,0,0,0,24.33,1,0,0,,,
+ATL,,Atlas Air Service AG,DE,AIR BREMEN,1,0,0,0,8.75,0,0,0,,,
+ATM,FO,Airlines of Tasmania (Par-Avion),AU,AIRTAS,1,0,0,0,40.57,7,0,0,4,462,0
+ATN,8C,ATI - Air Transport International,US,AIR TRANSPORT,1,0,0,0,30.70,10,0,0,,,
+ATP,,Servicios Aereos del Altiplano SA de CV,MX,ALTIPLANO,1,0,0,0,8.25,0,0,0,,,
+ATW,,Aero Trades Western,CA,AERO TRADES,0,0,0,0,,,,,,,
+ATX,T6,AirSwift,PH,AIRSWIFT,1,0,0,0,3.00,0,0,0,,,
+ATY,,Air Traffic Nairobi,KE,AIRCARE,1,0,0,0,30.67,4,0,0,,,
+ATZ,,Ace Air,KR,ACE TAXI,1,0,0,0,13.00,0,0,0,,,
+AUA,OS,Austrian,AT,AUSTRIAN,1,1,1,1,18.60,0,1,0,137,10918,117832
+AUD,,Air Unlimited Charter Services,US,GENIE,1,0,0,0,32.00,2,0,0,,,
+AUH,MO,Abu Dhabi Presidential Flight,AE,SULTAN,1,0,0,0,11.50,0,0,0,,,
+AUI,PS,Ukraine International Airlines,UA,UKRAINE INTERNATIONAL,1,0,1,0,,,,,,,
+AUK,UI*,Auric Air,TZ,AURIC SERVICES,1,0,0,0,5.60,0,0,0,15,14901,0
+AUL,5N,Smartavia,RU,ARCHANGELSK AIR,1,0,1,1,19.60,2,1,1,23,10398,0
+AUR,GR,Aurigny,GB,AYLINE,1,1,0,0,10.00,0,0,0,15,14595,418
+AUT,AU,Austral,AR,AUSTRAL,1,0,1,0,,,,,,,
+AUU,,Aurora Aviation,US,AURORA AIR,1,1,0,0,,,,,,,
+AUZ,Z7,Amaszonas Uruguay,UY,URUGUAYO,0,0,0,0,9.00,0,0,0,,,
+AVA,AV,Avianca,CO,AVIANCA,1,1,1,1,3.80,0,1,0,59,150297,36489
+AVB,,Gama Aviation Ltd,GB,BEAUPAIR,1,0,0,0,10.50,0,0,0,,,
+AVE,,Avex Air,ZA,AVEX AIR,1,0,0,0,14.40,0,0,0,,,
+AVF,,Aves Flight Share SA de CV,MX,AVES FLIGHT,1,0,0,0,14.00,0,0,0,,,
+AVJ,YJ,Avia Traffic Company,KG,ATOMIC,1,1,0,0,,,,,,,
+AVM,,AVEMEX SA de CV,MX,AVEMEX,1,0,0,0,12.15,1,0,0,,,
+AVN,NF,Air Vanuatu,VU,AIR VAN,1,1,1,1,32.20,4,1,0,32,8909,1545
+AWB,,Airways International,US,AIRNAT,0,1,0,0,,,,,,,
+AWC,ZT*,Titan Airways,GB,ZAP,1,1,0,1,16.14,2,0,0,38,0,858
+AWE,US,US Airways,US,CACTUS,0,1,0,0,,,,,,,
+AWG,A2,Animawings,RO,ANIMA WINGS,1,1,0,0,,,,,,,
+AWI,ZW,Air Wisconsin,US,WISCONSIN,1,1,0,1,17.88,0,0,0,77,135260,12112
+AWK,,Airwork,NZ,AIRWORK,1,0,0,0,28.46,22,0,0,,,
+AWM,,Asian Wings Airways,MM,ASIAN STAR,1,1,0,0,21.50,0,0,0,14,5176,2
+AWQ,QZ,Indonesia AirAsia,ID,WAGON AIR,1,0,0,0,,,,,,,
+AWS,,Arab Wings,JO,ARAB WINGS,1,0,0,0,14.11,0,0,0,,,
+AWT,2B,Albawings,AL,ALBAWINGS,1,1,0,0,,,,,,,
+AWU,7E,Sylt Air,DE,SYLT AIR,1,0,0,0,21.78,3,0,0,2,870,0
+AWY,,Bliss Aviation,GB,RED KITE,1,0,0,0,13.50,0,0,0,,,
+AXB,IX*,Air India Express,IN,EXPRESS INDIA,1,1,0,1,12.00,0,3,0,30,1702,19938
+AXG,,Air X Charter GmbH & Co.KG,DE,FORTUNE,1,0,0,0,16.00,0,0,0,,,
+AXK,XU,African Express Airways,KE,EXPRESS JET,1,1,0,0,33.50,2,0,0,13,173,1177
+AXL,,Anguilla Air Services,AI,ANGUILLA,1,1,0,0,38.80,4,0,0,3,0,2559
+AXM,AK,AirAsia,MY,RED CAP,1,1,0,1,9.00,0,0,0,77,82344,85995
+AXT,,AX Transporter,MX,AXTRANSPORTER,1,0,0,0,6.50,0,0,0,,,
+AXV,,Aviaxess Helicopter & Jet,FR,,1,0,0,0,7.00,0,0,0,,,
+AXY,,Air X Charter,MT,LEGEND,1,0,0,0,13.93,1,0,0,,,
+AYG,,Air Thanlwin,MM,,1,1,0,0,20.00,0,0,0,15,9340,46
+AYR,,Flight Training Europe SL,ES,CYGNET,1,0,0,0,27.00,1,1,0,,,
+AYS,7D,Madagasikara Airways,MG,,1,0,0,0,18.50,0,0,0,,,
+AYT,,Ayit Aviation,IL,AYIT,1,0,0,0,37.00,4,0,0,,,
+AYY,,Air Alliance Express AG & Co. KG,DE,LUPUS,1,0,0,0,26.38,10,0,0,,,
+AZA,AZ,Alitalia,IT,ALITALIA,1,1,1,1,13.97,0,1,0,104,83122,68033
+AZD,,Zimex Aviation Austria,AT,MAILMAN,1,1,0,0,,,,,,,
+AZE,,Arcus Air,DE,ARCUS AIR,1,0,0,0,9.60,0,0,0,,,
+AZF,,Air Zermatt AG,CH,AIR ZERMATT,1,0,0,0,12.22,1,0,0,,,
+AZG,7L,Silk Way West Airlines,AZ,SILK WEST,1,0,1,1,10.44,0,0,0,,,
+AZH,,SilkWay Helicopter Services,AZ,HELIAZE,1,0,0,0,15.81,4,0,0,,,
+AZI,A2,Astra Airlines,GR,GREEK STAR,0,1,0,0,,,,,,,
+AZL,,AZee AIR,KZ,AZEE AIR,1,0,0,0,29.00,6,0,0,,,
+AZN,Z8,Amaszonas,BO,AMAZONAS,1,1,0,0,22.89,0,1,0,17,14950,2269
+AZO,,Azimuth,RU,AZIMUTH-DON,1,0,0,0,2.55,0,0,0,,,
+AZP,ZP,Paranair,PY,GUARANI,1,1,0,0,,,,,,,
+AZQ,,Silk Way Airlines,AZ,SILK LINE,1,1,0,0,21.50,3,0,0,16,0,2589
+AZS,,Aviacon Zitotrans,RU,ZITOTRANS,1,0,0,0,30.20,5,0,0,,,
+AZU,AD,Azul,BR,AZUL,1,1,1,1,5.91,0,0,0,87,245993,2698
+AZV,,Azov Avia Airlines,UA,AZOV AVIA,0,1,0,0,,,,,,,
+AZW,UM,Air Zimbabwe,ZW,AIR ZIMBABWE,1,1,0,0,,,,,,,
+AZY,,Aztec Airways,US,AZTEC WORLD,1,1,0,0,38.40,5,0,0,3,0,480
+AZZ,,Azza Transport,SD,AZZA TRANSPORT,0,1,0,0,,,,,,,
+BAB,,Bahrain Air,BH,BAHRAIN AIR,0,1,0,0,,,,,,,
+BAE,,BAE Systems Ltd,GB,FELIX,1,0,0,0,23.00,0,0,0,,,
+BAF,,Belgian Air Component,BE,BELGIAN AIRFORCE,1,0,0,0,34.07,113,0,0,,,
+BAH,,Bahrain Royal Flight,BH,BAHRAIN,1,0,0,0,16.69,2,0,0,,,
+BAL,,BalmOral Central Contracts SA,ZA,BALMORAL,1,0,0,0,29.33,3,0,0,,,
+BAM,,Business Air Services,CA,BUSINESS AIR,1,1,0,0,,,,,,,
+BAR,,Bradly Air Services,CA,BRADLEY,0,0,0,0,,,,,,,
+BAV,QH,Bamboo Airways,VN,BAMBOO,1,0,1,1,8.00,0,0,0,,,
+BAW,BA,British Airways,GB,SPEEDBIRD,1,1,1,1,8.40,0,6,0,206,42302,254012
+BAX,,Best Aero Handling,RU,BEST AERO,1,1,0,0,,,,,,,
+BAY,,Bayon Airlines,KH,BAYON,0,1,0,0,,,,,,,
+BBB,,Blackbird Air Charter,DK,BLACKBIRD,1,0,0,0,2.67,0,0,0,,,
+BBC,BG,Biman Bangladesh Airlines,BD,BANGLADESH,1,1,1,0,3.00,0,2,0,28,7450,10331
+BBD,BO,Bluebird Nordic,IS,BLUE CARGO,1,1,0,0,27.40,4,0,0,2,0,522
+BBG,,Bluebird Airways,GR,CANDIA BIRD,1,1,0,0,,,,,,,
+BBO,F7,Baboo,CH,BABOO,0,1,0,0,,,,,,,
+BBR,S3,Santa Barbara Airlines,VE,SANTA BARBARA,1,1,0,0,,,,,,,
+BBX,,Bel Air Aviation A/S,DK,BLUEBEL,1,0,0,0,6.00,0,0,0,,,
+BBY,,Blue Bird Aviation,YE,YEMEN BLUE,1,0,0,0,32.75,3,0,0,,,
+BBZ,,Blue Bird Aviation,KE,COBRA,1,0,0,0,24.81,8,0,0,,,
+BCF,,BACH Flugbetrieb,AT,BACH,1,0,0,0,41.00,3,0,0,,,
+BCI,SI,Blue Islands,GB,BLUE ISLAND,1,1,0,0,20.50,0,0,0,6,9903,136
+BCS,QY,European Air Transport,DE,EUROTRANS,1,0,1,1,23.31,22,0,0,,,
+BCY,WX,CityJet,IE,CITY JET,1,0,1,0,,,,,,,
+BDA,,Blue Dart Aviation,IN,BLUE DART,1,0,0,0,25.33,3,0,0,7,5518,0
+BDG,,Aviation Bridge Ltd,IL,BULLDOG,1,0,0,0,25.00,2,0,0,,,
+BDI,,Benair,DK,BIRDIE,1,0,0,0,31.00,7,0,0,,,
+BDR,J4,BADR Airlines,SD,BADR AIR,1,1,0,0,22.20,2,2,0,11,2940,2058
+BDS,,South Asian Airlines,BD,SOUTH ASIAN,1,0,0,0,5.44,0,0,0,,,
+BDV,,Aberdair Aviation,KE,ABERDAV,1,0,0,0,25.89,5,0,0,,,
+BEC,,State Air Company Berkut,KZ,,1,0,0,0,12.20,1,0,0,,,
+BEE,BE,flybe,GB,JERSEY,1,0,1,0,,,,,,,
+BEK,Z9,Bek Air,KZ,BEKAIR,0,0,0,0,,,,,,,
+BEL,SN,Brussels Airlines,BE,BEE-LINE,1,0,1,0,,,,,,,
+BER,AB,Air Berlin,DE,AIR BERLIN,0,1,0,0,,,,,,,
+BES,W4,Aero Services Executive,FR,BIRD EXPRESS,1,1,0,0,,,,,,,
+BEZ,,Kingfisher Air Services,US,SEA BREEZE,1,1,0,0,,,,,,,
+BFD,,Bertelsmann AG,DE,MEDIA JET,1,0,0,0,6.00,0,0,0,,,
+BFF,,Air Nunavut,CA,AIR BAFFIN,1,0,0,0,39.45,11,0,0,,,
+BFG,,Bear Flight,SE,BEARFLIGHT,1,0,0,0,,,,,,,
+BFL,,Buffalo Airways,CA,BUFFALO,1,0,0,0,52.12,17,9,0,2,599,0
+BFO,,Bombardier Inc,CA,BAKHTAR,1,0,0,0,10.86,0,0,0,,,
+BFY,,Bestfly,AO,MWANGO BEST,1,0,0,0,20.12,3,0,0,,,
+BGA,,Airbus Transport International,FR,BELOUGA,1,0,0,0,19.17,1,0,0,,,
+BGB,,Big Bend Community College,US,BIG BEND,1,0,0,0,33.00,1,0,0,,,
+BGC,,Good Jet,CN,YANDU,1,0,0,0,9.00,0,0,0,,,
+BGF,,28th Air Detachment,BG,BULGARIAN,1,1,0,0,,,,,,,
+BGH,8H,BH Air,BG,BALKAN HOLIDAYS,1,1,0,1,30.50,1,0,0,20,20,574
+BGL,A8,Benin Golf Air,BJ,BENIN GOLF,0,0,0,0,,,,,,,
+BGM,,Ak Bars Aero,RU,BUGAVIA,0,1,0,0,,,,,,,
+BGN,,Budget Lines,TH,SKYBUDDY,1,0,0,0,41.00,3,0,0,,,
+BGT,,Bergen Air Transport,NO,BERGEN AIR,0,0,0,0,,,,,,,
+BGY,,Bingo Airways,PL,SKIMMER,1,1,0,0,,,,,,,
+BHA,,Buddha Air,NP,BUDDHA AIR,1,1,0,0,23.50,2,0,0,11,22316,200
+BHD,,Bangkok Helicopter Services,TH,BANGKOK DUSIT,1,0,0,0,8.50,0,0,0,,,
+BHL,,Bristow Helicopters,GB,BRISTOW,1,0,0,0,7.21,0,0,0,,,
+BHN,,Bristow Helicopters,NG,BRISTOW HELICOPTERS,1,0,0,0,12.58,2,0,0,,,
+BHP,4T,Belair Airlines,CH,BELAIR,1,1,0,0,,,,,,,
+BHR,,Bighorn Airways,US,BIGHORN AIR,1,0,0,0,36.00,12,0,0,,,
+BHS,UP,Bahamasair,BS,BAHAMAS,1,1,1,1,17.00,0,0,0,29,10501,7994
+BHT,,Bright Air,NL,BRIGHTAIR,0,1,0,0,,,,,,,
+BIA,,Bohlke International Airways,VI,BOHLKE,1,0,0,0,28.44,5,0,0,,,
+BIB,,Michelin Air Services,FR,,1,0,0,0,4.67,0,0,0,,,
+BIC,,Alphaland Aviation,PH,BALESIN,1,0,0,0,20.20,2,0,0,,,
+BIE,DR,Air Méditerranée,FR,MEDITERRANEE,0,1,0,0,,,,,,,
+BIG,,Big Island Air,US,BIG ISLE,1,0,0,0,24.00,1,0,0,,,
+BIH,,British International Helicopters,GB,BRINTEL,1,0,0,0,25.29,4,0,0,,,
+BIL,,Bilair Flight Centre ApS,DK,BILAIR,1,0,0,0,18.60,1,0,0,,,
+BJK,,Atlantic Airlines,US,BLACKJACK,1,0,0,0,,,,,,,
+BJN,,Beijing Airlines,CN,AIR JINGHUA,1,0,0,0,8.50,0,0,0,,,
+BJU,,Aerojet Ltd,UA,JET EXPRESS,1,0,0,0,35.00,1,0,0,,,
+BKA,,Bankair,US,BANKAIR,1,0,0,0,38.00,5,0,0,,,
+BKL,,Barkol Aviakompania,RU,BARCOL,1,0,0,0,29.27,21,0,0,,,
+BKM,,Advisors Aviation LLC,US,CARDINAL,1,0,0,0,15.00,0,0,0,,,
+BKO,,Briko Air Services,TT,BRIKO,1,0,0,0,40.00,1,0,0,,,
+BKP,PG,Bangkok Airways,TH,BANGKOK AIR,1,1,1,1,17.00,0,0,0,26,45960,21666
+BKT,,TAB Charters,ZA,BLACKTAIL,1,0,0,0,33.50,2,0,0,,,
+BLA,0B,Blue Air,RO,BLUE AIR,1,0,0,0,18.57,2,0,0,,,
+BLB,,Blue Bird Aviation,SD,BLUEBIRD SUDAN,1,0,0,0,29.50,2,0,0,,,
+BLC,,Bellesavia,BY,BELLESAVIA,1,0,0,0,32.86,7,0,0,,,
+BLE,,Executive Air Services LLC,US,BLUEWATER,1,0,0,0,28.00,1,0,0,,,
+BLF,KF,Blue1,FI,BLUEFIN,0,1,0,0,,,,,,,
+BLJ,,Bluelink Jets AB,SE,BLUEJET,1,0,0,0,12.50,0,0,0,,,
+BLL,,Baltic Airlines,RU,BALTIC AIRLINES,1,0,0,0,41.00,3,0,0,,,
+BLN,,Belton Air,ZA,BELTON,1,0,0,0,12.00,0,0,0,,,
+BLO,,Belogorie,RU,BELOGORIE,1,0,0,0,43.00,1,0,0,,,
+BLR,DH,Atlantic Coast Airlines,US,BLUE RIDGE,0,1,0,0,,,,,,,
+BLU,,Solutions Air Charter,US,BLUEGRASS,1,0,0,0,38.33,3,0,0,,,
+BLV,B3,Bellview Airlines,NG,BELLVIEW AIRLINES,0,1,0,0,,,,,,,
+BLW,,Wermslandsflyg AB,SE,BLUESTAR,1,0,0,0,39.67,3,0,0,,,
+BLX,6B,TUI fly Nordic,SE,BLUESCAN,1,1,0,0,,,,,,,
+BLZ,,Aero Barloz SA de CV,MX,AEROLOZ,1,0,0,0,14.00,0,0,0,,,
+BMG,,Image Air Charter Ltd,CA,BOOMERANG,1,0,0,0,11.22,1,0,0,,,
+BMJ,CH,Bemidji Aviation,US,BEMIDJI,1,0,0,0,41.00,17,0,0,,,
+BML,BH,Bismillah Airlines,BD,BISMILLAH,1,0,0,0,46.50,2,0,0,,,
+BMM,8A,Atlas Blue,MA,ATLAS BLUE,0,1,0,0,,,,,,,
+BMR,BM,Flybmi,GB,MIDLAND,0,0,0,0,,,,,,,
+BMS,0B,Blue Air,RO,BLUE MESSENGER,0,1,1,1,,,,,,,
+BMW,,BMW AG,DE,BMW-FLIGHT,1,0,0,0,12.00,0,0,0,,,
+BNA,,Bun Air Corp,US,BUN AIR,1,0,0,0,19.40,1,0,0,,,
+BND,,Babcock MCS Offshore Ltd,GB,BOND,1,0,0,0,6.13,0,0,0,,,
+BNJ,,ASL - Air Service Liege,BE,JET BELGIUM,1,0,0,0,13.96,4,0,0,,,
+BNT,,Ben Air,SD,BENTIU AIR,1,0,0,0,38.50,2,0,0,,,
+BOA,,Boniair,MK,KUMANOVO,1,0,0,0,,,,,,,
+BOC,,Aerobona SA de CV,MX,AEROBONA,1,0,0,0,4.00,0,0,0,,,
+BOE,,Boeing,US,BOEING,1,0,0,0,20.00,4,0,0,,,
+BOG,,Live Oak Banking Company,US,BIRD DOG,1,0,0,0,2.33,0,0,0,,,
+BOH,,Air Bohemia,CZ,BOHEMIA,1,0,0,0,30.17,4,0,0,,,
+BOI,PR,2GO,PH,ABAIR,1,0,0,0,,,,,,,
+BOL,2L*,TAB Airlines,BO,BOL,1,0,0,0,37.50,2,0,0,,,
+BON,JA,B&H Airlines,BA,BH AIRLINES,0,1,0,0,,,,,,,
+BOO,,Bookajet,GB,BOOKAJET,1,0,0,0,12.50,0,0,0,,,
+BOS,LV,OpenSkies,GB,MISTRAL,1,1,0,0,,,,,,,
+BOT,BP,Air Botswana,BW,BOTSWANA,1,0,1,0,,,,,,,
+BOU,BO,Bouraq Indonesia Airlines,ID,BOURAQ,0,0,0,0,,,,,,,
+BOV,OB,Boliviana de Aviación,BO,BOLIVIANA,1,1,1,1,21.73,3,2,0,20,36330,3715
+BOX,,AeroLogic,DE,GERMAN CARGO,1,0,0,0,7.33,0,0,0,,,
+BPA,BV,Blue Panorama Airlines,IT,BLUE PANORAMA,1,1,1,1,28.00,1,0,0,38,1267,6680
+BPO,,Bundespolizei Flugdienst,DE,PIROL,1,0,0,0,18.35,12,0,0,,,
+BPS,RP,BASe,HU,BASE,1,1,0,0,31.00,3,0,0,2,0,879
+BRB,B7,BRA Transportes Aéreos,BR,BRA-TRANSPAEREOS,0,1,0,0,,,,,,,
+BRG,8E,Bering Air,US,BERING AIR,1,0,0,0,18.81,12,0,0,6,26331,0
+BRH,,Star Air Cargo,ZA,BRIGHTSTAR,1,0,0,0,31.75,4,0,0,,,
+BRL,,TopBrass Aviation,NG,BRASS LINE,1,0,0,0,15.00,0,0,0,,,
+BRM,,Top Helicopteros SL,ES,,1,0,0,0,20.00,0,0,0,,,
+BRO,,2Excel Aviation,GB,BROADSWORD,1,0,0,0,39.45,19,0,0,,,
+BRP,,AeroBratsk,RU,AEROBRA,1,0,0,0,39.50,8,0,0,2,40,0
+BRQ,UZ,Buraq Air,LY,BURAQAIR,1,1,0,0,,,,,,,
+BRS,,Brazilian Air Force,BR,BRAZILIAN AIR FORCE,1,0,0,0,26.68,317,0,0,,,
+BRT,TH,BA Connect,GB,BRITISH,0,1,0,0,,,,,,,
+BRU,B2,Belavia,BY,BELARUS AVIA,1,1,1,1,8.08,0,1,0,51,52,26835
+BRX,,Buffalo Express Airlines,US,BUFF EXPRESS,0,0,0,0,,,,,,,
+BRY,,Burundaiavia,KZ,BURAIR,1,0,0,0,31.00,20,0,0,,,
+BSH,,Beijing Capital Helicopter General Aviation Svs,CN,CAPITAL ROTOR,1,0,0,0,4.84,0,0,0,,,
+BSK,LL*,Miami Air International,US,BISCAYNE,1,0,0,0,12.00,0,0,0,,,
+BSX,5B*,Bassaka Air,KH,BASSAKA,1,1,0,0,23.00,0,0,0,3,732,210
+BTH,,Baltijas Helikopters,LV,BALTIJAS HELICOPTERS,1,0,0,0,5.00,0,0,0,,,
+BTI,BT,Air Baltic,LV,AIRBALTIC,1,1,1,1,2.00,0,1,0,59,0,43045
+BTK,ID,Batik Air,ID,BATIK,1,1,1,1,4.25,0,3,0,35,94297,1692
+BTN,,Bhutan Airlines,BT,BHUTAN AIR,1,1,0,0,,,,,,,
+BTP,,Kingcrete Association Pvt Ltd,PK,BAHRIA TOWN,1,0,0,0,11.00,0,0,0,,,
+BTQ,,Boutique Air Inc,US,BOUTIQUE,1,0,0,0,15.65,0,0,0,,,
+BTS,,Aerolineas Nacionales Albatros S.A. de C.V.,MX,,1,0,0,0,48.33,3,0,0,,,
+BTZ,,Bristow US LLC,US,BRISTOW GROUP,1,0,0,0,15.96,1,0,0,,,
+BUB,ZB,Air Bourbon,FR,BOURBON,0,0,0,0,,,,,,,
+BUC,H6,Bulgarian Air Charter,BG,BULGARIAN CHARTER,1,0,0,0,28.00,2,0,0,,,
+BUG,RT,UVT Aero,RU,TAT-JET,1,1,0,0,,,,,,,
+BUR,,Air Bucharest,RO,AIR BUCHAREST,1,0,0,0,25.00,1,0,0,,,
+BVG,,BVG Viajes SA de CV,MX,BEEVEEGEE VIAJES,1,0,0,0,21.50,1,0,0,,,
+BVL,LB,Bul Air,BG,BULGARY,1,0,0,1,23.00,0,0,0,,,
+BVN,,Baron Aviation Services,US,SHOW-ME,1,0,0,0,29.68,30,0,0,,,
+BVR,,ACM Air Charter Luftfahrt,DE,BAVARIAN,1,0,0,0,7.56,0,0,0,,,
+BVT,LB,Berjaya Air,MY,BERJAYA,1,0,0,0,14.67,0,0,0,,,
+BWA,BW,Caribbean Airlines,TT,CARIBBEAN AIRLINES,1,1,1,1,5.00,0,1,0,20,16388,18281
+BWG,QW,Blue Wings,DE,BLUE WINGS,0,1,0,0,,,,,,,
+BWI,,Blue Wing Airlines,SR,BLUE TAIL,1,0,0,0,35.80,3,0,0,,,
+BWJ,,HK Bellawings,HK,BELLAWING,1,0,0,0,8.27,0,0,0,,,
+BXR,,Redding Aero Enterprises Inc,US,BOXER,1,0,0,0,33.47,13,0,0,,,
+BXX,,Badlands Aviation LLC,US,STRONGBOX,1,0,0,0,2.67,0,0,0,,,
+BYA,,Berry Aviation,US,BERRY,1,0,0,0,30.32,15,0,0,,,
+BYC,,Cambodia Bayon Airlines,KH,BAYON AIR,1,1,0,0,5.50,0,0,0,5,1800,165
+BZE,,Zenith Aviation Ltd,GB,ZENSTAR,1,0,0,0,6.22,0,0,0,,,
+BZH,DB,Brit Air,FR,BRITAIR,0,0,0,1,,,,,,,
+BZS,,Aero Biniza,MX,BINIZA,1,0,0,0,17.00,0,0,0,,,
+CAC,5C,Conquest Airlines,US,CONQUEST AIR,0,0,0,0,,,,,,,
+CAD,,Cardig Air,ID,CARDIG AIR,1,1,0,0,34.00,1,1,0,5,4840,1177
+CAI,XC,Corendon Airlines,TR,CORENDON,1,0,1,0,,,,,,,
+CAJ,,Air Caraibes Atlantique,FR,CAR LINE,0,0,0,0,,,,,,,
+CAL,CI,China Airlines,TW,DYNASTY,1,1,1,1,10.20,0,1,0,97,1347,85581
+CAO,,Air China Cargo,CN,AIRCHINA FREIGHT,1,0,0,0,13.07,3,0,0,,,
+CAT,,Copenhagen Airtaxi A/S,DK,AIRCAT,1,0,0,0,28.31,8,0,0,,,
+CAV,MO,Calm Air,CA,CALM AIR,1,0,0,0,28.60,9,0,0,13,11892,0
+CAW,MN,Comair,ZA,COMMERCIAL,1,1,1,1,4.00,0,0,0,13,40567,3068
+CAY,KX,Cayman Airways,KY,CAYMAN,1,0,1,0,,,,,,,
+CAZ,,Cat Aviation,CH,EUROCAT,1,0,0,0,11.67,1,0,0,,,
+CBA,,UCL - Urad pro civilni letectvi CR,CZ,CALIBRA,1,0,0,0,23.00,1,0,0,,,
+CBG,GX,GX Airlines,CN,GREEN CITY,1,0,1,1,6.19,0,0,0,,,
+CBH,,Corporate Eagle Management Services Inc,US,CLUB HOUSE,1,0,0,0,18.09,0,0,0,,,
+CBJ,JD,Capital Airlines,CN,CAPITAL JET,1,0,1,1,6.10,0,1,0,,,
+CBM,,Dragonfly Aviation Services LLP,GB,CAMBRIAN,1,0,0,0,19.60,2,0,0,,,
+CBS,,Columbus Avia,UA,AIR COLUMBUS,1,0,0,0,27.00,1,0,0,,,
+CBT,,Catalina Flying Boats,US,CATALINA AIR,1,0,0,0,24.50,1,0,0,,,
+CBV,,Aereo Cabo SA de CV,MX,CABOAEREO,1,0,0,0,21.00,0,0,0,,,
+CCA,CA,Air China,CN,AIR CHINA,1,1,1,1,8.01,0,2,0,178,354487,84486
+CCC,CW,Air Cargo Global,SK,GLOBAL CARGO,1,1,0,0,,,,,,,
+CCD,,Dalian Airlines,CN,XIANGJIAN,1,0,0,0,7.00,0,0,0,,,
+CCF,,CCF Manager Airline,DE,,1,0,0,0,39.00,1,0,0,,,
+CCG,,Central Connect Airlines,CZ,JOBAIR,0,1,0,0,,,,,,,
+CCH,,Chilchota Taxi Aereo SA de CV,MX,CHILCHOTA,1,0,0,0,27.00,1,0,0,,,
+CCK,,Flight Trac,US,CABLE CHECK,1,0,0,0,,,,,,,
+CCM,XK,Air Corsica,FR,CORSICA,1,1,1,1,13.00,0,0,0,30,20326,155
+CCO,,China Air Cargo,CN,AVIC CARGO,1,0,0,0,1.00,0,0,0,,,
+CCQ,,Mustang Aviation,US,CAP CITY,1,0,0,0,42.20,5,0,0,,,
+CCV,,Center for Corporate Helicopters,MX,,1,0,0,0,39.00,1,0,0,,,
+CDA,,Aerocardal,CL,AEROCARDAL,1,0,0,0,18.27,4,0,0,,,
+CDC,GJ,Loong Air,CN,LOONG AIR,1,1,1,1,4.95,2,0,0,46,24188,1186
+CDG,SC,Shandong Airlines,CN,SHANDONG,1,1,1,1,7.04,0,0,0,70,153143,10950
+CDN,,Canadian Helicopters Ltd,CA,CANADIAN,1,0,0,0,31.15,62,0,0,,,
+CDO,OT,Tchadia Airlines,TD,TCHADIA,1,0,0,0,8.00,0,0,0,,,
+CDV,,Aviakompaniya SKOL,RU,SKOL,1,0,0,0,9.35,10,0,0,,,
+CDX,,Cedar Executive,LB,CEDAREX,1,0,0,0,4.00,0,0,0,,,
+CEB,5J,Cebu Pacific,PH,CEBU,1,0,1,0,,,,,,,
+CEC,,China Eastern Business Aviation Services Co.,CN,,1,0,0,0,7.93,0,0,0,,,
+CEF,,Czech Air Force,CZ,CZECH AIR FORCE,1,0,0,0,20.07,23,0,0,,,
+CEH,,Central Helicopter Service,JP,,1,0,0,0,14.88,2,0,0,,,
+CEL,,CEIBA Intercontinental,GQ,CEIBA LINE,1,1,0,0,22.00,2,0,0,16,2673,2801
+CES,MU,China Eastern Airlines,CN,CHINA EASTERN,1,1,1,1,7.32,0,1,0,201,527187,106538
+CEV,,DGA Essais en vol,FR,CENTEV,1,0,0,0,,,,,,,
+CEY,Y2,ACSA - Air Century,DO,CENTURYFLIGHT,1,0,0,0,17.00,0,0,0,,,
+CFA,,China Flying Dragon General Aviation Co,CN,FEILONG,1,0,0,0,17.08,14,0,0,,,
+CFC,,Royal Canadian Air Force,CA,CANFORCE,1,0,0,0,28.64,159,0,0,,,
+CFD,,Cranfield University,GB,AERONAUT,1,0,0,0,34.67,2,0,0,,,
+CFE,CJ*,BA CityFlyer,GB,FLYER,1,1,0,0,24.00,0,0,0,39,9294,22401
+CFF,,Aerofan,ES,AEROFAN,1,0,0,0,,,,,,,
+CFG,DE,Condor,DE,CONDOR,1,1,1,1,21.55,6,0,0,119,13,34804
+CFH,,Careflight Ltd,AU,CARE FLIGHT,1,0,0,0,22.00,8,0,0,,,
+CFI,,CAAC Flight Inspection Center,CN,CHINA JET,1,0,0,0,11.28,2,0,0,,,
+CFR,,California Department of Forestry and Fire Protect,US,CALFIRE,1,0,0,0,54.12,24,0,0,,,
+CFS,,Empire Airlines,US,EMPIRE AIR,1,0,0,0,29.39,50,0,0,,,
+CFV,,Calafia Airlines,MX,CALAFIA,1,0,0,0,19.44,1,0,0,,,
+CGA,8Z,Congo Airways,CD,CONGRESSIONAL,1,0,1,1,10.00,0,0,0,,,
+CGB,,Comercializacion Industrial Global SA de CV,MX,COMGLOB,1,0,0,0,16.50,0,0,0,,,
+CGF,,Cargo Air,BG,CLEVER,1,0,0,0,27.25,5,0,0,,,
+CGH,GT,Air Guilin,CN,WELKIN,1,0,1,1,3.14,0,0,0,,,
+CGK,C4,Click Airways,AE,CLICK AIR,0,1,0,0,,,,,,,
+CGN,,Air Changan,CN,CHANG AN,1,0,0,1,7.10,0,0,0,24,4380,0
+CGP,,Capital Aircraft Group Bvba,BE,CAPGROUP,1,0,0,0,25.00,1,0,0,,,
+CGR,,Compagnia Generale Ripreseaeree,IT,COMPRIP,1,0,0,0,32.62,6,0,0,,,
+CGZ,,Colorful Guizhou Airlines,CN,COLORFUL,1,0,0,0,3.67,0,0,0,,,
+CHA,,Central Flying Service Inc,US,CHARTER CENTRAL,1,0,0,0,32.86,5,0,0,,,
+CHB,PN,West Air,CN,WEST CHINA,1,1,1,1,6.03,0,0,0,44,45135,518
+CHD,,223rd State Airline Flight Unit,RU,CHKALOVSK-AVIA,1,0,0,0,32.12,26,0,0,,,
+CHH,HU,Hainan Airlines,CN,HAINAN,1,1,1,1,6.11,0,0,0,100,207058,13015
+CHI,,Cougar Helicopters Inc,CA,COUGAR,1,0,0,0,11.64,0,0,0,,,
+CHJ,,Star Jet Business Aviation,CN,SHINING,1,0,0,0,9.50,0,0,0,,,
+CHN,,Channel Islands Aviation Inc,US,CHANNEL,1,0,0,0,24.75,1,0,0,,,
+CHP,6A,Aviacsa,MX,AVIACSA,0,0,0,0,,,,,,,
+CIG,,Sirius Aero,RU,SIRIUS AERO,1,0,0,0,20.38,4,0,0,,,
+CIJ,,C&I Corporation,RO,NIKOLAUS,1,0,0,0,11.00,0,0,0,,,
+CIK,Y6,AB Aviation,KM,COMOROS AIRLINE,1,1,0,0,,,,,5,,
+CIL,CF*,CIAF Air Operation,EG,CIAF LEASING,1,0,0,0,20.00,0,0,0,,,
+CIM,QA,Cimber Sterling,DK,CIMBER,0,1,0,0,,,,,,,
+CIN,C7,Cinnamon Air,LK,CINNAMON,1,0,0,0,18.00,0,0,0,2,336,0
+CIS,,Cat Island Air,BS,CAT ISLAND,1,0,0,0,40.00,1,0,0,,,
+CIU,A2,Cielos Airlines,PE,CIELOS,0,1,0,0,,,,,,,
+CJA,C6,CanJet,CA,CANJET,0,1,0,0,,,,,,,
+CJE,,Custom Jet Charters LLC,US,CUSTOM JET,1,0,0,0,16.00,0,0,0,,,
+CJR,,Caverton Helicopters,NG,CAVERTON AIR,1,0,0,0,5.39,0,0,0,,,
+CJT,W8,Cargojet Airways,CA,CARGOJET,1,1,1,1,28.38,22,0,0,15,9146,522
+CJX,,Jiangxi Air,CN,AIR CRANE,1,0,0,0,4.60,0,0,0,,,
+CKK,CK,China Cargo Airlines,CN,CARGO KING,1,1,1,1,10.62,0,0,0,7,0,910
+CKM,,BKS Air,ES,RIVAFLECHA,1,0,0,0,46.00,1,0,0,,,
+CKS,K9*,Kalitta Air,US,CONNIE,1,1,0,1,21.83,16,1,0,8,30,210
+CLD,,Clowes Estates Ltd,GB,CLOWES,1,0,0,0,7.00,0,0,0,,,
+CLF,,Centreline AV Ltd,GB,CLIFTON,1,0,0,0,10.50,1,0,0,,,
+CLG,CE,Chalair,FR,CHALLAIR,1,1,0,0,36.50,2,0,0,17,5072,640
+CLH,CL,Lufthansa CityLine,DE,HANSALINE,1,1,1,1,10.27,0,0,0,102,26417,85414
+CLO,,Challenge Aero,UA,,1,0,0,0,7.57,0,0,0,,,
+CLW,C0,Centralwings,PL,CENTRALWINGS,0,1,0,0,,,,,,,
+CLX,CV,Cargolux,LU,CARGOLUX,1,1,1,1,10.64,0,2,0,82,0,20197
+CLY,,Clay Lacy Aviation Inc,US,CLAY-LACY,1,0,0,0,17.83,13,0,0,,,
+CMP,CM,Copa Airlines,PA,COPA,1,1,1,1,8.50,0,0,0,76,1898,98182
+CMV,,Calima Aviacion,ES,CALIMA,1,0,0,0,52.00,2,0,0,,,
+CMX,,El Caminante Taxi Aereo SA de CV,MX,EL CAMINANTE,1,0,0,0,21.00,0,0,0,,,
+CNB,BO,Air Columbus,PT,AIR COLUMBUS,0,1,0,0,,,,,,,
+CNC,,Corporacion Aerea Cencor SA de CV,MX,CENCOR,1,0,0,0,10.00,0,0,0,,,
+CND,CD,Corendon Dutch Airlines,NL,DUTCH CORENDON,1,1,0,0,,,,,,,
+CNF,PM,Canary Fly,ES,CANARY,1,1,0,1,16.00,0,0,0,8,9674,132
+CNK,,SunWest Aviation,CA,CHINOOK,1,0,0,0,19.70,7,0,0,,,
+CNM,,Air China Inner Mongolia,CN,MENGYUAN,1,0,0,0,7.43,0,0,0,,,
+CNO,BU,SAS Braathens,NO,SCANOR,0,1,0,0,,,,,,,
+CNS,,Alpha Flying Inc - PlaneSense,US,CHRONOS,1,0,0,0,6.02,0,0,0,,,
+CNV,,US Navy,US,CONVOY,1,0,0,0,,,,,,,
+COA,CO,Continental Airlines,US,CONTINENTAL,0,1,0,0,,,,,,,
+COB,,Cotair,BJ,COBRA JET,1,0,0,0,39.00,1,0,0,,,
+COL,,SC Aviation Inc,US,COLONY,1,0,0,0,23.05,8,0,0,,,
+COM,OH,Comair,US,COMAIR,0,1,0,0,,,,,,,
+COO,,Cove Aviation Partners,US,COVE,1,0,0,0,10.00,0,0,0,,,
+COW,,COWI A/S,DK,COWI,1,0,0,0,40.33,3,0,0,,,
+CPA,CX,Cathay Pacific,HK,CATHAY,1,1,1,1,8.05,0,4,0,82,0,113726
+CPC,CP,Canadian Pacific Air Lines,CA,EMPRESS,0,1,0,0,,,,,,,
+CPD,,Capital Airlines Limited,KE,CAPITAL DELTA,1,0,0,0,41.00,2,0,0,,,
+CPG,,Corporacion Aero Angeles SA de CV,MX,CORPORANG,1,0,0,0,11.50,0,0,0,,,
+CPI,,Compagnia Aeronautica Italiana -CAI,IT,AIRCAI,1,0,0,0,14.20,0,0,0,,,
+CPN,,Caspian Airlines,IR,CASPIAN,1,1,0,0,25.50,7,1,0,33,9349,2179
+CPR,EF,AerCaribe Peru,PE,CARIBE-PERU,1,0,0,0,31.50,2,0,0,,,
+CPT,,Corporate Air,US,AIR SPUR,1,0,0,0,29.81,32,0,0,,,
+CPV,,Air Corporate Srl,IT,AIRCORPORATE,1,0,0,0,11.50,1,0,0,,,
+CQH,,Spring Airlines,CN,AIR SPRING,1,1,0,1,5.36,0,0,0,82,61210,26104
+CQN,,Chongqing Airlines,CN,CHONG QING,1,0,0,0,6.36,0,0,0,,,
+CRC,QC,Camair-Co,CM,CAMAIRCO,1,1,1,1,10.00,0,0,0,18,3753,4127
+CRK,HX,Hong Kong Airlines,HK,BAUHINIA,1,1,1,1,8.67,0,0,0,48,0,40924
+CRL,SS,Corsair International,FR,CORSAIR,1,0,1,0,,,,,,,
+CRP,,Aerotaxis Corporativo SA de CV,MX,AEROTRANSCORP,1,0,0,0,15.00,0,0,0,,,
+CRQ,YN,Air Creebec,CA,CREE,1,0,0,0,34.00,9,2,0,14,10580,0
+CRV,,Acropolis Aviation Ltd,GB,ACROPOLIS,1,0,0,0,6.00,0,0,0,,,
+CSA,OK,Czech Airlines,CZ,CSA-LINES,1,0,1,0,,,,,,,
+CSC,3U,Sichuan Airlines,CN,SI CHUAN,1,1,1,1,6.33,0,1,0,96,156330,10398
+CSH,FM,Shanghai Airlines,CN,SHANGHAI AIR,1,1,1,1,7.30,0,0,0,84,96891,15227
+CSJ,,Castle Aviation,US,CASTLE,1,0,0,0,24.50,5,0,0,,,
+CSM,,CSM Servicios SA de CV,MX,CSM SERVICIOS,1,0,0,0,27.00,1,0,0,,,
+CSN,CZ,China Southern Airlines,CN,CHINA SOUTHERN,1,1,1,1,7.67,0,1,0,199,589754,100794
+CSQ,II,IBC Airways,US,CHASQUI,1,1,0,0,32.09,10,0,0,5,0,196
+CSS,O3,SF Airlines,CN,SHUN FENG,1,1,1,1,23.88,32,0,0,22,15074,2095
+CST,,Shoreline Aviation,US,SHORELINE,1,0,0,0,16.83,2,0,0,,,
+CSV,,Coastal Aviation,TZ,COASTAL TRAVEL,1,0,0,0,15.30,0,0,0,,,
+CSX,,Choice Airways Inc,US,CHOICE AIR,1,0,0,0,29.00,1,0,0,,,
+CSZ,ZH,Shenzhen Airlines,CN,SHENZHEN AIR,1,1,1,1,7.50,0,0,0,75,210206,16359
+CTA,,Aerolynx,US,CHAR-TRAN,1,0,0,0,34.27,12,0,0,,,
+CTE,,Atlanta Air Charter Inc,US,CORNERSTONE,1,0,0,0,34.20,5,0,0,,,
+CTG,,Canadian Coast Guard,CA,CANADIAN COAST GUARD,1,0,0,0,4.41,0,0,0,,,
+CTJ,,Tianjin Air Cargo,CN,TIANJIN CARGO,1,0,0,0,21.75,1,0,0,,,
+CTK,,East Midlands Helicopters,GB,COSTOCK,1,0,0,0,17.00,3,0,0,,,
+CTL,,Central Air Southwest,US,CENTRAL COMMUTER,1,0,0,0,41.00,1,7,1,,,
+CTM,,Military Air Transport Command,FR,COTAM,1,0,0,0,25.84,286,0,0,,,
+CTN,OU,Croatia Airlines,HR,CROATIA,1,1,1,1,14.33,0,0,0,35,7408,18100
+CTR,,Aerolineas Centauro SA,MX,CENTAURO,1,0,0,0,40.00,1,0,0,,,
+CTV,QG,Citilink Indonesia,ID,SUPERGREEN,1,1,0,0,5.84,0,0,0,39,72915,699
+CUA,KN,China United Airlines,CN,LIANHANG,1,1,0,0,6.43,0,0,0,51,47212,692
+CUB,CU,Cubana,CU,CUBANA,1,1,1,1,28.38,4,1,1,42,10375,6114
+CUH,UQ,Urumqi Air,CN,LOULAN,1,0,1,1,3.33,0,0,0,16,5906,0
+CUK,,New Central Airservice,JP,CHUKKA,1,0,0,0,10.50,0,0,0,,,
+CUL,,Coulson Aviation Inc,US,COULSON,1,0,0,0,39.33,3,0,0,,,
+CUO,,Aerocuahonte,MX,CUAHONTE,1,0,0,0,24.75,1,0,0,,,
+CVA,3C,Air Chathams,NZ,CHATHAM,1,0,0,0,39.17,6,0,0,6,1011,0
+CVJ,,Comercializacion de Aviacion Ejecutiva SA de CV,MX,COMEREJECUTIVA,1,0,0,0,35.00,1,0,0,,,
+CVK,,Cavok Air,UA,CARGO LINE,1,0,0,0,51.17,6,1,0,,,
+CVO,,Centervol S A,ES,CENTERVOL,1,0,0,0,15.00,0,0,0,,,
+CVR,,Chevron USA Inc,US,CHEVRON,1,0,0,0,5.69,0,0,0,,,
+CVS,,Convers Avia Airline,RU,CONVERS,1,0,0,0,28.49,29,0,0,,,
+CVU,,Grand Canyon Airlines,US,CANYON VIEW,1,0,0,0,23.62,5,0,0,,,
+CVV,,Comeravia,VE,COMERAVIA,1,0,0,0,35.25,4,0,0,,,
+CWG,,Wing Aviation Charter Services LLC,US,CLEAR WING,1,0,0,0,16.74,1,0,0,,,
+CWM,,Air Marshall Islands,MH,AIR MARSHALLS,1,0,0,0,28.00,3,0,0,,,
+CWR,,Beijing City International Jet,CN,CITY WORLD,1,0,0,0,9.00,0,0,0,,,
+CWX,,Crow Executive Air,US,CROW EXPRESS,1,0,0,0,40.50,2,0,0,,,
+CWY,,Woodgate Executive Air Charter,GB,CAUSEWAY,1,0,0,0,42.25,4,0,0,,,
+CXA,MF,Xiamen Airlines,CN,XIAMEN AIR,1,1,1,1,6.99,0,1,0,80,180949,23821
+CXB,CS,Comlux Aruba,AW,STARLUX,1,0,0,0,15.00,0,0,0,,,
+CXE,9Q,Caicos Express Airways,TC,CAICOS,1,1,0,0,40.67,3,0,0,6,4320,842
+CXT,,Coastal Air Transport,VI,COASTAL,1,0,0,0,45.00,2,0,0,,,
+CYD,ZA,AccessAir,US,CYCLONE,0,0,0,0,,,,,,,
+CYL,CT,Alitalia Cityliner,IT,CITYLINER,1,1,0,1,8.67,0,0,0,52,22712,15479
+CYN,ZO,Colorful Yunnan General Aviation,CN,COLOR JET,1,0,0,0,4.00,0,0,0,,,
+CYO,,Air Transport Inc,US,COYOTE,1,0,0,0,31.67,7,0,0,,,
+CYP,CY,Cyprus Airways,CY,CYPRUS,1,0,1,1,21.00,0,0,0,,,
+CYZ,CF,China Postal Airlines,CN,CHINA POST,1,0,1,1,24.41,11,0,0,,,
+DAE,D5*,DHL Aero Expreso,PA,YELLOW,1,1,0,0,23.00,1,0,0,7,0,1466
+DAF,,Royal Danish Air Force,DK,DANISH AIRFORCE,1,0,0,0,30.44,83,0,0,,,
+DAH,AH,Air Algerie,DZ,AIR ALGERIE,1,1,1,1,14.67,0,1,0,84,34385,39574
+DAL,DL,Delta Air Lines,US,DELTA,1,1,1,1,13.08,32,16,0,289,910792,152257
+DAP,V5,Aerovias DAP,CL,DAP,1,0,0,0,34.82,10,0,0,,,
+DAT,D4,DART Ukrainian Airlines,UA,,0,1,0,0,,,,,,,
+DAU,D5,Dauair,DE,DAUAIR,0,1,0,0,,,,,,,
+DAV,,DANA,NG,DANA AIR,1,0,0,0,26.83,2,0,0,,,
+DBA,,Air Alpha Inc,US,DOUBLE-A,1,0,0,0,47.00,1,0,0,,,
+DBC,,Gemini Air Group Inc,US,DIAMOND BACK,1,0,0,0,20.33,2,0,0,,,
+DBR,5D,DutchBird,NL,DUTCHBIRD,0,1,0,0,,,,,,,
+DCF,,DC Aviation Al-Futtaim LLC,AE,DESERT STAR,1,0,0,0,10.20,0,0,0,,,
+DCS,,DC Aviation,DE,TWIN STAR,1,0,0,0,6.11,0,0,0,,,
+DCT,,Airtask Group,GB,AIRTASK,1,0,0,0,21.38,4,0,0,4,2112,0
+DDA,,D & D Aviation LLC,US,DUSTY,1,0,0,0,18.67,2,0,0,,,
+DEF,,AVDEF - Aviation Defense Service,FR,TIRPA,1,0,0,0,38.25,4,0,0,,,
+DEJ,,Dana Executive Jets,AE,,1,0,0,0,18.00,0,0,0,,,
+DEK,,AviaStar Air Company,BY,DEK AERO,1,0,0,0,45.00,1,0,0,,,
+DER,,Deer Jet,CN,DEER JET,1,1,0,0,7.62,0,0,0,76,84561,3856
+DES,,Servicios Aereos Especializados Destina SA de CV,MX,DESTINIA,1,0,0,0,17.00,0,0,0,,,
+DFC,,Aeropartner,CZ,DARK BLUE,1,0,0,0,11.30,0,0,0,,,
+DGX,,Dasnair SA,CH,DASNA,1,0,0,0,2.00,0,0,0,,,
+DHE,,DAP Helicopteros SA,CL,HELIDAP,1,0,0,0,38.57,7,0,0,,,
+DHK,D0,DHL Air,GB,WORLD EXPRESS,1,0,1,1,22.42,8,0,0,,,
+DHV,,DHL Aviation,ZA,WORLDSTAR,1,0,0,0,25.50,1,0,0,,,
+DHX,ES*,DHL International Aviation EEMEA,BH,DILMUN,1,0,1,1,35.83,6,1,0,,,
+DIG,OP,DAC International Airlines,GH,DAC AIR,1,0,0,0,19.00,0,0,0,,,
+DJE,,Durango-Jet SA de CV,MX,,1,0,0,0,37.00,1,0,0,,,
+DJR,,Desert Jet,US,DESERT FLIGHT,1,0,0,0,14.33,0,0,0,,,
+DJT,B0,La Compagnie,FR,DREAMJET,1,1,0,0,,,,,,,
+DJU,IV,Air Djibouti,DJ,AIR DJIB,1,1,0,0,,,,,,,
+DKE,,Jubilee Airways Limited,GB,DUKE,1,0,0,0,41.00,1,0,0,,,
+DKH,HO,Juneyao Air,CN,AIR JUNEYAO,1,1,1,1,5.71,0,0,0,66,70153,14984
+DKT,,Encore Air Cargo,US,DAKOTA,1,0,0,0,38.38,16,0,0,,,
+DLA,EN,Air Dolomiti,IT,DOLOMITI,1,1,1,1,8.33,0,0,0,46,0,24394
+DLC,,Dehong South Asian Airlines,CN,SOARCOPTER,1,0,0,0,7.33,0,0,0,,,
+DLH,LH,Lufthansa,DE,LUFTHANSA,1,1,1,1,8.08,0,3,0,216,93117,286362
+DLX,,Dreamline Aviation LLC,US,DREAMLINE,1,0,0,0,25.79,7,0,0,,,
+DLY,,Air Independence,DE,DAILY,1,0,0,0,13.40,0,0,0,,,
+DMF,,DMC Fly S.A. de C.V.,MX,,1,0,0,0,35.00,1,0,0,,,
+DMI,,Aeroservicios Dinamicos SA de CV,MX,AERODINAMICO,1,0,0,0,8.67,0,0,0,,,
+DNC,,Aerodynamics Malaga,ES,FLYINGOLIVE,1,0,0,0,31.00,1,0,0,,,
+DND,,El Dinder Aviation,SD,DINDER,1,0,0,0,32.50,2,0,0,,,
+DOC,,Norsk Luftambulanse,NO,HELIDOC,1,0,0,0,4.05,0,0,0,,,
+DOW,,Best Jets International Inc,US,DOWNTOWN,1,0,0,0,17.33,1,0,0,,,
+DPJ,,Delta Private Jets,US,JET CARD,1,0,0,0,15.59,1,0,0,,,
+DPS,,Alabama Law Enforcement Agency,US,BLUE-GRAY,1,0,0,0,44.77,12,0,0,,,
+DQA,,Maldivian,MV,SKY SURFER,1,1,0,0,30.00,3,0,0,16,11884,2286
+DRD,,Aereo Dorado SA de CV,MX,AEREO DORADO,1,0,0,0,24.00,0,0,0,,,
+DRK,KB,Druk Air,BT,ROYAL BHUTAN,1,1,0,0,5.50,0,0,0,11,0,3079
+DRL,,Omni Air Transport LLC,US,DRILLER,1,0,0,0,8.50,0,0,0,,,
+DRU,6R,ALROSA Air Company,RU,MIRNY,1,1,0,0,27.56,22,0,0,19,4056,244
+DRY,,Deraya Air Taxi,ID,DERAYA,1,0,0,0,26.67,2,2,1,,,
+DRZ,,PT Derazona Air Service,ID,DERAZONA,1,0,0,0,16.25,2,0,0,,,
+DSA,,Delta System-Air,CZ,DANBURY AIRWAYS,1,0,0,0,16.50,5,0,0,,,
+DSM,4M,LATAM Airlines Argentina,AR,LANAR,1,0,1,0,,,,,,,
+DSO,,Dassault Falcon Service,FR,DASSAULT,1,0,0,0,15.33,1,0,0,,,
+DTA,DT,TAAG Angola Airlines,AO,DTA,1,0,1,0,,,,,,,
+DTH,SF,Tassili Airlines,DZ,TASSILI AIR,1,1,1,1,9.10,0,0,0,23,3251,1134
+DTO,,Aerodesierto,CL,AERODESIERTO,1,0,0,0,40.00,1,0,0,,,
+DTR,DX*,Danish Air Transport,DK,DANISH,1,1,0,1,30.00,4,0,0,114,9814,4277
+DUB,,Dubai Air Wing,AE,DUBAI,1,0,0,0,16.12,1,0,0,,,
+DUK,,Luxembourg Air Rescue,LU,,1,0,0,0,17.38,1,0,0,,,
+DZR,,Kiewit Engineering Co,US,DOZER,1,0,0,0,7.20,0,0,0,,,
+EAF,,Electra Airways,BG,ELECTRA,1,0,0,0,25.50,1,0,0,,,
+EAK,,Euro-Asia Air,KZ,EAKAZ,1,0,0,0,28.80,11,0,0,,,
+EAL,2D,Eastern Airlines,US,,1,1,0,0,30.67,3,0,0,7,0,1677
+EAN,,Skypower Express Airways,NG,NIGERIA EXPRESS,1,0,0,0,24.00,1,0,0,,,
+EAO,,Elitavia San Marino SRL,SM,MARINO,1,0,0,0,14.00,0,0,0,,,
+EAQ,,Eastern Australia Airlines,AU,,1,1,0,0,16.00,0,1,0,30,23690,368
+EAT,,Air Transport Europe,SK,TRANS EUROPE,1,0,0,0,21.25,10,0,0,,,
+EAU,,Elitavia Ltd,MT,ELITE,1,0,0,0,7.42,0,0,0,,,
+EAV,,Elitavia,SI,ELITAVIA,1,0,0,0,10.00,0,0,0,,,
+EAW,,Walya Airways,ET,WALYA,1,0,0,0,20.00,0,0,0,,,
+EBC,,Aero Ejecutivo de Baja California SA de CV,MX,,1,0,0,0,40.00,1,0,0,,,
+EBE,,Minebea Aviation Co,TH,MINEBEA,1,0,0,0,9.00,0,0,0,,,
+ECC,,Eclair Aviation SRO,CZ,ECLAIR,1,0,0,0,8.00,0,0,0,,,
+ECD,,Ecotour S.A. de C.V.,MX,ECOTOUR,1,0,0,0,18.00,0,0,0,,,
+ECJ,,East Coast Jets Inc,US,EASTCOAST JET,1,0,0,0,24.57,3,0,0,,,
+EDC,,Air Charter Scotland,GB,SALTIRE,1,0,0,0,7.89,0,0,0,,,
+EDG,,Jet Edge,US,JET EDGE,1,0,0,0,16.96,6,0,0,,,
+EDV,,Endeavor Air,US,ENDEAVOR,1,0,0,1,10.80,0,0,0,,,
+EDW,WK,Edelweiss Air,CH,EDELWEISS,1,1,0,1,17.00,0,1,0,75,10,9512
+EEM,,Ejecutivo Aereo de Mexico S.A. de C.V.,MX,EJEAERMEX,1,0,0,0,13.00,0,0,0,,,
+EES,,Eagle Express d.o.o.,RS,EAGLE STAR,1,0,0,0,20.80,2,0,0,,,
+EEX,,Executive Express Aviation SA de CV,MX,,1,0,0,0,40.00,1,0,0,,,
+EEZ,GJ,Eurofly,IT,E-FLY,0,1,0,0,,,,,,,
+EFA,QE,Express Freighters Australia,AU,EXPRESS FREIGHT,1,0,0,0,29.33,5,0,0,,,
+EFB,,Emerald Jet,LB,EMERALD JETS,1,0,0,0,23.00,0,0,0,,,
+EFD,,EFD Eisele Flugdienst GmbH,DE,EVER FLIGHT,1,0,0,0,9.90,1,0,0,,,
+EFF,,Westair Aviation,IE,EMERALD,1,0,0,0,13.50,0,1,1,,,
+EFG,,Elifriulia Srl,IT,ELIFRIULIA,1,0,0,0,12.00,3,0,0,,,
+EFT,,ExecuFlight,US,ZIPLINE,1,0,0,0,29.38,6,0,0,,,
+EFX,8E*,Easy Fly Express,BD,EASY EXPRESS,1,0,0,0,33.00,1,0,0,,,
+EGL,,Capital Air Charter Ltd,GB,PRESTIGE,1,0,0,0,41.00,1,0,0,,,
+EGU,,Eagle Air,UG,AFRICAN EAGLE,1,1,0,0,30.25,3,1,0,10,319,138
+EGY,,Egyptian Air Force,EG,,1,0,0,0,34.03,548,0,0,,,
+EHN,,East Horizon Airlines,AF,EAST HORIZON,0,0,0,0,,,,,,,
+EIA,EZ,Evergreen International Airlines,US,EVERGREEN,0,1,0,0,,,,,,,
+EIN,EI,Aer Lingus,IE,SHAMROCK,1,1,1,1,7.50,0,2,0,75,0,71838
+EJA,1I,NetJets,US,EXECJET,1,0,0,0,6.54,0,0,0,,,
+EJE,,Hebei Tonghe General Aviation,CN,VOODOO,1,0,0,0,8.00,0,0,0,,,
+EJM,,Executive Jet Management,US,JET SPEED,1,0,0,0,11.96,4,0,0,,,
+EJO,,ExecuJet Middle East,AE,MIDJET,1,0,0,0,7.91,0,0,0,,,
+EJP,,Aeroservicios Ejecutivos Corp,MX,EJECORPORATIVOS,1,0,0,0,10.00,0,0,0,,,
+EJU,EC*,EasyJet Europe,GB,ALPINE,1,0,0,0,14.00,0,0,0,,,
+EKA,,Equaflight,CG,EQUAFLIGHT,1,1,0,0,31.33,3,0,0,3,26,296
+EKJ,,Equajet,CG,EQUAJET,1,0,0,0,29.00,1,0,0,,,
+EKY,,EasySky,HN,,1,0,0,0,44.00,1,0,0,,,
+ELH,,Babcock MCS Italia,IT,LARIO,1,0,0,0,10.77,3,0,0,,,
+ELJ,,Elite Jet sro,SK,TOPJET,1,0,0,0,8.45,0,2,0,,,
+ELL,OV,Estonian Air,EE,ESTONIAN,0,1,0,0,,,,,,,
+ELO,K2,Eurolot,PL,EUROLOT,0,0,0,0,,,,,,,
+ELT,,Elliott Aviation Flight Services Inc,US,ELLIOTT,1,0,0,0,13.25,0,0,0,,,
+ELW,,Yellow Wings Air Services,KE,YELLOW WINGS,1,0,0,0,6.33,0,0,0,,,
+ELY,LY,El Al,IL,ELAL,1,1,1,1,4.14,0,1,0,56,5,29192
+EMB,,Embraer,BR,EMBRAER,1,0,0,0,10.96,3,0,0,,,
+EMM,,Emperor Aviation,MT,RULER,1,0,0,0,5.89,0,0,0,,,
+EMS,,Aeroservicios Empresariales SA de CV,MX,SERVIEMPRESARIAL,1,0,0,0,20.00,0,0,0,,,
+EMT,ET*,Transporte Aereo Entre Islas,EC,EMETEBE,1,0,0,0,46.50,2,0,0,,,
+ENC,,Endecots Servicios Aereos,EC,ENDECOTS,1,0,0,0,39.00,3,0,0,,,
+ENK,,Executive Airlink Inc,US,SUNBIRD,1,0,0,0,21.67,0,0,0,,,
+ENL,,Servicios Optimos de Aeroenlace,MX,OPTIMOS,1,0,0,0,11.00,0,0,0,,,
+ENR,,Scenic Air,NA,,1,0,0,0,12.60,0,0,0,,,
+ENT,E4,Enter Air,PL,ENTERAIR,1,1,0,0,,,,,74,,
+ENW,,Airnor,ES,AERONOR,1,0,0,0,42.67,3,0,0,,,
+ENY,MQ,Envoy Air,US,ENVOY,1,1,0,1,8.78,0,0,0,142,243669,12256
+ENZ,,Jota Aviation,GB,ENZO,1,0,0,0,30.67,2,0,0,,,
+EOL,,Airailes,FR,EOLE,1,0,0,0,6.00,0,0,0,,,
+EOM,,Aero Ermes SA de CV,MX,,1,0,0,0,44.00,1,0,0,,,
+EPA,,Donghai Airlines,CN,DONGHAI AIR,1,1,0,0,4.65,0,0,0,24,15294,10
+EPB,,Donghai Jet,CN,DONG JET,1,0,0,0,9.25,0,0,0,,,
+EPJ,,Taespejo,ES,ESPEJO,1,0,0,0,24.40,2,0,0,,,
+ERA,,Aerotaxis Tucan SA de CV,MX,ROCAN,1,0,0,0,19.50,0,0,0,,,
+ERH,,Era Helicopters LLC,US,ERA,1,0,0,0,14.61,10,0,0,13,26826,0
+ERO,,Aerocom C.A.,VE,AEROECOM,1,0,0,0,45.00,1,0,0,,,
+ERY,,Sky Quest LLC,US,ERIE SHORE,1,0,0,0,15.10,1,0,0,,,
+ESD,,PT. Eastindo Services,ID,EASTINDO,1,0,0,0,15.67,1,0,0,,,
+ESF,,Estafeta Carga Aerea,MX,ESTAFETA,1,1,0,1,26.00,4,0,0,14,6124,512
+ESM,,Executive Aircraft Services,LB,EXEC AIRCRAFT,1,0,0,0,24.33,1,0,0,,,
+ESR,ZE,Eastar Jet,KR,EASTARJET,1,0,1,0,,,,,,,
+ESW,,Silk Way Business Aviation,AZ,W-BUSINESS,1,0,0,0,9.50,0,0,0,,,
+ETD,EY,Etihad Airways,AE,ETIHAD,1,1,1,1,5.10,0,1,0,119,41,106576
+ETH,ET,Ethiopian Airlines,ET,ETHIOPIAN,1,1,1,1,5.97,0,8,1,119,25198,67789
+ETN,,Chim-Nir Aviation Services & Airways Ltd,IL,CHIMNIR,1,0,0,0,32.29,6,0,0,,,
+ETR,ES,Aerolineas Estelar,VE,ESTEL,1,0,0,0,37.00,1,0,0,3,632,0
+EUW,,EFS European Flight Service,SE,EUROWEST,1,0,0,0,11.00,0,0,0,,,
+EVA,BR,EVA Air,TW,EVA,1,1,1,1,5.34,0,1,0,78,237,63524
+EVE,E9,Evelop Airlines,ES,EVELOP,1,1,1,1,5.00,0,0,0,25,653,671
+EVK,,Everett Aviation Ltd,KE,EVERETT,1,0,0,0,26.20,1,0,0,,,
+EVL,,Evolem Aviation,FR,EVOLEM,1,0,0,0,5.00,0,0,0,,,
+EVX,,ATR,FR,GREEN SPIRIT,1,0,0,0,,,,,,,
+EWE,E2,Eurowings Europe,AT,EUROPWINGS,1,0,0,0,,,,,,,
+EWG,EW,Eurowings,DE,EUROWINGS,1,1,1,1,9.30,0,0,0,85,10207,35968
+EWZ,,East Wing,KZ,E-WING,1,0,0,0,36.83,6,0,0,,,
+EXA,,Execaire Inc,CA,CANADIANEXECAIRE,1,0,0,0,13.16,1,0,0,,,
+EXD,,ExecuJet Africa,ZA,PLATINUM EXEC,1,0,0,0,16.50,2,0,0,,,
+EXH,,Executive Helicopters,IE,EXEC HELI,1,0,0,0,20.20,1,0,0,,,
+EXJ,,Executive Jet Charter,GB,VOLANTE,1,0,0,0,10.60,0,0,0,,,
+EXP,,Island Air Express,US,ISLAND EXPRESS,1,0,0,0,33.33,2,0,0,,,
+EXS,LS,Jet2.com,GB,CHANNEX,1,1,0,0,11.50,0,1,0,64,106,41230
+EXU,,Executive Airlines SA,ES,SACIR,1,0,0,0,13.75,0,0,0,,,
+EXV,8D,FitsAir,LK,EXPOAVIA,1,1,0,0,12.67,1,0,0,2,0,122
+EXY,XZ,South African Express Airways,ZA,EXPRESSWAYS,1,0,1,0,,,,,,,
+EXZ,,EastAfrican,KE,TWIGA,1,1,0,0,31.67,3,0,0,15,5475,1298
+EZD,Z2,AirAsia Zest,PH,ZEST,0,1,0,0,,,,,,,
+EZE,T3,Eastern Airways,GB,EASTFLIGHT,1,1,1,1,15.40,1,2,0,27,16269,2105
+EZS,DS,EasyJet Switzerland,CH,TOPSWISS,1,1,0,0,,,,,,,
+EZY,U2,EasyJet UK,GB,EASY,1,1,0,0,,,,,,,
+FAB,7F,First Air,CA,FIRST AIR,1,0,0,0,27.62,10,0,0,31,14481,0
+FAF,,French Air Force,FR,FRENCH AIR FORCE,1,0,0,0,,,,,,,
+FAG,,Argentine Air Force,AR,FUAER,1,0,0,0,29.86,92,0,0,,,
+FAH,,ASL Airlines Hungary,HU,BLUE STRIP,1,0,0,0,29.00,2,0,0,,,
+FAM,,Mexican Air Force,MX,FAMEX,1,0,0,0,16.23,153,0,0,,,
+FAT,,ASL Airlines Switzerland,CH,FARNER,0,1,0,0,,,,,,,
+FAV,,Fair Aviation,ZA,FAIRAVIA,1,0,0,0,25.33,2,0,0,,,
+FAW,,Freedom Aviation,US,FALWELL,1,0,0,0,13.67,0,0,0,,,
+FBR,,Baden Aircraft Operations,DE,,1,0,0,0,14.80,0,0,0,,,
+FBS,6W,FlyBosnia,SA,BOSNIA AIR,1,0,0,0,18.00,0,0,0,,,
+FBU,BF,French Bee,FR,FRENCH BEE,1,1,1,0,,,,,3,,
+FCB,CO,Cobalt Air,CY,APOLLO,0,1,0,0,,,,,,,
+FCM,N7,Nordic Regional Airlines,FI,FINNCOMM,1,1,0,1,11.47,0,0,0,86,0,159993
+FCO,,Aero Frisco SA de CV,MX,AEROFRISCO,1,0,0,0,12.83,0,0,0,,,
+FDA,JH,Fuji Dream Airlines,JP,FUJI DREAM,1,0,0,0,5.21,0,0,0,14,23250,0
+FDB,FZ,flydubai,AE,SKY DUBAI,1,1,1,1,4.12,0,1,1,92,0,87758
+FDL,,Farmingdale State University,US,FARMINGDALE STATE,1,0,0,0,17.00,0,0,0,,,
+FDR,,Federal Airlines,ZA,FEDAIR,1,0,0,0,21.36,4,0,0,,,
+FDS,,Phoenix Aviation,KE,FLYDOC,1,0,0,0,24.20,6,0,0,,,
+FDT,,Freedom Airline Express,KE,FREEDOM EAGLE,1,0,0,0,25.75,4,0,0,,,
+FDX,FX,FedEx,US,FEDEX,1,0,1,1,19.77,191,1,0,,,
+FDY,9X,Southern Airways Express,US,FRIENDLY,1,1,0,0,21.48,9,0,0,10,6309,76
+FEG,FT,FlyEgypt,EG,SKY EGYPT,1,0,1,0,,,,,,,
+FEI,,Eagle Air Iceland,IS,ARCTIC EAGLE,1,0,0,0,29.67,4,0,0,,,
+FEX,,Flightexec,CA,FLIGHTEXEC,1,0,0,0,31.75,11,0,0,,,
+FFM,FY,FireFly,MY,FIREFLY,1,1,0,0,10.88,0,0,0,16,33649,9432
+FFR,8F,Fischer Air,CZ,FISCHER,0,1,0,0,,,,,,,
+FFT,F9,Frontier Airlines,US,FRONTIER FLIGHT,1,1,0,1,1.92,0,4,0,60,94719,4211
+FFV,5H*,Fly540,KE,SWIFT TANGO,1,1,0,0,24.25,1,0,0,10,11693,3477
+FGD,,Conair Aviation,CA,FIREGUARD,1,0,0,0,38.41,22,0,0,,,
+FGP,,Flight Research Aerogeophysical Center,RU,FLYING CENTER,1,0,0,0,39.20,5,0,0,,,
+FGR,,Trans-Pacific Jets,US,FRIGATE,1,0,0,0,29.75,4,0,0,,,
+FGS,,Elitellina Srl,IT,ELITELLINA,1,0,0,0,12.11,0,0,0,,,
+FGW,4V,Fly Gangwon,KR,GANGWON,1,0,0,0,8.00,0,0,0,,,
+FHY,FH,Freebird Airlines,TR,FREEBIRD AIR,1,0,1,0,,,,,,,
+FIA,5F,FlyOne,MD,FIA AIRLINES,1,0,0,0,19.00,0,0,0,,,
+FIC,,Aero Safin SA de CV,MX,AEROSAFIN,1,0,0,0,16.43,0,0,0,,,
+FIF,OF,Air Finland,FI,AIR FINLAND,0,1,0,0,,,,,,,
+FIN,AY,Finnair,FI,FINNAIR,1,1,1,1,7.08,0,1,0,117,8587,48212
+FJA,,Fiji Link,FJ,LINK FIJI,1,0,0,1,2.00,0,0,0,,,
+FJI,FJ,Fiji Airways,FJ,FIJI,1,1,1,1,1.00,0,0,0,22,2,9283
+FJK,,Fly Jet Kz,KZ,,1,0,0,0,11.67,0,0,0,,,
+FJS,,Florida Jet Service Inc,US,FLORIDAJET,1,0,0,0,33.00,2,0,0,,,
+FLA,QH,Air Florida,US,PALM,0,1,0,0,,,,,,,
+FLB,,FlyART,TD,ROSSIGNOL,1,0,0,0,32.00,1,0,0,,,
+FLC,,FAA Academy Flight Program,US,FLIGHT CHECK,1,0,0,0,27.12,18,0,0,,,
+FLE,F8,Flair Airlines,CA,FLAIR,1,0,0,0,9.67,0,0,0,,,
+FLI,RC,Atlantic Airways,FO,FAROELINE,1,1,1,1,4.50,0,0,0,15,0,2895
+FLJ,,Sirio UK,GB,FLAIRJET,1,0,0,0,4.00,0,0,0,,,
+FLX,,Flight Express Inc,US,FLIGHT EXPRESS,1,0,0,0,46.14,7,0,0,,,
+FMF,,Egyptian Aviation Academy,EG,EGYPT ACADEMY,1,0,0,0,7.83,0,0,0,,,
+FMY,,French Army,FR,FRENCH ARMY,1,0,0,0,26.60,239,0,0,,,
+FNA,,Norlandair,IS,,1,1,0,0,29.00,3,0,0,5,188,18
+FNF,,Finnish Air Force,FI,FINNFORCE,1,0,0,0,23.01,45,0,0,,,
+FNX,,Fenix Air Charter,US,CRESCENT,1,0,0,0,39.00,3,0,0,,,
+FNY,,French Navy,FR,FRENCH NAVY,1,0,0,0,26.68,105,0,0,,,
+FOR,,Formula 1,GB,FORMULA,1,0,0,0,30.00,1,0,0,,,
+FPO,5O,ASL Airlines France,FR,FRENCH POST,1,1,1,1,28.00,8,0,0,30,6113,1373
+FPR,,Peruvian Air Force,PE,,1,0,0,0,25.48,74,0,0,,,
+FRA,,Cobham Aviation Services,GB,RUSHTON,1,0,0,0,50.60,15,0,0,,,
+FRF,,Fleet Air International,HU,FAIRFLEET,1,0,0,0,33.25,4,0,0,,,
+FRG,,Freight Runners Express,US,FREIGHT RUNNERS,1,0,0,0,39.19,18,0,0,,,
+FRH,,ACE Belgium Freighters,IL,ACE FREIGHT,1,0,0,0,21.00,1,0,0,,,
+FRV,,Royal Moroccan Air Force,MA,,1,0,0,0,31.53,161,0,0,,,
+FRX,,Fort Aero,RU,FORT AERO,1,0,0,0,14.00,0,0,0,,,
+FSC,HK,Four Star Air Cargo,PR,FOUR STAR,0,1,0,0,,,,,,,
+FSR,,The Flightstar Corp,US,FLIGHTSTAR,1,0,0,0,12.56,1,0,0,,,
+FSY,,Private Air Inc,CA,FROSTY,1,0,0,0,16.54,3,0,0,,,
+FTD,,AB Jets,US,FORTITUDE,1,0,0,0,18.60,1,0,0,,,
+FTH,,Mountain Aviation Inc,US,FOOTHILLS,1,0,0,0,20.89,3,0,0,,,
+FTL,,Flightline,ES,FLIGHT-AVIA,1,0,0,0,36.75,4,0,0,,,
+FTR,,Finist'Air,FR,FINISTAIR,1,0,0,0,12.00,0,0,0,,,
+FTY,,Fly Tyrol,AT,FLY TYROL,1,0,0,0,11.14,0,0,0,,,
+FUT,,Aerofuturo,MX,,1,0,0,0,35.00,2,0,0,,,
+FVS,,Falcon Aviation Services,AE,FALCON AVIATION,1,0,0,0,8.31,0,0,0,,,
+FWD,,Fair Wind Air Charter,US,FAIR WIND,1,0,0,0,15.12,2,0,0,,,
+FWI,TX,Air Caraibes,GP,FRENCH WEST,1,0,1,1,14.00,0,0,0,,,
+FWK,,FlightWorks,US,FLIGHTWORKS,1,0,0,0,13.40,1,0,0,,,
+FXI,NY,Air Iceland Connect,IS,FAXI,1,1,0,0,23.00,0,0,0,12,7082,1180
+FXR,,K-Air SpA,IT,WILDFOX,1,0,0,0,20.00,0,0,0,,,
+FXT,W2,Flexflight,DK,,1,1,0,0,16.00,0,0,0,54,0,4985
+FXW,,AAG - Associated Aircraft Group,US,FLEXWING,1,0,0,0,20.67,2,0,0,,,
+FXX,,Felix Airways,YE,,1,0,0,0,12.00,0,0,0,,,
+FYD,,Flying Devil SA,CH,,1,0,0,0,28.00,2,0,0,,,
+FYG,,Flying Group,BE,FLYING GROUP,1,0,0,0,5.46,0,0,0,,,
+FYL,,Flying Group Lux,LU,FLYINGLUX,1,0,0,0,6.25,0,0,0,,,
+FZA,FU,Fuzhou Airlines,CN,STRAIT AIR,1,0,1,1,5.77,0,0,0,,,
+GAC,,GlobeAir AG,AT,DREAM TEAM,1,0,0,0,11.25,0,0,0,,,
+GAF,,German Air Force,DE,GERMAN AIR FORCE,1,0,0,0,26.68,235,0,0,,,
+GAK,5S,Global Air Transport,LY,AVIAGROUP,1,1,0,0,28.50,2,0,0,4,0,290
+GAL,,Albatros Airlines,VE,ERRANTE,1,1,0,0,29.25,3,0,0,4,0,1474
+GAM,,German Army,DE,GERMAN ARMY,1,0,0,0,34.61,43,0,0,,,
+GAP,2P,PAL Express,PH,AIRPHIL,1,1,0,1,7.83,0,1,0,32,51347,114
+GBB,GE,Global Aviation Operations,ZA,GLOBE,1,0,0,0,31.00,1,0,0,,,
+GBL,GT,GB Airways,GB,GEEBEE AIRWAYS,0,1,0,0,,,,,,,
+GBX,,GB AirLink,US,GEEBEE LINK,1,0,0,0,60.67,3,0,0,,,
+GCB,,Lina Congo,CG,LINACONGO,1,0,0,0,27.00,1,0,0,,,
+GCK,,Aerogem Aviation,GH,AEROGEM,0,1,0,0,,,,,,,
+GCR,GS,Tianjin Airlines,CN,BO HAI,1,1,1,1,5.76,0,0,0,108,110117,4147
+GCS,LC,Skyway Costa Rica,CR,SKY TEC,1,0,0,0,30.67,3,0,0,,,
+GCT,,Gulf Coast Aviation Inc,US,GULF COAST,1,0,0,0,12.43,0,0,0,,,
+GDG,,SP Aviation Inc,US,GOLDEN GATE,1,0,0,0,26.67,3,0,0,,,
+GDH,,Guneydogu Aviation,TR,RISING SUN,1,0,0,0,17.75,1,0,0,,,
+GDK,,Goldeck-Flug GmbH,AT,GOLDECK FLUG,1,0,0,0,5.86,0,0,0,,,
+GDS,,Steelman Aviation Inc,US,GOLDSTRIKE,1,0,0,0,7.00,0,0,0,,,
+GEC,LH,Lufthansa Cargo,DE,LUFTHANSA CARGO,1,0,1,1,12.38,0,2,0,,,
+GEE,,Aereo GE S.A. de C.V,MX,GEMEX,1,0,0,0,16.00,0,0,0,,,
+GEL,D4*,Geo Sky,GE,SKY GEORGIA,1,0,0,0,34.00,3,0,0,,,
+GES,,Gestair,ES,GESTAIR,1,0,0,0,9.93,1,0,0,,,
+GEX,,Aero Expedition,GE,AERO GEORGIA,1,0,0,0,6.50,0,0,0,,,
+GFA,GF,Gulf Air,BH,GULF AIR,1,1,1,1,3.67,0,0,0,46,0,51762
+GFD,,GFD,DE,KITE,1,0,0,0,35.14,14,0,0,,,
+GFE,,Archer Daniels Midland Co,US,,1,0,0,0,7.00,0,0,0,,,
+GGL,,SJL Aeronautica,AO,GIRA GLOBO,1,0,0,0,27.20,4,0,0,,,
+GGT,,Trans Island Airways,BS,THUNDERBALL,1,0,0,0,10.86,1,0,0,,,
+GHL,,Guilin General Aviation Co,CN,GUILIN ROTOR,1,0,0,0,9.00,0,0,0,,,
+GHN,,Air Ghana,GH,AIR GHANA,1,0,0,0,28.00,1,0,0,,,
+GHS,,Gatari Air Service,ID,,1,0,0,0,26.33,2,0,0,,,
+GIA,GA,Garuda Indonesia,ID,INDONESIA,1,1,1,1,7.81,0,3,0,81,188555,28735
+GIO,,GIO Business Aviation d.o.o.,SI,GIO-AVIA,1,0,0,0,28.50,1,0,0,,,
+GJE,,Global Air Charters Inc,US,GLOBAL JETS,1,0,0,0,20.60,2,0,0,,,
+GJI,,Gainjet Ireland Limited,IE,GAINSTAR,1,0,0,0,9.11,0,0,0,,,
+GJT,GW*,GetJet Airlines,LT,GETJET,1,0,0,1,17.25,0,0,0,,,
+GLG,2K,Avianca Ecuador,EC,GALAPAGOS,1,0,1,0,,,,,,,
+GLJ,,Global Jet Austria,AT,GLOBAL AUSTRIA,1,0,0,0,7.60,0,0,0,,,
+GLO,G3,GOL,BR,GOL TRANSPORTE,1,1,1,1,13.42,0,1,0,71,244811,14481
+GLR,9M,Central Mountain Air,CA,GLACIER,1,0,0,0,27.25,6,0,0,19,18603,0
+GLT,,Aero Charter Inc,US,GASLIGHT,1,0,0,0,12.47,0,0,0,,,
+GMA,,Gama Aviation,GB,GAMA,1,0,0,0,14.84,4,0,0,,,
+GME,,GM Helicopters,LV,GLOBE MERIDIAN,1,0,0,0,26.70,6,0,0,,,
+GMI,ST,Germania,DE,GERMANIA,0,1,0,0,,,,,,,
+GMT,,Magnicharters,MX,GRUPOMONTERREY,1,0,0,0,27.55,8,0,0,,,
+GNF,,Green Flag Aviation,SD,GREEN FLAG,1,0,0,0,32.60,14,0,0,,,
+GNJ,,GainJet,GR,GAIN JET,1,0,0,0,16.89,1,0,0,,,
+GNX,,Genex,BY,AEROGENEX,1,0,0,0,37.00,2,0,0,,,
+GNY,,German Navy,DE,GERMAN NAVY,1,0,0,0,34.61,43,0,0,,,
+GNZ,,General Aviation Services Sp.z o.o.,PL,GONZO,1,0,0,0,21.00,0,0,0,,,
+GPD,,Tradewind Aviation,US,GOODSPEED,1,1,0,0,13.70,0,0,0,11,3643,6838
+GRA,,Guardian Air Ltd,ZA,FLEX,1,0,0,0,30.00,2,0,0,,,
+GRL,GL,Air Greenland,GL,GREENLAND,1,1,0,0,25.34,10,0,0,36,23358,1143
+GRV,,Epsilon Aviation SA,GR,EPSILON,1,0,0,0,36.00,5,0,0,,,
+GRX,,Aircompany Grodno,BY,GRODNO,1,0,0,0,45.00,5,0,0,,,
+GSH,,Gama Aviation FZE,AE,GAMAMENA,1,0,0,0,12.25,0,0,0,,,
+GSJ,,G-Jet sro,CZ,GROSSJET,1,0,0,0,7.00,0,0,0,,,
+GTH,,Meridian Air Charter,US,GOTHAM,1,0,0,0,15.10,1,0,0,,,
+GTI,5Y,Atlas Air,US,GIANT,1,1,1,1,24.33,24,0,0,13,0,1416
+GTS,R2,Groupe Transair,SN,TRANSGROUP,1,0,0,0,31.00,3,0,0,,,
+GTV,,Aerogaviota,CU,GAVIOTA,1,0,0,0,38.32,19,0,0,,,
+GTW,,American Air Charter Inc,US,GATEWAY,1,0,0,0,21.89,3,0,0,,,
+GUG,GU,Avianca Guatemala,GT,AVIATECA,1,1,0,0,,,,,,,
+GUM,,Gum Air,SR,GUM AIR,1,0,0,0,23.17,2,0,0,,,
+GUN,GV*,Grant Aviation,US,HOOT,1,0,0,0,25.08,16,0,0,7,55903,0
+GUY,,Air Guyane Express,GF,GREEN BIRD,1,0,0,0,13.40,1,0,0,,,
+GWC,,Gulf Wings FZE,AE,GULF WINGS,1,0,0,0,14.20,0,0,0,,,
+GWI,4U,Germanwings,DE,GERMANWINGS,0,1,0,0,,,,,,,
+GWS,,General Airways,ZA,GENAIR,1,0,0,0,20.00,0,0,0,,,
+GWY,U5,USA3000 Airlines,US,GETAWAY,0,1,0,0,,,,,,,
+GXL,X4,XL Airways Germany,DE,STARDUST,0,1,0,0,,,,,,,
+GZP,4G*,Gazpromavia,RU,GAZPROM,1,1,0,0,22.26,61,0,0,11,994,24
+HAC,,Heli Sky,AE,HELI MOUNT,1,0,0,0,31.00,3,0,0,,,
+HAE,,Kenmore Crew Leasing Inc,US,HOLLAND AIR,1,0,0,0,26.43,4,0,0,,,
+HAH,,Hanhwa Business Jet Airlines,CN,HANMA,1,0,0,0,8.00,0,0,0,,,
+HAL,HA,Hawaiian Airlines,US,HAWAIIAN,1,1,1,1,13.38,0,3,0,27,76699,4731
+HAT,HT*,Air Horizont,ES,SKY RUNNER,1,0,0,0,28.00,2,0,0,,,
+HAW,,Bangkok Aviation Centre Co Ltd,TH,THAI HAWK,1,0,0,0,12.00,0,0,0,,,
+HAX,,Benair AS,NO,SCOOP,1,0,0,0,30.00,2,0,0,,,
+HBH,NS,Hebei Airlines,CN,HEBEI AIR,1,1,1,1,5.78,0,0,0,37,27921,933
+HCT,,CAT Helicopters SL,ES,ROTORCAT,1,0,0,0,33.67,3,0,0,,,
+HDA,KA,Cathay Dragon,HK,DRAGON,1,1,1,1,11.78,0,0,0,54,0,59052
+HDI,,Hoteles Dinamicos SA de CV,MX,DINAMICOS,1,0,0,0,14.50,1,0,0,,,
+HDM,,Harley-Davidson Motor Company Group LLC,US,HOG,1,0,0,0,8.00,0,0,0,,,
+HEC,,Heliservicio Campeche SA de CV,MX,,1,0,0,0,12.70,3,0,0,,,
+HEH,,Helitrans AG,CH,,1,0,0,0,12.75,0,0,0,,,
+HEL,,Helicol - Pas,CO,HELICOL,1,0,0,0,24.00,3,0,0,,,
+HEM,,CHC Helicopters,AU,,1,0,0,0,16.94,4,0,0,,,
+HES,5Q,Holiday Europe,BG,HOLIDAY EUROPE,1,0,0,0,22.00,0,0,0,,,
+HEZ,,Arrow Aviation Ltd,IL,ARROW,1,0,0,0,21.50,0,0,0,,,
+HFM,,Hi Fly Malta,MT,MOONRAKER,1,0,0,1,17.80,0,0,0,,,
+HFR,,Helifrance,FR,,1,0,0,0,38.00,1,0,0,,,
+HFY,5K,Hi Fly,PT,SKY FLYER,1,1,1,1,22.00,0,0,0,50,0,798
+HGE,,Martins Famous Pastry Shoppe Inc,US,HOAGIE,1,0,0,0,24.00,3,0,0,,,
+HGG,,Hi Air,KR,HI AIR,1,0,0,0,11.50,0,0,0,,,
+HHG,,Hanergy Business Jets,CN,HANERGY JET,1,0,0,0,7.50,0,0,0,,,
+HHI,4R,Hamburg International,DE,HAMBURG JET,0,1,0,0,,,,,,,
+HHN,HR*,Hahn Air,DE,ROOSTER,1,1,1,1,8.00,0,0,0,2,0,184
+HIB,,Helibravo Aviacao Lda,PT,HELIBRAVO,1,0,0,0,17.47,3,0,0,,,
+HIM,,Himalaya Airlines,NP,HIMALAYA,1,0,0,0,1.00,0,0,0,,,
+HIN,,Holding International Group SA de CV,MX,HOLDING GROUP,1,0,0,0,3.50,0,0,0,,,
+HJA,HJ,Air Haïti,HT,AIR HAITI,0,1,0,0,,,,,,,
+HJE,,Servicios Ejecutivos Gosa,MX,GOSA,1,0,0,0,16.00,0,0,0,,,
+HJT,,Helijetic Air,SD,HELTAIR,1,0,0,0,35.11,9,0,0,,,
+HKC,RH,Hong Kong Air Cargo,HK,MASCOT,1,0,1,1,9.00,0,0,0,,,
+HKE,UO,Hong Kong Express Airways,HK,HONGKONG SHUTTLE,1,0,1,0,,,,,,,
+HKH,,Air Invest Vagyonkazelo Kft,HU,HAWKHUNGARY,1,0,0,0,3.00,0,0,0,,,
+HKI,,Hawkaire,US,HAWKEYE,1,0,0,0,13.00,0,0,0,,,
+HKN,,Jim Hankins Air Service,US,HANKINS,1,0,0,0,54.50,2,0,0,,,
+HKS,,CHC Helikopter Service,NO,HELIBUS,1,0,0,0,15.78,5,0,0,,,
+HLI,,Heli Securite,FR,HELI SAINT-TROPEZ,1,1,0,0,17.36,4,0,0,2,0,20
+HLN,GG,Air Holland,NL,ORANGE,0,1,0,0,,,,,,,
+HLR,,Heli Air Services,BG,HELI BULGARIA,1,0,0,0,24.33,4,0,0,,,
+HLU,,Heli-Union,FR,HELI UNION,1,0,0,0,13.86,1,0,0,,,
+HMB,,CHC Global Operations Canada,CA,HUMMINGBIRD,1,0,0,0,19.50,0,0,0,,,
+HND,OI,Hinterland Aviation,AU,HINTERLAND,1,0,0,0,28.43,7,0,0,5,9478,0
+HOG,KT,Mahogany Air,ZM,HOGAN AIR,1,0,0,0,25.25,3,0,0,,,
+HON,,Honda,US,HONDA TEST,1,0,0,0,7.11,0,0,0,,,
+HOP,A5,Air France Hop,FR,AIRFRANS,1,0,0,0,,,,,,,
+HPJ,,Hop-A-Jet Worldwide Jet Charter,US,HOPA-JET,1,0,0,0,14.75,0,0,0,,,
+HPK,,Hopscotch Air Inc,US,HOPSCOTCH AIR,1,0,0,0,6.75,0,0,0,,,
+HRC,,Harco Aviation,US,HARCO,1,0,0,0,13.00,0,0,0,,,
+HRN,,Heron Aviation,DE,HERONAIR,1,0,0,0,13.25,0,0,0,,,
+HRT,,Chartright Air,CA,CHARTRIGHT,1,0,0,0,14.74,5,0,0,,,
+HRZ,,Croatian Air Force,HR,CROATIAN AIRFORCE,1,0,0,0,69.77,12,0,0,,,
+HSG,,Hesnes Air AS,NO,,1,0,0,0,16.00,0,0,0,,,
+HSH,,Hispanica de Aviacion S.A.,ES,HISPANICA,1,0,0,0,24.85,9,0,0,,,
+HSI,,Heliswiss,CH,HELISWISS,1,1,0,0,,,,,,,
+HSS,,Transportes Aereos del Sur,ES,TAS HELICOPTEROS,1,0,0,0,15.80,0,0,0,,,
+HTB,,Helix-Craft Trading Co,PA,HELIX-CRAFT,1,0,0,0,10.00,0,0,0,,,
+HTM,,HTM - Helicopter Travel Munich GmbH,DE,HELITRAVEL,1,0,0,0,16.04,4,0,0,,,
+HUF,,Hungarian Air Force,HU,HUNGARIAN AIRFORCE,1,0,0,0,25.33,27,0,0,,,
+HVK,,Turkish Air Force,TR,TURKISH AIRFORCE,1,0,0,0,2.27,381,2,0,,,
+HVN,VN,Vietnam Airlines,VN,VIET NAM AIRLINES,1,1,1,1,3.91,0,1,0,76,79547,48890
+HVY,HN,HeavyLift Cargo Airlines,US,HEAVY CARGO,1,1,0,0,,,,,,,
+HWK,,Firehawk Helicopters,US,FIREHAWK,1,0,0,0,24.20,9,0,0,,,
+HXA,G5,China Express Airlines,CN,CHINA EXPRESS,1,1,1,1,4.02,0,0,0,65,40577,4620
+HYD,,Hydro-Quebec,CA,HYDRO,1,0,0,0,20.00,0,0,0,,,
+HYP,,Hyperion Aviation Ltd,MT,HYPERION,1,0,0,0,9.33,0,0,0,,,
+HYR,,Private Sky,IE,HIGHFLYER,1,0,0,0,10.60,0,0,0,,,
+HYT,YG,YTO Cargo Airlines,CN,QUICK AIR,1,0,1,1,22.67,2,0,0,,,
+IAD,I5,AirAsia India,IN,RED KNIGHT,1,0,0,0,,,,,,,
+IAE,IO,IrAero,RU,IRAERO,1,1,0,0,35.17,14,0,0,24,3899,1556
+IAF,,Israel Air and Space Force,IL,,1,0,0,0,25.53,303,0,0,,,
+IAM,,Italian Air Force,IT,ITALIAN AIRFORCE,1,0,0,0,21.85,217,0,0,,,
+IAN,QI,Ibom Air,NG,IBOM,1,0,0,0,11.00,0,0,0,,,
+IAR,V8*,Iliamna Air Taxi,US,ILIAMNA AIR,1,0,0,0,30.67,3,0,0,2,942,0
+IAW,IA,Iraqi Airways,IQ,IRAQI,1,1,0,0,5.86,0,0,0,37,9019,26418
+IAX,,Island Express Air,CA,ABBOTSFORD AIR,1,0,0,0,42.00,6,0,0,,,
+IBB,NT,Binter Canarias,ES,,1,1,1,1,5.00,0,0,0,16,3217,708
+IBE,IB,Iberia,ES,IBERIA,1,1,1,1,8.23,0,1,0,86,31431,64588
+IBJ,,Air Taxi & Charter International SA,ES,IBERTAXI,1,0,0,0,28.50,2,0,0,,,
+IBK,D8,Norwegian Air International,NO,NORTRANS,1,0,0,0,6.00,0,1,0,,,
+IBS,,Iberia Express,ES,IBEREXPRES,1,1,0,1,12.50,0,0,0,42,20618,11274
+IBX,,IBEX Airlines,JP,IBEX,1,0,0,1,6.50,0,0,0,11,21206,0
+ICE,FI,Icelandair,IS,ICEAIR,1,1,1,1,23.39,6,0,0,47,0,24210
+ICF,,ICS Aero SM SRL,SM,INCHARTER,1,0,0,0,11.50,0,0,0,,,
+ICG,,Icelandic Coast Guard,IS,ICELAND COAST,1,0,0,0,16.25,1,0,0,,,
+ICL,5C,CAL Cargo Air Lines,IL,CAL,1,1,1,1,19.50,1,0,0,8,0,1721
+ICR,,Eagle Aero Inc,US,ICARUS FLIGHTS,1,0,0,0,14.00,0,0,0,,,
+ICU,,Reignwood Asia Aviation Co Ltd,CN,ASIA MEDICAL,1,0,0,0,9.60,1,0,0,,,
+ICV,C8,Cargolux Italia,IT,CARGOLUX ITALIA,1,1,0,0,16.33,0,0,0,28,0,4956
+IDA,,Indonesia Air Transport,ID,INTRA,1,0,0,0,15.71,1,0,0,,,
+IDE,DH,Independence Air,US,INDEPENDENCE,0,0,0,0,,,,,,,
+IFA,,FAI rent-a-jet,DE,RED ANGEL,1,0,0,0,19.41,2,0,0,,,
+IFC,,Indian Air Force,IN,INDIAN AIRFORCE,1,0,0,0,84.44,590,0,0,,,
+IFI,,Air Lift SA,GR,HELLAS LIFT,1,0,0,0,13.00,1,0,0,,,
+IFL,,IFL Group,US,EIFEL,1,0,0,0,50.89,9,0,0,,,
+IGA,TE,SkyTaxi,PL,IGUANA,1,1,0,0,34.50,2,0,0,9,0,471
+IGC,,Iraq Gate,IQ,,1,0,0,0,16.50,0,0,0,,,
+IGO,6E,IndiGo,IN,IFLY,1,1,1,1,6.00,0,0,0,39,275053,12441
+IHC,,Iran Helicopter Company,IR,HELIRAN,1,0,0,0,37.03,25,0,0,,,
+IHO,,748 Air Services,KE,SEFEAS,1,0,0,0,22.64,7,0,0,,,
+IIA,,Int'Air Iles,KM,INTER ILES,1,0,0,0,16.50,0,0,0,,,
+IJA,,International Jet Aviation Services,US,I-JET,1,0,0,0,20.80,5,1,0,,,
+IJM,,International Jet Management GmbH,AT,JET MANAGEMENT,1,0,0,0,6.70,0,0,0,,,
+IJW,K8*,Interjet West,US,JET WEST,1,0,0,0,38.50,2,0,0,,,
+IKR,,Ikaros Fly,DK,IKAROS,1,0,0,0,52.00,1,0,0,,,
+ILS,,Servicios Aereos Ilsa SA de CV,MX,SERVICIOS ILSA,1,0,0,0,16.25,0,0,0,,,
+IMX,XM,Zimex Aviation,CH,ZIMEX,1,0,0,0,29.42,13,0,0,,,
+INC,7I,Insel Air,CW,INSELAIR,0,1,0,0,,,,,,,
+INP,,Peruvian Navy,PE,,1,0,0,0,33.11,26,0,0,,,
+INR,,Babcock MCS Espana,ES,INAER HELICOPTEROS,1,0,0,0,19.47,27,0,0,,,
+IOS,,Isles of Scilly Skybus,GB,SCILLONIA,1,0,0,0,30.60,5,0,0,4,9330,0
+IRA,IR,Iran Air,IR,IRANAIR,1,1,1,1,12.17,5,3,0,51,19863,6703
+IRB,B9,Iran Airtour Airline,IR,AIRTOUR,1,1,1,1,27.57,6,0,0,19,10036,168
+IRC,EP,Iran Aseman Airlines,IR,ASEMAN,1,1,1,1,28.95,20,1,1,44,28427,2306
+IRF,,Islamic Republic of Iran Air Force,IR,TA-AIR,1,0,0,0,56.01,253,0,0,,,
+IRL,,Irish Air Corps,IE,IRISH,1,0,0,0,17.43,2,1,0,,,
+IRM,W5,Mahan Air,IR,MAHAN AIR,1,1,1,1,25.22,13,2,0,27,0,10027
+IRO,,CSA Air,US,IRON AIR,1,0,0,0,29.40,23,0,0,,,
+IRZ,,SAHA Airlines,IR,SAHA,1,0,0,0,23.00,0,0,0,,,
+ISA,IS,Island Airlines,US,ISLAND,0,0,0,0,,,,,,,
+ISK,3L,InterSky,AT,INTERSKY,0,1,0,0,,,,,,,
+ISM,,AIST M Airclub,RU,STORK,1,0,0,0,31.00,1,0,0,,,
+ISR,6H,Israir,IL,ISRAIR,1,1,1,1,8.40,0,0,0,59,4603,3506
+ISS,IG,Air Italy,IT,AIR ITALY,1,1,1,0,,,,,,,
+ISV,,Avianca Honduras,HN,,1,1,0,1,54.00,1,0,0,2,0,1
+ITL,,Italfly Srl,IT,ITALFLY,1,0,0,0,8.43,0,0,0,,,
+ITW,,Inter Air,BG,,1,0,0,0,30.00,1,0,0,,,
+IVY,,Ivory Coast Air Force,CI,,1,0,0,0,29.20,4,0,0,,,
+IWY,,InterCaribbean Airways,TC,ISLANDWAYS,1,1,0,0,44.00,1,0,0,19,5154,5675
+IXR,,iXAir,FR,X-BIRD,1,0,0,0,5.40,0,0,0,,,
+IYE,IY,Yemenia,YE,YEMENI,1,1,0,0,35.00,2,0,0,25,1760,5041
+IZA,I8,Izhavia,RU,IZHAVIA,1,1,0,0,27.50,1,0,0,16,2826,206
+IZG,,Zagros Airlines,IR,ZAGROS,1,1,0,0,28.91,9,1,0,25,14530,6130
+IZM,4I,IZair,TR,IZMIR,0,1,0,0,,,,,,,
+JAA,EG,Japan Asia Airways,JP,ASIA,0,0,0,0,,,,,,,
+JAB,W9,Air Bagan,MM,AIR BAGAN,0,1,0,0,,,,,,,
+JAC,JC,Japan Air Commuter,JP,COMMUTER,1,0,0,0,1.75,0,1,0,,,
+JAF,TB*,TUI fly Belgium,BE,BEAUTY,1,1,0,0,5.00,0,0,0,152,64,30983
+JAG,,Jetalliance,AT,JETALLIANCE,0,1,0,0,,,,,,,
+JAI,9W,Jet Airways,IN,JET AIRWAYS,0,1,0,0,,,,,,,
+JAL,JL,Japan Airlines,JP,JAPANAIR,1,1,1,1,9.78,0,0,0,74,158056,51772
+JAR,,Airlink Luftverkehrs GmbH,AT,AIRLINK,1,0,0,0,17.00,2,0,0,,,
+JAS,,Jet Aviation Business Jets Inc,US,JET SETTER,1,0,0,0,11.04,1,0,0,,,
+JAT,JA,JetSmart,CL,ROCKSMART,1,1,0,0,0.80,0,0,0,45,0,31573
+JAV,R5,Jordan Aviation,JO,JORDAN AVIATION,1,0,1,0,,,,,,,
+JAW,,Jamahiriya Life Transport,LY,JASMINE,1,0,0,0,52.00,1,0,0,,,
+JBA,,Helijet International,CA,HELIJET,1,0,0,0,28.72,10,0,0,2,8332,0
+JBC,,Jetbee,CZ,JETBEE,1,0,0,0,28.00,2,0,0,,,
+JBE,,Sino Jet Co Ltd,CN,SINO BEIJING,1,0,0,0,4.75,0,1,0,,,
+JBU,B6,JetBlue Airways,US,JETBLUE,1,1,1,1,10.87,0,3,0,101,256179,85214
+JBW,3J,Jubba Airways,KE,AIRJUB,1,1,0,0,29.33,3,0,0,10,9,1107
+JCB,,JCB Aviation Department,GB,JAYSEEBEE,1,0,0,0,9.67,0,0,0,,,
+JCC,,JC International Airlines,KH,CAMBO,1,0,0,0,4.00,0,0,0,,,
+JCL,,Jetcall,DE,JETCALL,1,0,0,0,19.75,0,0,0,,,
+JCM,,Secure Air Charter,US,SECUREAIR,1,0,0,0,21.64,5,0,0,,,
+JCO,,Jet Concierge Club,GB,CONCIERGE,1,0,0,0,5.67,0,0,0,,,
+JCT,,Jet Charter Inc,US,JET CHARTER,1,0,0,0,19.00,0,0,0,,,
+JDC,,Deere & Co,US,JOHN DEERE,1,0,0,0,8.67,0,0,0,,,
+JDI,,Jet Story,PL,JEDI,1,0,0,0,9.17,0,0,0,,,
+JEA,O2,Jet Air,PL,JETA,0,1,0,0,,,,,,,
+JEF,,Jetflite,FI,JETFLITE,1,0,0,0,9.17,0,0,0,,,
+JEI,,Jet Executive International Charter,DE,JET EXECUTIVE,1,0,0,0,37.80,5,0,0,,,
+JEJ,,Jets Ejecutivos,MX,,1,0,0,0,51.00,1,0,0,,,
+JEM,G3,Emerald Airways,GB,GEMSTONE,0,1,0,0,,,,,,,
+JET,,Svenskt Industriflyg AB,SE,TRADEWIND,1,0,0,0,12.78,0,0,0,,,
+JFA,,Jetfly Aviation SA,LU,MOSQUITO,1,0,0,0,5.89,0,0,0,,,
+JFL,,Jetfly Airline,AT,BLUE DANUBE,1,0,0,0,14.00,0,0,0,,,
+JFU,TB,Jet4you,MA,ARGAN,0,1,0,0,,,,,,,
+JIA,OH,PSA Airlines,US,BLUE STREAK,1,0,0,1,8.10,0,0,0,,,
+JIV,,Jivair AB,SE,JIV AIR,1,0,0,0,23.00,1,2,0,,,
+JJA,7C,Jeju Air,KR,JEJU AIR,1,1,1,1,12.00,0,0,0,35,26641,25455
+JJP,,Jetstar Japan,JP,ORANGE LINER,1,1,0,0,6.56,0,0,0,14,30358,4223
+JKH,,JK JetKontor AG,DE,JETKONTOR,1,0,0,0,13.67,0,0,0,,,
+JKK,JK,Spanair,ES,SPANAIR,0,1,0,0,,,,,,,
+JLB,,Jhonlin Air Transport,ID,JHONLIN,1,0,0,0,8.86,0,0,0,,,
+JLG,,Jet Logistics Inc,US,LOGISTICS,1,0,0,0,22.67,5,0,0,,,
+JME,,Executive Jet Management Europe,GB,JETMAN,1,0,0,0,8.13,0,0,0,,,
+JML,,Jet Aviation Flight Services Ltd,MT,MALTA JET,1,0,0,0,10.50,0,0,0,,,
+JMP,,Businesswings Luftfahrtunternehmen,DE,JUMP RUN,1,0,0,0,32.50,4,0,0,,,
+JMS,,Arc en Ciel Aviation,SN,SKY AVIATION,1,0,0,0,30.50,1,0,0,,,
+JNA,LJ,Jin Air,KR,JIN AIR,1,1,1,1,13.71,0,1,0,51,6904,18463
+JNL,,JetNetherlands,NL,JETNETHERLANDS,1,0,0,0,13.60,1,0,0,,,
+JNY,,Journey Aviation LLC,US,ROCK BAND,1,0,0,0,22.85,6,0,0,,,
+JOB,,Aerojobeni SA de CV,MX,JOBENI,1,0,0,0,42.00,1,0,0,,,
+JOC,,Just Us Air,RO,,1,0,0,0,17.50,0,0,0,,,
+JOS,L3*,DHL de Guatemala,GT,,1,0,0,0,33.00,1,1,0,,,
+JOY,JR,Joy Air,CN,JOY AIR,1,0,0,0,8.04,0,3,0,,,
+JPJ,,Jupiter Jet,KZ,JUPITERJET,1,0,0,0,43.00,3,0,0,,,
+JPL,,JetsPlus,US,SEQUOIA,1,0,0,0,18.40,1,0,0,,,
+JPO,,Jetpro SA de CV,MX,JETPRO,1,0,0,0,26.67,2,0,0,,,
+JRF,,First Air Transport Co Ltd,JP,,1,0,0,0,11.00,0,1,0,,,
+JRT,,JetRight Charter,US,JETRIGHT,1,0,0,0,8.00,0,0,0,,,
+JSH,,Jet-Stream Kft,HU,STREAM AIR,1,0,0,0,24.46,6,0,0,,,
+JSI,,Jetair Group,RU,SISTEMA,1,0,0,0,16.50,1,0,0,,,
+JSN,,Suncor Energy Inc,CA,JETSUN,1,0,0,0,8.00,0,0,0,,,
+JST,JQ,Jetstar,AU,JETSTAR,1,1,0,1,7.60,0,0,0,36,84981,44183
+JSX,XE,JetSuiteX Air,US,BIGSTRIPE,1,0,0,0,18.08,0,0,0,,,
+JSY,,Jung Sky D.o.o.,HR,JUNG SKY,1,0,0,0,18.00,0,0,0,,,
+JTA,NU,Japan TransOcean Air,JP,JAI OCEAN,1,0,0,1,2.92,0,0,0,10,25991,0
+JTB,,Jet Budget,SX,,1,0,0,0,10.00,0,0,0,,,
+JTE,,Cobham Avtn Services Australia-Regional Services,AU,JETEX,1,0,0,0,20.67,7,0,0,,,
+JTG,JO,Jet Time,DK,NEW JET,0,1,0,0,,,,,,,
+JTI,,Jet Air Fluggesellschaft GmbH,DE,JETCLIPPER,1,0,0,0,20.00,0,0,0,,,
+JTL,,Jet Linx Aviation LLC,US,JET LINX,1,0,0,0,15.10,2,0,0,,,
+JTM,,East Coast Flight Services Inc,US,JET COAST,1,0,0,0,36.40,5,0,0,,,
+JTS,,Zeman Flugtechnik und Logistik Munchen GmbH,DE,JETSERVICE,1,0,0,0,16.00,0,0,0,,,
+JTU,,Zhetysu Aviakompania,KZ,ZHETYSU,1,0,0,0,25.60,3,0,0,,,
+JUS,UJ*,USA Jet Airlines,US,JET USA,1,0,0,0,41.20,5,0,0,,,
+JWX,,Jetways Airlines,KE,JETWAYS,1,0,0,0,30.25,4,0,0,,,
+JYH,,9 Air,CN,TRANS JADE,1,1,0,0,4.39,0,0,0,19,8813,84
+JYP,,J & P Corporate Flights,MX,CORP-FLIGHT,1,0,0,0,15.33,0,0,0,,,
+JZA,QK,Jazz,CA,JAZZ,1,1,0,1,16.85,17,4,0,82,202504,34212
+JZR,J9,Jazeera Airways,KW,JAZEERA,1,1,1,1,4.20,0,1,0,19,0,11138
+KAC,KU,Kuwait Airways,KW,KUWAITI,1,1,1,1,3.42,0,1,0,44,0,24678
+KAI,,KaiserAir,US,KAISER,1,0,0,0,23.75,2,0,0,,,
+KAL,KE,Korean Air,KR,KOREANAIR,1,1,1,1,9.80,4,4,0,139,53761,115092
+KAM,,Sunkar Air,KZ,SUNKAR,1,0,0,0,10.00,0,0,0,,,
+KAP,9K,Cape Air,US,CAIR,1,1,0,1,34.59,86,0,0,31,75589,37425
+KAR,EO,Pegas Fly,RU,IKAR,1,0,1,1,21.00,0,0,0,,,
+KAY,,K5-Aviation,DE,KAYAK,1,0,0,0,7.57,0,0,0,,,
+KAZ,,Comlux KZ,KZ,KAZLUX,1,0,0,0,10.20,0,0,0,,,
+KBA,4K,Kenn Borek Air,CA,BOREK AIR,1,0,0,0,50.42,22,0,0,2,210,0
+KBD,,Jetkey,FR,JET KEY,1,0,0,0,5.00,0,0,0,,,
+KBS,,Business Aero,RU,,1,0,0,0,21.00,1,0,0,,,
+KBV,,Swedish Coast Guard,SE,SWECOAST,1,0,0,0,13.67,0,0,0,,,
+KBX,,Ibex-UL Sp ZOO,PL,SKYBEX,1,0,0,0,29.00,1,0,0,,,
+KBZ,K7,Air KBZ,MM,JADE AIR,1,1,0,0,2.25,0,0,0,15,16124,26
+KCE,,Irving Oil Transport Ltd,CA,KACEY,1,0,0,0,7.33,0,0,0,,,
+KCR,,Kolob Canyons Air Services,US,KOLOB,1,0,0,0,39.00,11,0,0,,,
+KDS,,Makani Kai Air Charters,US,KALEO,1,0,0,0,27.83,6,0,0,,,
+KEJ,,Kaz Air Jet,KZ,KAZAIRJET,1,0,0,0,20.29,3,0,0,,,
+KEN,,Kenmore Air,US,KENMORE,1,1,0,0,60.24,20,1,0,4,6214,2296
+KEY,,Key Air LLC,US,KEY AIR,1,0,0,0,6.00,0,0,0,,,
+KFA,FK,KF Cargo,CA,FLIGHTCRAFT,1,0,0,0,32.50,4,0,0,,,
+KFE,,Skyfirst Limited,MT,MORITO,1,0,0,0,15.50,0,0,0,,,
+KFS,,Kalitta Charters,US,KALITTA,1,0,0,0,36.30,8,0,0,,,
+KHT,,Khatlon Air,TJ,KHATLON,1,0,0,0,35.00,3,0,0,,,
+KHV,K6,Cambodia Angkor Air,KH,CAMBODIA AIR,1,1,1,1,7.25,0,0,0,18,3890,7213
+KIS,,Kish Air,IR,KISH AIR,1,0,0,0,26.56,8,0,0,,,
+KIW,,Royal New Zealand Air Force,NZ,KIWI,1,0,0,0,26.21,22,1,0,,,
+KJD,,Algerian Air Force,DZ,ALGERIAN AIRFORCE,1,0,0,0,55.71,196,0,0,,,
+KJE,,KapaJet,GR,KAPAJET,1,0,0,0,40.00,1,0,0,,,
+KKK,KK,AtlasGlobal,TR,ATLASGLOBAL,1,0,1,0,,,,,,,
+KLC,WA,KLM Cityhopper,NL,CITY,1,1,0,1,8.48,0,0,0,65,104,99403
+KLJ,,Klasjet,LT,CLASS LINE,1,0,0,0,22.67,1,0,0,,,
+KLM,KL,KLM Royal Dutch Airlines,NL,KLM,1,1,1,1,6.83,0,5,0,126,0,135408
+KLZ,,Aerokaluz SA de CV,MX,AEROKALUZ,1,0,0,0,11.00,0,0,0,,,
+KMA,,Komiaviatrans,RU,KOMI AVIA,1,0,0,0,29.51,34,0,0,,,
+KME,,Cambodia Airways,KH,GIANT IBIS,1,0,0,0,1.00,0,0,0,,,
+KMF,RQ*,Kam Air,AF,KAMGAR,1,1,0,0,25.00,2,0,0,14,3071,870
+KMI,8K,K-Mile Asia,TH,KAY-MILE AIR,1,1,0,0,22.67,0,0,0,7,0,533
+KMZ,,Comores Aviation,KM,COMORES AVIATION,1,0,0,0,40.00,1,0,0,,,
+KNA,KY,Kunming Airlines,CN,KUNMING AIR,1,0,1,1,4.00,0,0,0,35,30616,0
+KNE,XY,Flynas,SA,NAS EXPRESS,1,1,1,1,6.50,0,0,0,32,37972,18638
+KNT,,Flightpath Charter Airways Inc,CA,KINETIC,1,0,0,0,12.36,1,0,0,,,
+KOC,,SetAir,TR,SETAIR,1,0,0,0,5.00,0,0,0,,,
+KOR,JS,Air Koryo,KP,AIR KORYO,1,1,1,1,35.00,13,0,0,5,0,1086
+KOW,,Baker Aviation LLC,US,RODEO,1,0,0,0,21.82,3,0,0,,,
+KPM,,Sky Prim Air,MD,,1,0,0,0,53.00,1,0,0,,,
+KPR,,Trustco Air Services Ltd,NA,SKIPPER,1,0,0,0,20.33,2,0,0,,,
+KQA,KQ,Kenya Airways,KE,KENYA,1,1,1,1,12.00,0,1,0,56,10281,43064
+KRE,,Aerosucre Colombia,CO,AEROSUCRE,1,0,0,0,39.80,5,1,0,,,
+KRF,,RAF Royal & VIP,GB,KITTYHAWK,1,0,0,0,,,,,,,
+KRH,,RAF Royal & VIP,GB,SPARROWHAWK,1,0,0,0,,,,,,,
+KRO,,Kroonk Air Agency,UA,KROONK,1,0,0,0,32.50,14,0,0,,,
+KRP,V3,Carpatair,RO,CARPATAIR,1,0,1,0,,,,,,,
+KRS,,Takumi Aviation,JP,,1,0,0,0,23.00,2,0,0,,,
+KRU,,Karun Airlines,IR,KARUN,1,0,0,0,27.43,7,0,0,,,
+KSA,,Wings 4 Sky Group SIA,LV,SKY CAMEL,1,0,0,0,25.20,3,1,0,,,
+KSM,,Kosmos Airlines,RU,KOSMOS,1,0,0,0,38.20,4,0,0,,,
+KST,,PTL Luftfahrt GmbH,DE,KING STAR,1,0,0,0,35.00,1,0,0,,,
+KSU,,Kansas State University,US,K-STATE,1,0,0,0,37.25,4,0,0,,,
+KSZ,S6,Sunrise Airways,HT,,1,1,0,0,29.67,3,0,0,4,1794,448
+KTB,,Transaviabaltika,LT,TRANSBALTIKA,1,0,0,0,31.67,3,0,0,,,
+KTK,ZF,Azur Air Russia,RU,AZUR AIR,1,0,0,0,13.00,0,0,0,,,
+KTO,,Aeroservicios Kratos SA De CV,MX,KRATOS,1,0,0,0,9.00,0,0,0,,,
+KUH,,Kush Air,SS,KUSH AVIATION,1,0,0,0,30.00,2,0,0,,,
+KUK,,Kudlik Aviation Inc,CA,KUDLIK,1,0,0,0,13.67,0,0,0,,,
+KUY,,Kaz Air Trans,KZ,KAIGA,1,0,0,0,36.00,1,0,0,,,
+KVA,,Kavok Airlines,VE,CATATUMBO,1,0,0,0,28.00,1,0,0,,,
+KVR,,Sky Service AK,KZ,KAVAIR,1,0,0,0,21.44,7,0,0,,,
+KYC,,SkyBird Air,NG,SKYBIRD CHARTER,1,0,0,0,22.75,1,0,0,,,
+KYE,GG,Sky Lease Cargo,US,SKY CUBE,1,1,0,0,16.50,0,1,0,18,100,444
+KYR,,Sky Aeronautical Services SA de CV,MX,SKY AERONAUTICAL,1,0,0,0,27.00,1,0,0,,,
+KZH,,ZhezAir,KZ,ULUTAU,1,0,0,0,28.17,4,0,0,,,
+KZN,,Aviaservice,RU,KAZANAIR,1,0,0,0,10.46,0,0,0,,,
+KZR,KC,Air Astana,KZ,ASTANALINE,1,1,1,1,3.80,0,1,0,42,23627,18712
+KZU,GO,ULS Air Cargo,TR,UNIVERSAL CARGO,1,1,0,0,,,,,,,
+LAA,LN,Libyan Airlines,LY,LIBAIR,1,1,0,0,17.67,1,0,0,16,1199,4630
+LAE,L7,LATAM Cargo Colombia,CO,,1,1,0,1,14.00,0,0,0,3,0,90
+LAF,,Latvian Air Force,LV,LATVIAN AIRFORCE,1,0,0,0,29.25,4,0,0,,,
+LAM,TM,LAM Mozambique Airlines,MZ,MOZAMBIQUE,1,0,1,0,,,,,,,
+LAN,LA,LATAM Airlines Chile,CL,LAN CHILE,1,1,1,1,4.89,0,0,0,53,18841,29814
+LAO,QV,Lao Airlines,LA,LAO,1,1,1,1,19.50,1,1,0,30,6928,8842
+LAP,PZ,LATAM Airlines Paraguay,PY,PARAGUAYA,1,0,1,0,,,,,,,
+LAS,,Skymedia,CH,LIONS HELICOPTER,1,0,0,0,17.20,0,0,0,,,
+LAU,4L,Lineas Aereas Suramericanas,CO,SURAMERICANO,1,0,0,0,42.20,5,1,0,,,
+LAV,AP,Albastar,ES,ALBASTAR,1,0,1,0,,,,,,,
+LAY,,Layang-Layang Aerospace,MY,LAYANG,1,0,0,0,35.00,9,3,0,,,
+LBC,LV,Albanian Airlines,AL,ALBANIAN,1,1,0,0,,,,,,,
+LBQ,,Quest Diagnostics Inc,US,LABQUEST,1,0,0,0,15.83,0,0,0,,,
+LBR,,Air Borealis,CA,NORTHLIGHT,1,0,0,0,42.50,8,0,0,,,
+LBT,BJ,Nouvelair,TN,NOUVELAIR,1,1,1,1,16.33,0,0,0,17,95,2883
+LBW,4H,Albatros Airways,AL,ALBANWAYS,0,1,0,0,,,,,,,
+LBY,LZ,Belle Air,AL,ALBAN-BELLE,0,1,0,0,,,,,,,
+LBZ,,Space Jet,ID,,1,0,0,0,8.00,0,0,0,,,
+LCD,ZE,Líneas Aéreas Azteca,MX,LINEAS AZTECA,0,1,0,0,,,,,,,
+LCM,,Lineas Aereas Comerciales SA de CV,MX,LINEAS COMERCIALES,1,0,0,0,26.50,1,0,0,,,
+LCO,UC,LATAM Cargo Chile,CL,LAN CARGO,1,1,1,1,18.80,0,0,0,20,20753,730
+LCR,,Libyan Air Cargo,LY,,1,0,0,0,37.00,1,0,0,,,
+LCT,YQ,TAR Aerolineas,MX,CONEXION LINK,1,0,0,0,20.70,0,0,0,12,5271,0
+LCV,,SmartLynx Airlines Cabo Verde,CV,CABO CAT,0,0,0,0,,,,,,,
+LDA,LW,Lauda Europe,MT,BEAUFORT,1,1,0,0,,,,,,,
+LDE,,LADE,AR,,1,0,0,0,51.00,5,0,0,,,
+LDM,OE,Lauda,AT,LAUDA MOTION,0,1,0,0,,,,,,,
+LDR,,AeroLider SA de CV,MX,AEROLIDER,1,0,0,0,14.00,0,0,0,,,
+LDX,,LaudaMotion Executive GmbH,AT,LAUDA RUSH,1,0,0,0,9.14,0,0,0,,,
+LEA,,Luxaviation France,FR,LEADAIR,1,0,0,0,22.40,2,0,0,,,
+LEM,,Aviatsa,HN,LEMPIRAS,1,0,0,0,36.50,2,0,0,,,
+LER,QL*,LASER,VE,LASER,1,1,0,0,30.56,9,0,0,11,6620,4003
+LET,,Aerolineas Ejecutivas,MX,MEXALE,1,0,0,0,11.60,1,0,0,,,
+LEU,,Lions Air,CH,LIONSAIR,1,0,0,0,3.00,0,0,0,,,
+LFI,,NAC Helicopters,ZA,AEROMED,1,0,0,0,13.50,0,0,0,,,
+LGL,LG,Luxair,LU,LUXAIR,1,0,1,0,,,,,,,
+LGT,,Longtail Aviation Ltd,BM,LONGTAIL,1,0,0,0,19.00,0,0,0,,,
+LHA,,Longhao Airlines,CN,AIR CANTON,1,0,0,0,22.67,1,0,0,,,
+LHK,,Lahak Aviation Ltd,IL,,1,0,0,0,24.80,6,0,0,,,
+LIA,LI,LIAT Airlines,AG,LIAT,1,0,1,0,,,,,,,
+LIC,,Asia Sky Lines,TJ,ASIASLINE,1,0,0,0,30.00,1,0,0,,,
+LID,,Alidaunia,IT,ALIDA,1,1,0,0,11.75,1,0,0,6,1372,403
+LIP,,Lipican Aer,SK,LIPIZAN,1,0,0,0,30.00,1,0,0,,,
+LIZ,DU,Sky Jet,CA,,1,0,0,0,34.80,6,0,0,,,
+LJB,,Al Jaber Aviation,AE,AL JABER,1,0,0,0,10.50,0,0,0,,,
+LKE,8L,Lucky Air,CN,LUCKY AIR,1,1,1,1,5.73,0,0,0,72,56751,2694
+LKF,,Aviation Advisor Inc,US,LAKEFRONT,1,0,0,0,12.11,0,0,0,,,
+LKN,IN,Nam Air,ID,NAMAIR,1,0,0,0,18.38,5,0,0,,,
+LKV,,Lukiaviatrans,RU,,1,0,0,0,40.67,3,0,0,,,
+LLB,LB,Lloyd Aéreo Boliviano,BO,LLOYDAEREO,0,1,0,0,,,,,,,
+LLL,LK,Lao Skyway,LA,LAVIE,1,0,0,0,10.67,0,0,0,,,
+LLM,YC,Yamal Airlines,RU,YAMAL,1,1,0,0,26.60,46,0,0,41,14838,1701
+LLR,9I,Alliance Air,IN,ALLIED,1,0,0,0,17.67,2,1,0,36,12200,0
+LLS,,Servicios Aereos Estrella SA de CV,MX,SERVIESTRELLA,1,0,0,0,19.50,1,0,0,,,
+LLT,,Classic Jet UAB,LT,CLASSIC JET,1,0,0,0,13.00,0,0,0,,,
+LMG,,South African Air Force,ZA,SOUTH AFRICAN,1,0,0,0,24.87,121,0,0,,,
+LMJ,,Luxaviation Portugal,PT,MASTERJET,1,0,0,0,13.00,0,0,0,,,
+LMP,,Servicios Aereos e Inmobiliaras SA de CV,MX,SAISA,1,0,0,0,5.00,0,0,0,,,
+LMU,UJ,AlMasria Universal Airlines,EG,ALMASRIA,1,0,1,0,,,,,,,
+LNE,XL,LATAM Airlines Ecuador,EC,AEROLANE,1,1,1,1,10.50,0,0,0,11,9798,5295
+LNH,,Lanhsa Airlines,HN,,1,0,0,0,31.00,5,0,0,,,
+LNI,,Lion Air,ID,LION INTER,1,1,0,1,7.60,0,5,1,99,266680,11100
+LNK,4Z,Airlink,ZA,LINK,1,1,1,1,5.00,0,2,0,42,35685,17770
+LNX,,Luxaviation United Kingdom,GB,LONEX,1,0,0,0,13.88,2,0,0,,,
+LOG,,Loganair,GB,LOGAN,1,1,0,0,27.29,10,0,0,27,38785,588
+LOL,,Easy Charter,GE,EASY CHARTER,1,1,0,0,,,,,,,
+LOT,LO,LOT Polish Airlines,PL,LOT,1,1,1,1,4.50,0,1,0,67,23069,60006
+LPA,,Air Leap,SE,LEAP,1,0,0,0,30.00,1,0,0,,,
+LPE,LP,LATAM Airlines Peru,PE,LANPERU,1,1,1,1,5.75,0,0,0,46,52620,17757
+LPR,,Polish Medical Air Rescue,PL,RATOVNIK,1,0,0,0,9.32,0,0,0,,,
+LRB,,LR Airlines,CZ,LADY RACINE,1,0,0,0,33.00,2,0,0,,,
+LRC,LR,Avianca Costa Rica,CR,LACSA,1,0,1,0,,,,,,,
+LRK,,Skyjet Aviation Services Ltd,NG,SKYLARK,1,0,0,0,12.75,0,0,0,,,
+LRR,,Lorraine Aviation,FR,LORRAINE,1,0,0,0,12.00,0,0,0,,,
+LRS,,SANSA,CR,,1,1,0,0,7.89,0,0,0,12,28891,894
+LRT,,Liberty Jet Management,US,LIBERTY JET,1,0,0,0,9.40,0,0,0,,,
+LSE,,LASSA - Linea de Aero Servicios,CL,,1,0,0,0,38.00,2,0,0,,,
+LSK,,Aurela,LT,AURELA,0,1,0,0,,,,,,,
+LSM,,Luxaviation San Marino SRL,SM,TITAN,1,0,0,0,5.33,0,0,0,,,
+LTC,,"Charter Jets, UAB",LT,CHARTER JETS,1,1,0,0,15.00,0,0,0,63,0,3383
+LTD,,Executive Express Aviation LLC,US,LIGHTSPEED,1,0,0,0,26.67,1,0,0,19,6974,0
+LTF,,Lets Fly SRO,CZ,LETS FLY,1,0,0,0,48.00,1,0,0,,,
+LTG,M3,LATAM Cargo Brazil,BR,TAMCARGO,1,0,1,1,16.33,0,0,0,,,
+LTO,L3,LTU Austria,AT,BILLA TRANSPORT,0,1,0,0,,,,,,,
+LTR,,Lufttransport,NO,LUFT TRANSPORT,1,0,0,0,23.60,3,0,0,2,1206,0
+LTU,LT,LTU International,DE,LTU,0,1,0,0,,,,,,,
+LUC,,Albinati Aeronautics,CH,ALBINATI,1,0,0,0,6.80,0,0,0,,,
+LUK,,Lukoil Avia,RU,LUKOIL,1,0,0,0,15.38,1,0,0,,,
+LUR,TD,Atlantis Armenian Airlines,AM,ATLANTIS,0,0,0,0,38.00,1,0,0,,,
+LWG,,Luxwing Ltd,MT,LUXWING,1,0,0,0,17.67,3,0,0,,,
+LXA,,Luxaviation Luxembourg S.A.,LU,RED LION,1,0,0,0,9.55,0,0,0,,,
+LXC,,CAE Aviation,LU,LUXVAN,1,0,0,0,27.47,11,0,0,,,
+LXJ,,Flexjet LLC,US,FLEXJET,1,0,0,0,6.79,0,0,0,,,
+LXP,LU,LATAM Express,CL,LANEX,0,0,0,0,,,,,,,
+LXR,LK,Air Luxor,PT,AIRLUXOR,0,1,0,0,,,,,,,
+LYC,,Lynden Air Cargo,US,LYNDEN,1,0,0,0,42.29,7,1,0,4,996,0
+LYD,,LyddAir,GB,LYDDAIR,1,1,0,0,42.17,6,0,0,2,0,166
+LYM,KG,Key Lime Air,US,KEY LIME,1,0,0,0,36.21,19,4,1,,,
+LYX,,SmartLynx Malta,MT,MALTA CAT,1,0,0,0,,,,,,,
+LZB,FB,Bulgaria Air,BG,FLYING BULGARIA,1,1,1,1,10.50,0,0,0,74,2244,11845
+LZF,,Lease Fly,PT,SKYLEASE,1,0,0,0,26.00,1,0,0,,,
+MAA,M7,Mas Air,MX,MAS CARGA,1,0,1,1,14.00,0,0,0,,,
+MAC,3O,Air Arabia Maroc,MA,ARABIA MAROC,1,1,0,0,,,,,34,,
+MAE,,Mali Air Luftverkehr GmbH,AT,MALI AIREXPRESS,1,0,0,0,22.20,2,0,0,,,
+MAH,MA,Malév Hungarian Airlines,HU,MALEV,0,1,0,0,,,,,,,
+MAI,L6,Mauritania Airlines,MR,,1,1,1,1,4.00,0,0,0,10,1188,2726
+MAL,,Morningstar Air Express,CA,MORNINGSTAR,1,0,0,0,27.00,14,0,0,,,
+MAS,MH,Malaysia Airlines,MY,MALAYSIAN,1,1,1,1,7.92,0,0,0,66,51709,60453
+MAU,MK,Air Mauritius,MU,AIRMAURITIUS,1,1,1,1,12.67,0,0,0,25,3033,8709
+MAV,NR,Manta Air,MV,SEA WING,1,0,0,0,43.67,6,0,0,,,
+MAW,,Mustique Airways,VC,MUSTIQUE,1,0,0,0,42.50,2,0,0,,,
+MAX,,Max Aviation,CA,MAX AVIATION,1,0,0,0,41.62,8,0,0,,,
+MAY,AL,Malta Air,MT,BLUE MED,1,0,0,0,4.00,0,0,0,,,
+MBC,,Airjet Angola,AO,MABECO,1,0,0,0,28.00,1,0,0,,,
+MBR,,Brazilian Navy,BR,BRAZILIAN NAVY,1,0,0,0,25.56,35,0,0,,,
+MCC,,MCC Aviation Ltd,ZA,DISCOVERY,1,0,0,0,15.21,4,0,0,,,
+MCM,YO,Heli Air Monaco,MC,HELI AIR,1,1,0,0,29.83,4,0,0,7,0,3401
+MCS,,TUM AeroCarga,MX,CARMEX,1,0,0,0,25.67,4,0,0,,,
+MCT,,Transportacion Aerea del Mar de Cortes,MX,TRANS CORTES,1,0,0,0,10.00,0,0,0,,,
+MCV,,MTC Aviacion S A de C V,MX,MTC AVIACION,1,0,0,0,45.00,1,0,0,,,
+MDA,AE,Mandarin Airlines,TW,MANDARIN,1,1,1,1,4.33,0,1,0,21,11528,2878
+MDF,,Swiftair Hellas,GR,MED-FREIGHT,1,0,0,0,33.67,3,0,0,,,
+MDG,MD,Air Madagascar,MG,AIR MADAGASCAR,1,0,1,0,,,,,,,
+MDL,RI,Tigerair Mandala,ID,MANDALA,0,1,0,0,,,,,,,
+MDR,,Compania Mexicana de Aeroplanos SA de CV,MX,AEROPLANOS,1,0,0,0,39.00,1,0,0,,,
+MDS,,McNeely Charter Service,US,MID-SOUTH,1,0,0,0,36.62,8,0,0,,,
+MDT,,Sundt Air,NO,MIDNIGHT,1,0,0,0,11.38,0,0,0,,,
+MDV,2M,Moldavian Airlines,MD,MOLDAVIAN,0,1,0,0,,,,,,,
+MDX,,Aerosud,ZA,MEDAIR,1,0,0,0,44.50,2,0,0,,,
+MEA,ME,Middle East Airlines,LB,CEDAR JET,1,0,1,0,,,,,,,
+MEM,,Meridian,UA,MERIDIAN CHERRY,1,0,0,0,35.29,7,0,0,,,
+MEN,,Mena Aerospace,BH,RAHAL,1,0,0,0,16.00,0,0,0,,,
+MEP,YX,Midwest Airlines,US,MIDEX,0,0,0,0,,,,,,,
+MFG,,Fly Mid Africa,GM,MID AFRICA,1,0,0,0,21.00,0,0,0,,,
+MFT,,Multiflight Jet Charter,GB,YORKAIR,1,0,0,0,22.86,4,0,0,,,
+MFY,,Medifly S.A. de C.V.,MX,MEDIFLY MEX,1,0,0,0,22.00,0,0,0,,,
+MGE,P9*,Asia Pacific Airlines,GU,MAGELLAN,1,0,0,0,30.50,4,0,0,,,
+MGG,,El Magal Aviation,SD,ELMAGAL,1,0,0,0,40.00,2,0,0,,,
+MGL,OM,MIAT Mongolian Airlines,MN,MONGOL AIR,1,0,1,0,,,,,,,
+MGM,,Transporte Aereo MGM SA de CV,MX,AERO EMM-GEE-EMM,1,0,0,0,18.00,0,0,0,,,
+MGT,,Air Attack Technologies,FR,MIGHTYVAN,1,0,0,0,41.00,1,0,0,,,
+MGX,YM,Montenegro Airlines,ME,MONTENEGRO,1,0,1,0,,,,,,,
+MHD,,Yas Air,IR,YAS AIR,1,0,0,0,15.00,0,0,0,,,
+MHO,,Mokulele Airlines,US,MAHALO,1,0,0,0,6.88,0,0,0,,,
+MHS,E9,Air Memphis,EG,AIR MEMPHIS,0,1,0,0,,,,,,,
+MHV,,MHS Aviation,DE,SNOWCAP,1,1,0,0,14.91,0,0,0,7,1977,603
+MIN,,MJets,TH,,1,0,0,0,15.17,0,0,0,,,
+MJE,,Empire Aviation Group FZCO,AE,EMJET,1,0,0,0,7.89,0,0,0,,,
+MJF,,MJet,AT,EM-EXPRESS,1,0,0,0,8.07,0,0,0,,,
+MJN,,Royal Air Force of Oman,OM,MAJAN,1,0,0,0,12.66,25,0,0,,,
+MJR,,MidAmerica Jet Inc,US,MAJOR,1,0,0,0,6.60,0,0,0,,,
+MKH,,Air Marrakech Services,MA,,1,0,0,0,39.00,1,0,0,,,
+MKR,,Lanmei Airlines,CN,AIR LANME,1,0,0,0,13.67,0,0,0,,,
+MLA,Q5*,40-Mile Air,US,MILE-AIR,1,0,0,0,28.50,1,0,0,2,838,0
+MLD,9U,Air Moldova,MD,AIR MOLDOVA,1,1,1,1,22.00,0,0,0,29,0,8568
+MLM,,Comlux Aviation Malta,MT,LUXMALTA,1,0,0,0,8.10,0,0,0,,,
+MLN,,Corporate Air LLC,US,MILLENNIUM,1,0,0,0,13.60,1,0,0,,,
+MLO,,Servicios Aereos Milenio SA de CV,MX,MILENIO,1,0,0,0,21.88,2,0,0,,,
+MLR,MJ,Mihin Lanka,LK,MIHIN LANKA,0,1,0,0,,,,,,,
+MLT,DB,Maleth Aero,MT,MALETH,1,0,0,0,24.14,4,0,0,,,
+MMA,8M,Myanmar Airways International,MM,MYANMAR,1,1,1,1,13.00,0,0,0,17,3358,3404
+MMC,,Aermarche SpA,IT,,1,0,0,0,18.00,0,0,0,,,
+MMD,6I,Air Alsie,DK,MERMAID,1,0,0,0,5.35,0,0,0,2,2256,0
+MMG,,ARM Aviacion,GT,RUTA MAYA,1,0,0,0,31.50,3,0,0,,,
+MML,MR,Hunnu Air,MN,TRANS MONGOLIA,1,1,0,0,11.33,0,0,0,11,1858,662
+MMM,,Meridian Air,RU,AVIAMERIDIAN,1,0,0,0,8.00,0,0,0,,,
+MMN,,Professional Airways LLC,US,MINUTEMAN,1,0,0,0,22.75,1,0,0,,,
+MMZ,YU,EuroAtlantic airways,PT,EUROATLANTIC,1,1,1,1,18.00,0,0,0,18,0,227
+MNB,MB,MNG Airlines,TR,BLACK SEA,1,1,1,1,23.83,4,0,0,17,52,3001
+MNG,M0,Aero Mongolia,MN,AERO MONGOLIA,1,1,0,0,16.00,0,0,0,7,558,356
+MNJ,IM,MenaJet,LB,MENAJET,0,1,0,0,,,,,,,
+MNO,JE,Mango,ZA,TULCA,1,1,0,0,,,,,,,
+MNT,5M,Montserrat Airways,MS,MONTSERRAT,1,1,0,0,42.00,2,0,0,13,0,3371
+MNU,7Q,Elite Airways,US,MAINER,1,0,0,0,20.33,1,0,0,,,
+MON,ZB,Monarch Airlines,GB,MONARCH,0,1,0,0,,,,,,,
+MOZ,,SalzburgJetAviation GmbH,AT,MOZART,1,0,0,0,12.00,0,0,0,,,
+MPE,,Canadian North,CA,EMPRESS,1,1,0,0,23.92,2,0,0,20,7245,82
+MPH,MP,Martinair,NL,MARTINAIR,1,1,1,1,20.00,1,1,0,26,0,3645
+MQT,,Air ITM,FR,MUSKETEER,1,0,0,0,14.00,0,0,0,,,
+MRA,,Martinaire,US,MARTEX,1,0,0,0,28.92,22,0,0,,,
+MRJ,JI,Meraj Air,IR,MERAJ AIRLINE,1,1,0,0,17.00,0,0,0,14,2494,907
+MRK,BF,MarkAir,US,MARKAIR,0,0,0,0,,,,,,,
+MRR,,West Isle Air Inc,US,MARINER,1,0,0,0,62.00,2,0,0,,,
+MRS,,Mars Avia,AM,MARS CARGO,1,0,0,0,24.80,4,0,0,,,
+MSA,M4,Poste Air Cargo,IT,MISTRAL WINGS,1,0,1,1,23.22,2,0,0,13,1332,0
+MSC,SM,Air Cairo,EG,,1,1,1,1,14.00,0,0,0,29,47,8941
+MSI,,Motor Sich Airlines,UA,MOTOR SICH,1,1,0,0,37.83,11,0,0,6,1760,848
+MSJ,,Skyjet,PH,MAGNUM AIR,1,0,0,0,26.25,3,0,0,4,2845,0
+MSM,,Aeromas,UY,AEROMAS EXPRESS,1,0,0,0,36.50,2,0,0,,,
+MSR,MS,Egyptair,EG,EGYPTAIR,1,1,1,1,8.89,0,3,1,77,24138,59667
+MSS,KN,Moriss Air,US,WASATCH,0,0,0,0,,,,,,,
+MSU,,MGC Aviation,LS,MALUTI SKY,1,1,0,0,30.50,1,0,0,2,0,1242
+MTB,,Aerotaxis Metropolitanos SA de CV,MX,AEROMETROPOLIS,1,0,0,0,18.50,0,0,0,,,
+MTD,7N,Metrojets LLC,US,MATADOR,1,0,0,0,58.00,1,0,0,,,
+MTJ,,Metrojet,HK,METROJET,1,0,0,0,8.82,0,0,0,,,
+MTL,,RAF-AVIA,LV,MITAVIA,1,0,0,0,32.40,4,0,0,,,
+MTN,,Mountain Air Cargo,US,MOUNTAIN,1,0,0,0,27.22,44,0,0,,,
+MTS,,Med Jets SA de CV,MX,MEDSERVICE,1,0,0,0,27.00,1,0,0,,,
+MTX,,Multitaxi SA,MX,MULTITAXI,1,0,0,0,25.00,2,0,0,,,
+MUI,,TransAir,US,TRANSAIR,1,0,0,0,36.11,9,0,0,,,
+MVP,,Corporate Air Travel LLC,US,ALLSTAR,1,0,0,0,32.29,6,0,0,,,
+MWG,,MASwings,MY,MASWINGS,1,1,0,0,10.00,0,0,0,24,54837,790
+MWM,WD,Modern Logistics,BR,MODERNAIR,1,0,0,0,30.00,4,0,0,,,
+MXA,MX,Mexicana de Aviación,MX,MEXICANA,0,1,0,0,,,,,,,
+MXD,OD,Malindo Air,MY,MALINDO,1,1,1,1,6.67,0,1,0,47,39584,22340
+MXE,,Mocambique EXpresso,MZ,MOZAMBIQUE EXPRESS,1,0,0,0,20.00,0,1,0,,,
+MXM,6M,Maximus Airlines,UA,MAXLINES,1,0,0,0,22.00,1,0,0,,,
+MYA,,Myflug,IS,MYFLUG,1,0,0,0,21.00,1,0,0,,,
+MYD,2M,Maya Island Air,BZ,MYLAND,1,1,0,0,15.67,3,0,0,4,46046,44
+MYI,,MAYAir,MX,MAYAIR,1,0,0,0,30.67,3,0,0,5,4920,0
+MYU,,My Indo Airlines,ID,INDO,1,1,0,0,36.00,4,0,0,6,3391,1069
+MYX,,SmartLynx Airlines Estonia,EE,TALLINN CAT,1,0,0,0,,,,,,,
+NAC,,Northern Air Cargo,US,YUKON,1,0,0,0,29.71,7,0,0,10,3656,0
+NAE,,National Airways,ET,NATIONAL,1,1,0,0,19.00,0,0,0,13,3084,1898
+NAF,,Royal Netherlands Air Force,NL,NETHERLANDS AIR FORCE,1,0,0,0,29.24,89,0,0,,,
+NAX,DY,Norwegian,NO,NOR SHUTTLE,1,1,0,0,6.62,0,1,0,124,43652,86264
+NCA,KZ,Nippon Cargo Airlines,JP,NIPPON CARGO,1,1,1,1,7.62,0,0,0,17,311,7810
+NCB,,North Cariboo Air,CA,NORTH CARIBOU,1,0,0,0,35.54,10,1,0,,,
+NCG,,Royal Netherlands Coast Guard,NL,NETHERLANDS COASTGUARD,1,0,0,0,30.00,1,0,0,,,
+NCJ,,North Central Aviation Inc,US,NORTH CENTRAL,1,0,0,0,19.17,1,0,0,,,
+NCL,,Air Guicango,AO,ANCARGO AIR,1,0,0,0,27.00,1,0,0,,,
+NCR,N8,National Airlines,US,NATIONAL CARGO,1,0,0,1,29.00,3,0,0,,,
+NCS,,Simpson Air,CA,,1,0,0,0,57.00,2,0,0,,,
+NCT,XW,NokScoot,TH,BIG BIRD,1,0,0,1,19.00,0,0,0,,,
+NDC,LF,FlyNordic,SE,NORDIC,0,1,0,0,,,,,,,
+NDF,,Namibian Air Force,NA,NAMIBIAN AIRFORCE,1,0,0,0,29.84,7,0,0,,,
+NDL,,Chrono Aviation,CA,NEEDLE,1,0,0,0,22.00,4,0,0,,,
+NEA,,New England Airlines,US,NEW ENGLAND,1,0,0,0,45.25,4,0,0,,,
+NEF,,Nordflyg Logistik AB,SE,NORDEX,1,0,0,0,17.00,0,0,0,,,
+NEP,N7*,MY Jet Xpress,MY,WARISAN,1,0,0,0,32.50,2,0,0,,,
+NEW,,Northeastern Aviation Corp,US,NORTHEASTERN,1,0,0,0,15.50,1,0,0,,,
+NFA,,North Flying,DK,NORTH FLYING,1,1,0,0,29.80,7,0,0,4,0,1094
+NFT,,UTair Helicopter Services,RU,NEFTEAVIA,1,0,0,0,25.13,77,0,0,,,
+NGL,VM,MaxAir,NG,MAXAIR NIGERIA,1,1,0,0,18.60,0,0,0,12,0,1537
+NHE,,Nord Helikopter AS,NO,NORD,1,0,0,0,8.00,0,0,0,,,
+NHX,,NHV - Noordzee Helikopters Vlaanderen,BE,EVO,1,0,0,0,12.33,3,0,0,,,
+NIA,NP,Nile Air,EG,NILE BIRD,1,0,1,0,,,,,,,
+NIG,,Aero Contractors,NG,AEROLINE,1,1,0,0,27.33,5,0,0,14,10574,1390
+NIM,,Air Nimbus - Operacoes Aereas S.A,PT,NIMJET,1,0,0,0,12.00,0,0,0,,,
+NIN,6N,Niger Airlines,SA,NIGER AIRLINES,1,0,0,0,31.50,2,0,0,3,471,0
+NIS,,La Costena,NI,NICA,1,1,0,0,14.17,2,0,0,10,4596,126
+NJE,,NetJets Europe,PT,FRACTION,1,0,0,0,7.79,0,0,0,,,
+NJF,,NasJet,SA,,1,0,0,0,13.25,0,0,0,,,
+NJT,,NetJets International,US,NETJET,1,0,0,0,13.42,0,0,0,,,
+NKS,NK,Spirit Airlines,US,SPIRIT WINGS,1,1,0,0,6.88,0,4,0,59,134835,15239
+NKV,,Nikolaev Air,UA,AIR NIKOLAEV,1,0,0,0,35.00,5,0,0,,,
+NKZ,,Aerokuzbass,RU,NOVOKUZNETSK,1,0,0,0,36.00,1,0,0,,,
+NLI,,Northern Air Charter,CA,NORTH LINK,1,0,0,0,32.43,6,0,0,,,
+NLU,8I,Insel Air Aruba,CW,INSEL ARUBA,0,1,0,0,,,,,,,
+NLY,HG,Niki,AT,FLYNIKI,0,1,0,0,,,,,,,
+NMA,NE,Nesma Airlines,EG,NESMA,1,0,1,0,,,,,,,
+NMB,SW,Air Namibia,NA,NAMIBIA,1,0,1,0,,,,,,,
+NMG,,Genghis Khan Airlines,CN,TIANJIAO AIR,1,0,0,0,1.00,0,0,0,,,
+NOF,,Fonnafly AS,NO,FONNA,1,0,0,0,12.12,0,0,0,,,
+NOK,DD,Nok Air,TH,NOK AIR,1,1,0,0,5.12,0,1,0,30,62409,5474
+NOS,NO,Neos,IT,MOONFLOWER,1,1,1,1,11.71,1,0,0,94,1319,8717
+NOV,,Nova Airways,SD,NOVANILE,1,1,0,0,17.50,0,0,0,13,2141,610
+NPT,,West Atlantic,GB,NEPTUNE,1,0,0,0,27.05,17,0,0,,,
+NRG,,National Regionale Transport,GA,,1,0,0,0,29.00,1,0,0,,,
+NRK,,NAC Flight Services,ZA,NATURELINK,1,0,0,0,30.50,2,0,0,,,
+NRL,,Nolinor Aviation,CA,NOLINOR,1,0,0,0,38.92,11,0,0,,,
+NSE,9R*,SATENA,CO,SATENA,1,1,0,0,23.00,0,1,0,39,26367,12
+NSJ,,Nanshan Jet,CN,NANSHAN,1,0,0,0,5.86,0,0,0,,,
+NSK,,Air Intersalonika,GR,INTERSALONIKA,1,0,0,0,23.00,3,0,0,,,
+NSO,S0,Aerolineas SOSA,HN,SOSA,1,1,0,0,32.82,11,0,0,16,9004,2185
+NSP,,Samaritans Purse,US,SAM PURSE,1,0,0,0,29.06,8,0,0,,,
+NST,,Pakistan Aviators & Aviation Ltd.,PK,NISHAT,1,0,0,0,9.00,0,0,0,,,
+NSW,LE,Norwegian Air Sweden,SE,NORDIC,1,0,0,0,5.00,0,0,0,,,
+NTA,,Northern Thunderbird Air,CA,THUNDERBIRD,1,0,0,0,17.50,1,0,0,,,
+NTB,3B,TICV,CV,MORABEZA,1,0,0,0,15.67,0,0,0,,,
+NTG,,FlyMex,MX,INTEGRALES,1,0,0,0,19.33,1,0,0,,,
+NTH,,Hokkaido Air System,JP,NORTH AIR,1,0,0,0,16.50,0,0,0,,,
+NTJ,2N,NextJet,SE,NEXTJET,0,1,0,0,,,,,,,
+NTL,TD,Air Anatolia,TR,AIR ANATOLIA,0,1,0,0,,,,,,,
+NTN,,National Airways Corporation,ZA,NATCHAIR,1,0,0,0,15.63,8,0,0,,,
+NUL,,Aeroservicios de Nuevo Leon SA de CV,MX,SERVICIOS NUEVOLEON,1,0,0,0,29.00,1,0,0,,,
+NUM,,Nomad Aviation AG,CH,BULLY,1,0,0,0,9.83,0,0,0,,,
+NUS,,Northern Illinois Flight Center Inc,US,ENJET,1,0,0,0,21.78,3,0,0,,,
+NVC,,Nav Canada,CA,NAV CAN,1,0,0,0,24.00,1,0,0,,,
+NVD,X9,Avion Express,LT,NORDVIND,1,1,0,1,20.33,1,0,0,49,0,2185
+NVJ,,Fly International Airways,TN,NOUVINTER,1,0,0,0,21.00,0,0,0,,,
+NVK,,Nizhnevartovskavia,RU,VARTOVSKAVIA,1,0,0,0,29.50,23,0,0,,,
+NVM,,Naviera Mexicana SA de CV,MX,NAVIERA,1,0,0,0,21.00,0,0,0,,,
+NVQ,,NovoAir,BD,NOVO AIR,1,1,0,0,20.00,0,1,1,10,9223,340
+NVS,,Nouvelle Air Affaires Gabon,GA,NOUVELLE AFFAIRES,1,0,0,0,24.00,1,0,0,,,
+NVY,,Royal Navy,GB,NAVY,1,0,0,0,16.83,12,0,0,,,
+NWA,NW,Northwest Airlines,US,NORTHWEST,0,1,0,0,,,,,,,
+NWF,,Northwest Flyers,US,SECOND CITY,1,0,0,0,25.75,3,0,0,,,
+NWG,,Airwing,NO,NORWING,1,0,0,0,28.50,2,0,0,,,
+NWK,,Network Aviation,AU,NETLINK,1,0,0,0,24.11,14,0,0,,,
+NWL,,North Wright Airways,CA,NORTHWRIGHT,1,0,0,0,33.38,5,1,0,8,7004,0
+NWS,N4,Nordwind Airlines,RU,NORDLAND,1,0,1,1,15.11,0,0,0,,,
+NXU,,Nexus Flight Operations Services,SA,NEXUS,1,0,0,0,9.57,0,0,0,,,
+NYT,YT,Yeti Airlines,NP,YETI AIRLINES,1,0,0,0,24.50,1,3,0,9,14207,0
+NYX,,NyxAir,EE,NYX AIR,1,0,0,0,30.00,1,0,0,,,
+NZM,,Mount Cook Airline,NZ,MOUNTCOOK,1,0,0,1,3.67,0,0,0,16,51275,0
+OAE,,Omni Air International,US,OMNI-EXPRESS,1,1,0,1,20.89,3,1,0,6,0,202
+OAL,OA,Olympic Air,GR,OLYMPIC,1,1,1,1,13.22,2,0,0,45,32003,3046
+OAO,,Arkhangelsk 2nd Aviation Enterprise,RU,DVINA,1,0,0,0,26.83,18,0,0,,,
+OAV,,OMNI Aviacao & Tecnologia,PT,OMNI,1,0,0,0,21.80,2,0,0,,,
+OAW,2L,Helvetic Airways,CH,HELVETIC,1,1,0,0,,,,,,,
+OCA,R7,Aserca Airlines,VE,ASERCA,0,0,0,0,,,,,,,
+OHY,8Q,Onur Air,TR,ONUR AIR,1,1,1,1,20.00,0,0,0,38,18154,8734
+OKA,BK,Okay Airways,CN,OKAYJET,1,1,1,1,5.58,0,1,0,54,32546,3782
+OKT,,Soko Aviation SL,ES,SOKO AIR,1,0,0,0,11.00,0,0,0,,,
+OLA,OF,Overland Airways,NG,OVERLAND,1,0,1,1,25.43,5,0,0,,,
+OLT,S2,OLT Express Germany,DE,OLTRA,0,1,0,0,,,,,,,
+OLY,,Olympus Airways,GR,OLYAIR,1,0,0,0,28.00,1,0,0,,,
+OMA,WY,Oman Air,OM,OMAN AIR,1,1,1,1,6.33,0,0,0,53,6821,57067
+OMN,,Servicios Aereos Omnia de RL de CV,MX,,1,0,0,0,18.00,0,0,0,,,
+OMR,,Minair,CF,ORMINE,1,0,0,0,28.00,2,0,0,,,
+OMS,OV,SalamAir,OM,MAZOON,1,0,0,0,0.50,0,0,0,,,
+ONE,O6,Avianca Brasil,BR,OCEAN AIR,0,1,0,0,,,,,,,
+ONO,,Aeronor SA de CV,MX,NORAERO,1,0,0,0,11.00,0,0,0,,,
+ONS,IP,One Airlines,CL,AIR DREAMS,1,0,0,0,26.00,1,0,0,,,
+ORC,OC,Oriental Air Bridge,JP,ORIENTAL BRIDGE,1,0,0,0,15.33,0,0,0,5,8420,0
+ORE,,Orange Aviation,IL,ORANGE AVIATION,1,0,0,0,38.00,1,1,0,,,
+ORF,,Oman Royal Flight,OM,OMAN,1,0,0,0,14.35,1,0,0,,,
+ORG,,Orenburzhie Aircompany,RU,ORENAVIA,1,0,0,0,15.95,6,0,0,,,
+ORO,,Clipper National Air SA,ES,CAPRI,1,0,0,0,27.00,2,0,0,,,
+ORZ,,Zorex Air Transport,ES,ZOREX,1,0,0,0,36.67,3,0,0,,,
+OTA,,Business Aviators Inc,US,OUTLAW,1,0,0,0,12.50,0,0,0,,,
+OTC,,Air Travel,CN,AIR TRAVEL,1,0,0,0,2.92,0,0,0,,,
+OUF,,Beijing Eofa International Jet,CN,ELEMENT,1,0,0,0,24.00,0,0,0,,,
+OVA,X5,Air Europa Express,ES,AERONOVA,1,1,0,1,19.67,0,0,0,7,492,132
+OWT,2F*,TwoFlex,BR,BRASIL CARGO,1,0,0,0,23.27,9,0,0,,,
+OZJ,O7,OzJet,AU,AUSJET,0,0,0,0,,,,,,,
+PAA,PA,Pan American World Airways,US,CLIPPER,0,1,0,0,,,,,,,
+PAC,PO,Polar Air Cargo,US,POLAR,1,1,1,1,15.11,1,1,0,20,2128,6359
+PAF,,Pathfinder Aviation LLC,US,PATHFINDER,1,0,0,0,41.50,2,0,0,,,
+PAG,JV,Perimeter Aviation,CA,PERIMETER,1,0,0,0,33.47,39,3,0,,,
+PAJ,,Aliparma,IT,ALIPARMA,1,0,0,0,17.00,0,0,0,,,
+PAL,PR,Philippine Airlines,PH,PHILIPPINE,1,1,1,1,7.40,0,3,0,63,13465,39245
+PAM,7M,MAP Linhas Aereas,BR,MAP AIR,1,0,0,1,25.00,2,0,0,,,
+PAO,OL,Samoa Airways,WS,POLYNESIAN,1,0,0,0,40.50,2,0,0,,,
+PAS,,Pelita Air Service,ID,PELITA,1,0,0,0,21.46,9,0,0,,,
+PAV,,Proair-Charter-Transport GmbH,DE,BRILLIANT,1,0,0,0,12.73,0,0,0,,,
+PBC,,Aerotaxis Paba SA de CV,MX,,1,0,0,0,42.00,1,0,0,,,
+PBD,DP,Pobeda,RU,POBEDA,1,0,0,0,6.00,0,0,0,,,
+PCF,,Pacific Air Express,SB,PACIFIC,1,0,0,0,35.00,1,0,0,,,
+PCI,,Protea Coin Group,ZA,PROTEA COIN,1,0,0,0,11.00,0,0,0,,,
+PCM,,West Air,US,PAC VALLEY,1,0,0,0,29.67,29,0,0,,,
+PCO,8P,Pacific Coastal Airlines,CA,PASCO,1,0,0,0,32.50,3,0,0,16,24370,0
+PCS,,Air Palace SA de CV,MX,AIR PALACE,1,0,0,0,14.50,0,0,0,,,
+PDT,,Piedmont Airlines,US,PIEDMONT,1,0,0,1,19.64,0,0,0,60,94960,0
+PEA,,Pan Europeenne Air Service,FR,,1,0,0,0,8.75,0,0,0,,,
+PEG,,Pegasus Elite Aviation Inc,US,PEGJET,1,0,0,0,24.42,7,0,0,,,
+PEL,PE,Aeropelican Air Services,AU,PELICAN,0,0,0,0,,,,,,,
+PEO,,Petro Air,LY,PETRO AIR,1,0,0,0,33.22,7,0,0,,,
+PER,UF,Petroleum Air Services,EG,PAS AIR,1,0,0,1,24.75,20,0,0,,,
+PEV,PE,People's,AT,PEOPLES,1,1,0,0,,,,,,,
+PFA,,Pacific Flight Services Pte Ltd,SG,,1,0,0,0,17.75,1,0,0,,,
+PFP,,Mexican Federal Police,MX,POLICIA FEDERAL,1,0,0,0,19.61,7,0,0,,,
+PFT,,Paragon Airways,US,PARAGON FLIGHT,1,0,0,0,25.12,3,0,0,,,
+PFY,PA,Pel-Air,AU,PELFLIGHT,1,0,0,0,,,,,,,
+PFZ,P0,Proflight Zambia,ZM,PROFLIGHT-ZAMBIA,1,1,0,0,30.25,2,0,0,10,5707,873
+PGA,NI,Portugalia Airlines,PT,PORTUGALIA,1,1,1,1,8.00,0,1,0,35,1584,15388
+PGT,PC,Pegasus Airlines,TR,SUNTURK,1,0,1,0,,,,,,,
+PHA,PH*,Phoenix Air Group,US,GRAY BIRD,1,0,0,0,42.38,34,0,0,,,
+PHD,,Duncan Aviation,US,PANHANDLE,1,0,0,0,26.33,1,0,0,,,
+PHE,,Pawan Hans Helicopters,IN,PAWAN HANS,1,0,0,0,22.17,18,0,0,,,
+PHJ,,Priority Jet,US,PEACHJET,1,0,0,0,17.25,0,0,0,,,
+PHT,,Pan Havacilik,TR,PANANK,1,0,0,0,15.00,0,0,0,,,
+PHU,,Pannon Air,HU,PANNON,1,0,0,0,51.00,1,0,0,,,
+PHV,,Phenix Aviation,FR,NEW BIRD,1,0,0,0,26.00,1,0,0,,,
+PIA,PK,Pakistan International Airlines,PK,PAKISTAN,1,1,1,1,14.25,0,5,1,50,28803,20807
+PIR,NR,Pamir Airways,AF,PAMIR,0,1,0,0,,,,,,,
+PIU,,43 Air School,ZA,PRIMA,1,0,0,0,26.67,2,0,0,,,
+PIV,,Sokol,RU,,1,0,0,0,37.00,1,0,0,,,
+PJP,,Princely Jets,PK,PRINCELY JETS,1,0,0,0,19.40,3,0,0,,,
+PJS,PP,Jet Aviation Business Jets,CH,JETAVIATION,1,0,0,0,9.57,2,0,0,,,
+PJT,,Partner Jet Inc,CA,PARTNERJET,1,0,0,0,15.25,0,0,0,,,
+PJZ,0J,Premium Jet AG,CH,PRIMEJET,1,0,0,0,9.40,0,0,0,,,
+PKW,,Sierra West Airlines,US,PLATINUM WEST,1,0,0,0,35.56,8,0,0,,,
+PKZ,,Prime Aviation JSC,KZ,PRAVI,1,0,0,0,10.57,0,0,0,,,
+PLF,,Polish Air Force,PL,POLISH AIRFORCE,1,0,0,0,23.89,137,0,0,,,
+PLI,PL,Aeroperú,PE,AEROPERU,0,1,0,0,,,,,,,
+PLM,EB,Wamos Air,ES,PULLMAN,1,1,1,1,20.22,1,0,0,11,0,315
+PLR,J3,Northwestern Air,CA,POLARIS,1,0,0,0,31.11,9,0,0,7,4490,0
+PMS,,Planemasters,US,PLANEMASTER,1,0,0,0,17.36,3,0,0,,,
+PNH,,PANH Avia,RU,KUBAN LIK,1,0,0,0,29.29,24,0,0,,,
+PNK,,Airpink,RS,AIR PINK,1,1,0,0,,,,,,,
+PNL,,Aero Personal SA de CV,MX,AEROPERSONAL,1,0,0,0,10.29,0,0,0,,,
+PNP,,Pineapple Air,BS,PINEAPPLE AIR,1,0,0,0,32.50,2,1,0,7,6190,0
+PNR,PV,ASL Airlines Spain,ES,SKYJET,0,1,0,0,,,,,,,
+PNX,,AIS Airlines,NL,SPINNER,1,1,0,0,29.50,2,0,0,20,0,7968
+PNY,,Polish Naval Air Arm,PL,POLISH NAVY,1,0,0,0,26.83,17,0,0,,,
+POE,PD,Porter Airlines,CA,PORTER,1,0,0,0,,,,,,,
+POY,,Apoyo Aereo SA de CV,MX,APOYO AEREO,1,0,0,0,23.00,0,0,0,,,
+PRF,PW,Precision Air,TZ,PRECISION AIR,1,1,1,1,9.00,0,0,0,13,10986,3836
+PRG,,Air Prague,CZ,AIR PRAGUE,1,0,0,0,48.00,1,0,0,,,
+PRO,,Propair Inc,CA,PROPAIR,1,0,0,0,43.64,11,0,0,,,
+PRT,,Prime Service Italia Srl,IT,PRIME ITALIA,1,0,0,0,15.00,0,0,0,,,
+PRW,PF,Primera Air,DK,PRIMERA,1,1,0,0,,,,,,,
+PRY,,Priority Air Charter LLC,US,PRIORITY AIR,1,0,0,0,31.14,4,0,0,,,
+PRZ,AD,Air Paradise International,ID,RADISAIR,0,1,0,0,,,,,,,
+PSC,,Pascan Aviation,CA,PASCAN,1,0,0,0,19.17,5,0,0,11,9124,0
+PSE,,Aeroservicios Sipse SA de CV,MX,SIPSE,1,0,0,0,50.00,1,0,0,,,
+PSK,PM*,Prescott,US,SUPPORT,1,0,0,0,17.67,1,0,0,,,
+PSS,,Progress TsSKB Aviakompania,RU,PROGRESS,1,0,0,0,43.00,2,0,0,,,
+PST,7P,Air Panama,PA,TURISMO REGIONAL,1,1,0,0,36.78,8,0,0,11,8307,3206
+PSV,5S*,SAP,DO,PROSERVICIOS,1,0,0,0,19.00,0,0,0,,,
+PTB,2Z,VoePass,BR,PASSAREDO,1,0,0,1,11.57,0,0,0,15,22307,0
+PTD,,Aeroservicio Pity SA,MX,PITY,1,0,0,0,47.00,1,0,0,,,
+PTE,,Aero Copter SA de CV,MX,AERO-COP,1,0,0,0,21.75,1,0,0,,,
+PTI,PV,PrivatAir,CH,PRIVATAIR,1,1,0,0,,,,,,,
+PTK,,Petropavlovsk-Kamchatsky Air Enterprise,RU,PETROKAM,1,0,0,0,29.78,18,0,0,,,
+PTT,,Promotora Industrial Totolapa SA de CV,MX,,1,0,0,0,18.67,1,0,0,,,
+PUE,PU,Plus Ultra,ES,SPANISH,1,0,0,0,16.00,0,0,0,,,
+PVG,P6,Privilege Style,ES,PRIVILEGE,1,1,1,1,20.00,0,0,0,25,2,2378
+PVL,,PAL Airlines,CA,PROVINCIAL,1,0,0,0,30.00,8,0,0,,,
+PVO,,Privaira,US,PRIVATE ORANGE,1,0,0,0,18.85,2,0,0,,,
+PVS,,Privatair Saudi Arabia,SA,PASA,1,0,0,0,17.67,1,0,0,,,
+PVV,,Fly Pro,MD,SUNDAY,1,0,0,0,33.00,1,0,0,,,
+PWA,,Priester Aviation,US,PRIESTER,1,0,0,0,15.43,2,0,0,,,
+PWC,,Pratt and Whitney Canada,CA,PRATT,1,0,0,0,,,,,,,
+PWF,,Private Wings Flugcharter GmbH,DE,PRIVATE WINGS,1,0,0,0,22.09,1,0,0,,,
+PXA,,Pecotox Air,MD,PECOTOX,1,0,0,0,35.00,1,0,0,,,
+PXG,,Aitheras Aviation Group LLC,US,PHOENIX GLOBAL,1,0,0,0,24.86,3,0,0,,,
+PYA,,Pouya Air,IR,POUYA AIR,1,0,0,0,24.11,3,0,0,,,
+PYC,,Aeropycsa SA de CV.,MX,AEROPYCSA,1,0,0,0,23.00,1,0,0,,,
+QAF,,Qatar Amiri Flight,QA,AMIRI,1,0,0,0,16.00,0,0,0,,,
+QAJ,,Quick Air Jet Charter,DE,DAGOBERT,1,0,0,0,32.50,7,0,0,,,
+QAZ,IQ,Qazaq Air,KZ,SAMRUK,1,0,1,0,,,,,,,
+QCL,,Air Class Lineas Aereas,UY,ACLA,1,0,0,0,34.33,3,0,0,,,
+QDA,,Qingdao Airlines,CN,SKY LEGEND,1,0,0,0,3.48,0,0,0,24,11394,0
+QFA,QF,Qantas,AU,QANTAS,1,1,1,1,9.03,0,3,0,55,125154,33832
+QFZ,,Fars Qeshm Air Lines,IR,FARS QESHM,1,0,0,0,29.50,2,0,0,,,
+QGA,,Windrose Air Jetcharter,DE,QUADRIGA,1,0,0,0,9.25,0,0,0,,,
+QHD,,Meregrass Inc,US,QUAHADI,1,0,0,0,30.75,3,0,0,,,
+QLK,,QantasLink,AU,Q LINK,1,0,0,0,19.60,0,1,0,28,29545,0
+QNR,,Queen Air s.r.o,CZ,QUEEN AIR,1,0,0,0,9.67,0,0,0,,,
+QQE,,Qatar Executive,QA,QREX,1,0,0,0,7.32,1,0,0,,,
+QSM,,Qeshm Airlines,IR,QESHM AIR,1,1,0,1,24.75,4,1,0,27,1688,965
+QTR,QR,Qatar Airways,QA,QATARI,1,1,1,1,4.96,0,2,0,165,0,201252
+QUE,,Government of Quebec,CA,QUEBEC,1,0,0,0,29.37,10,0,0,,,
+QUI,,Aero Quimmco SA de CV,MX,QUIMMCO,1,0,0,0,25.00,1,0,0,,,
+QXE,QX,Horizon Air,US,HORIZON AIR,1,1,0,1,6.47,0,0,0,36,123075,11854
+RAC,,Icar Air,BA,TUZLA AIR,1,0,0,0,29.00,1,0,0,,,
+RAM,AT,Royal Air Maroc,MA,ROYALAIR MAROC,1,1,1,1,13.67,0,4,0,101,14039,56305
+RAP,,Air Center Helicopters,US,RAPTOR,1,0,0,0,15.77,5,0,0,,,
+RAX,,Royal Air Freight,US,AIR ROYAL,1,0,0,0,40.52,48,0,0,,,
+RBA,BI,Royal Brunei Airlines,BN,BRUNEI,1,1,1,1,5.00,0,0,0,17,0,11828
+RBB,,Rabbit Air AG,CH,RABBIT,1,0,0,0,11.00,0,0,0,,,
+RBG,E5,Air Arabia Egypt,EG,ARABIA EGYPT,1,1,0,0,5.00,0,0,0,7,0,2537
+RCO,,Aero Rentas De Coahuila,MX,AEROCOAHUILA,1,0,0,0,40.00,1,0,0,,,
+RCX,,Air Service Center Srl,IT,SERVICE CENTER,1,0,0,0,26.00,4,0,0,,,
+RDA,,Rada Airlines,BY,RADA,1,0,0,0,35.00,1,0,0,,,
+REA,RE,Aer Arann,IE,AER ARANN,0,0,0,0,,,,,,,
+REG,8N,Regional Air Services,TZ,REGIONAL SERVICES,1,0,0,0,26.20,4,0,0,7,3838,0
+REU,UU,Air Austral,RE,REUNION,1,1,1,1,7.50,0,0,0,21,2,8035
+REY,,Aero Rey SA de CV,MX,AEROREY,1,0,0,0,16.00,0,0,0,,,
+RFA,,Al-Rafedain Falcon,IQ,,1,0,0,0,32.00,1,0,0,,,
+RFR,RR,Royal Air Force,GB,RAFAIR,1,0,0,0,17.93,98,0,0,,,
+RGC,,Servicios Aereos Regiomontanos,MX,REGIOMONTANO,1,0,0,0,15.60,2,0,0,,,
+RGE,,Regent Airways,BD,REGENT,1,0,0,0,19.00,0,0,0,,,
+RGL,,Regional Air Lines,MA,,1,0,0,0,9.00,0,0,0,,,
+RGN,,Cygnus Air,ES,CYGNUS AIR,1,1,0,0,29.33,3,0,0,4,315,64
+RGY,,Regency Air LLC,US,REGENCY,1,0,0,0,13.50,0,0,0,,,
+RHD,,Babcock MCS Onshore Ltd,GB,RED HEAD,1,0,0,0,10.03,0,0,0,,,
+RHL,,Air Archipels,PF,ARCHIPELS,1,0,0,0,24.20,2,0,0,,,
+RIA,JN,Rich International Airways,US,RICHAIR,0,1,0,0,,,,,,,
+RIH,,Rahila Air,LY,RAHILA,1,0,0,0,27.00,1,0,0,,,
+RIV,GP,APG Airlines,FR,RIVIERA,1,0,1,0,27.50,1,0,0,,,
+RIX,,Rectrix Aviation,US,RECTRIX,1,0,0,0,27.00,3,0,0,,,
+RJA,RJ,Royal Jordanian,JO,JORDANIAN,1,1,1,1,12.00,1,0,0,54,1511,35107
+RJC,,Richmor Aviation,US,COLUMBIA JET,1,0,0,0,18.67,1,0,0,,,
+RJD,RG,Rotana Jet,AE,ROTANA,1,1,0,0,10.00,0,0,0,11,2,1159
+RJT,,Rajet Aeroservicios SA de CV,MX,RA JET,1,0,0,0,34.00,12,0,0,,,
+RJZ,,Royal Jordanian Air Force,JO,JORDAN AIR FORCE,1,0,0,0,29.19,169,0,0,,,
+RKA,PI,Polar Airlines,RU,AIR SAKHA,1,1,0,0,33.14,43,1,0,7,912,288
+RKS,,Phenix Jet,US,ROCKSTAR,1,0,0,0,3.67,0,0,0,,,
+RLH,DR,Ruili Airlines,CN,SENDI,1,1,1,1,6.06,0,0,0,22,13630,444
+RLI,,Reliant Air Charter,US,RELIANT,1,0,0,0,15.14,1,1,0,,,
+RLT,R4,REAL Tonga,TO,REAL TONGA,1,0,0,0,26.67,1,0,0,6,3574,0
+RLU,7R,Rusline,RU,RUSLINE AIR,1,1,1,1,20.33,0,2,0,35,15695,392
+RLX,6G,Go2Sky,SK,RELAX,1,0,0,1,17.50,0,0,0,,,
+RLY,,Air Loyaute,NC,LOYAUTE,1,0,0,0,31.00,3,0,0,,,
+RLZ,,Air Alize,NC,ALIZE,1,0,0,0,25.75,2,0,0,,,
+RMF,,Royal Malaysian Air Force,MY,ANGKASA,1,0,0,0,24.31,60,0,0,,,
+RMK,,Simrik Airlines,NP,SIMRIK AIR,1,1,0,0,30.00,2,0,0,5,0,1518
+RMO,,Arm-Aero CJSC,AM,ARM-AERO,1,0,0,0,29.00,1,0,0,,,
+RMY,TH,Raya Airways,MY,RAYA EXPRESS,1,0,0,0,29.33,2,0,0,,,
+RNA,RA,Nepal Airlines,NP,ROYAL NEPAL,1,1,0,0,16.00,2,0,0,9,0,3405
+RNV,U8,Armavia,AM,ARMAVIA,0,1,0,0,,,,,,,
+ROD,,AeroDan SA de CV,MX,AERODAN,1,0,0,0,55.00,1,0,0,,,
+ROE,,Aeroeste,BO,ESTE-BOLIVIA,1,0,0,0,27.00,2,0,0,,,
+ROF,,Romanian Air Force,RO,ROMAF,1,0,0,0,34.96,105,0,0,,,
+ROI,9V,Avior Airlines,VE,AVIOR,1,1,0,1,27.50,4,2,0,17,4798,5990
+ROJ,,Royal Jet,AE,ROYALJET,1,0,0,0,14.60,0,0,0,,,
+ROM,,Encompass Aviation LLC,US,ROME,1,0,0,0,5.00,0,0,0,,,
+RON,ON,Nauru Airlines,NR,AIR NAURU,1,1,0,0,23.00,1,0,0,9,0,1117
+ROP,,Royal Oman Police,OM,,1,0,0,0,15.86,2,0,0,,,
+ROT,RO,TAROM,RO,TAROM,1,1,1,1,10.40,1,1,0,43,12380,24084
+ROU,RV,Air Canada Rouge,CA,ROUGE,1,1,0,0,,,,,,,
+RPA,YX,Republic Airways,US,BRICKYARD,1,1,0,1,9.47,0,1,0,114,203372,20121
+RPB,P5,Aero Republica,CO,AEROREPUBLICA,1,0,1,0,,,,,,,
+RRC,,Aero Roca SA de CV,MX,AEROROCA,1,0,0,0,20.00,0,0,0,,,
+RRE,,Aerotransportes Internacionales de Torreon,MX,AERO TORREON,1,0,0,0,39.33,3,0,0,,,
+RRF,,RAF Royal & VIP,GB,KITTY,1,0,0,0,,,,,,,
+RRR,,RAF Transport,GB,ASCOT,1,0,0,0,,,,,,,
+RRT,,Transportes Aereos Sierra Alta S A de C V,MX,SIERRA ALTA,1,0,0,0,45.75,4,0,0,6,3999,0
+RRV,,Mombasa Air Safari,KE,SKYROVER,1,0,0,0,17.00,1,0,0,,,
+RSB,,Ruby Star Airlines,BY,RUBYSTAR,1,0,0,0,41.00,7,0,0,,,
+RSD,,Rossiya Special Flight Detachment,RU,STATE AERO,1,0,0,0,12.91,5,0,0,,,
+RSF,,Royal Saudi Air Force,SA,ARSAF,1,0,0,0,19.51,226,0,0,,,
+RSI,,Air Sunshine,US,AIR SUNSHINE,1,1,0,0,38.00,4,0,0,9,0,26351
+RSJ,,RusJet,RU,RUSJET,1,0,0,0,12.60,0,0,0,,,
+RSK,,DSWA LLC,US,REDSKIN,1,0,0,0,4.00,0,0,0,,,
+RSM,,Royal Star Aviation,PH,ROYAL STAR,1,0,0,0,19.08,3,0,0,,,
+RSU,5L,AeroSur,BO,AEROSUR,0,1,0,0,,,,,,,
+RSY,F7,Ifly,RU,RUSSIAN SKY,1,0,0,0,12.33,0,0,0,,,
+RTL,YH,Air Thanlwin,MM,ROYAL BIRD,1,0,0,0,,,,,,,
+RTM,,DHL Ecuador,EC,AERO TRANSAM,1,0,0,0,32.00,1,0,0,,,
+RTU,,Aerotucan,MX,AEROTUCAN,1,0,0,0,24.00,0,0,0,,,
+RUC,5R,RUTACA,VE,RUTACA,1,1,0,0,39.00,1,0,0,12,4380,836
+RUF,,Air 1st Aviation Co of OK,US,ROUGH RIDER,1,0,0,0,42.75,4,0,0,,,
+RUS,C9,Cirrus Airlines,DE,CIRRUS AIR,0,0,0,0,,,,,,,
+RVJ,,Aircraft Management Group Inc,US,RIVERS JET,1,0,0,0,11.43,0,0,0,,,
+RVP,,Sevenair,PT,SEVAIR,1,1,0,0,31.80,4,0,0,7,2788,984
+RVQ,,REVA Inc.,US,REVA AIR,1,0,0,0,32.68,14,0,0,,,
+RVR,,Ravenair,GB,RAVEN,1,0,0,0,38.00,14,0,0,,,
+RVT,,Rostvertol Avia,RU,ROSTVERTOL,1,0,0,0,21.67,1,0,0,,,
+RWD,WB,RwandAir,RW,RWANDAIR,1,1,1,1,4.00,0,0,0,20,986,13513
+RWZ,WZ,Red Wings Airlines,RU,AIR RED,1,0,0,0,14.50,0,0,0,,,
+RXA,,Regional Express,AU,,1,0,0,0,24.89,6,0,0,,,
+RYA,,Ryan Air,US,RYAN AIR,1,0,0,0,31.75,6,0,0,5,16508,0
+RYL,RW,Royal Air,PH,DOUBLE GOLD,1,0,0,0,15.00,0,0,0,,,
+RYR,FR,Ryanair,IE,RYANAIR,1,1,0,0,10.61,0,6,0,199,0,659186
+RZN,,Aero Zano SA de CV,MX,,1,0,0,0,10.00,0,0,0,,,
+RZO,S4,Azores Airlines,PT,AIR AZORES,1,1,1,1,7.00,0,0,0,16,3746,1485
+SAA,SA,South African Airways,ZA,SPRINGBOK,1,1,1,1,20.50,1,0,0,48,28648,29468
+SAB,,Sky Way Air,KG,SKY ASIAN,1,0,0,0,39.00,1,0,0,,,
+SAF,,Republic of Singapore Air Force,SG,SINGA,1,0,0,0,17.91,56,0,0,,,
+SAO,,Sahel Aviation Service,ML,SAVSER,1,0,0,0,29.17,10,0,0,,,
+SAP,,Avia Jaynar,KZ,TOBOL,1,0,0,0,43.50,4,0,0,,,
+SAQ,,Safe Air Company,KE,SINBAD,1,0,0,0,36.25,4,0,0,,,
+SAS,SK,SAS,SE,SCANDINAVIAN,1,1,1,1,10.88,0,0,0,119,32147,193243
+SAT,SP,SATA Air Acores,PT,SATA,1,1,1,1,13.25,0,0,0,12,14386,358
+SAX,,Sabah Air Aviation,MY,SABAH AIR,1,0,0,0,29.43,4,0,0,,,
+SAY,,Sky Gates Airlines,RU,SKY PATH,1,1,0,0,19.50,0,0,0,3,0,31
+SAZ,,REGA Swiss Air Ambulance,CH,SWISS AMBULANCE,1,0,0,0,6.30,0,0,0,,,
+SBA,,Sol Linhas Aéreas,BR,SOL,0,0,0,0,,,,,,,
+SBF,,Seven Bar Flying Services Inc,US,S-BAR,1,0,0,0,19.31,3,0,0,,,
+SBI,S7,S7 Airlines,RU,SIBERIAN AIRLINES,1,1,1,1,7.92,0,0,0,105,52355,21496
+SBK,,Blue Sky Aviation,KE,MAWINGU,1,1,0,0,25.00,1,0,0,5,0,540
+SBS,,Seaborne Airlines,PR,SEABORNE,1,1,0,0,34.80,5,0,0,16,8981,11360
+SBT,,Taftan Air,IR,TAFTAN,1,0,0,0,28.50,2,0,0,,,
+SBU,PV*,St Barth Commuter,BL,BLACK FIN,1,0,0,0,11.33,1,0,0,,,
+SCM,,American Jet International Corp,US,SCREAMER,1,0,0,0,20.53,6,0,0,,,
+SCR,,Silver Cloud Air,DE,SILVER CLOUD,1,0,0,0,12.80,1,0,0,,,
+SCW,TF,Braathens Regional Aviation,SE,SCANWING,1,0,1,0,,,,,,,
+SCX,SY,Sun Country Airlines,US,SUN COUNTRY,1,1,0,1,13.62,0,0,0,38,15583,3733
+SDE,,Air Partners Corporation,CA,STAMPEDE,1,0,0,0,18.14,1,0,0,,,
+SDM,FV,Rossiya Airlines,RU,ROSSIYA,1,0,1,1,15.56,0,0,0,,,
+SDO,,Air Santo Domingo,DO,AERO DOMINGO,1,0,0,0,29.67,3,0,0,,,
+SDU,,Dumont Group LLC,US,SANTOS,1,0,0,0,20.00,1,0,0,,,
+SDV,,SELVA Colombia,CO,SELVA,1,0,0,0,45.50,2,0,0,,,
+SED,,Sedona Air Tours,US,SEDONA AIR,1,0,0,0,37.67,3,0,0,,,
+SEH,GQ,Sky Express,GR,AIR CRETE,1,0,0,0,22.50,0,0,0,,,
+SEI,,Transportes Aereos Sierra Madre SA de CV,MX,TRANSPORTE SIERRA,1,0,0,0,17.00,0,0,0,,,
+SEJ,SG,SpiceJet,IN,SPICEJET,1,1,1,1,15.91,0,3,0,43,100533,11347
+SEK,4R*,Star East,RO,EAST RIDER,1,0,0,0,29.00,1,0,0,,,
+SET,,Solenta Aviation,ZA,SOLENTA,1,0,0,0,22.71,12,0,0,,,
+SEV,,Serair Transworld Press,ES,CARGOPRESS,1,0,0,0,30.00,2,0,0,,,
+SEW,OW,Skyward International Aviation,KE,SKYWARD EXPRESS,1,1,0,0,28.10,9,0,0,3,0,136
+SEY,HM,Air Seychelles,SC,SEYCHELLES,1,1,1,1,5.20,0,0,0,15,16696,3430
+SFE,,Travis County STAR Flight,US,STAR FLIGHT,1,0,0,0,1.00,0,0,0,,,
+SFH,,North American Jet,US,STARFISH,1,0,0,0,9.75,0,0,0,,,
+SFJ,7G*,Star Flyer,JP,STARFLYER,1,0,0,0,5.92,0,0,0,7,30776,0
+SFR,FA*,Safair,ZA,CARGO,1,0,1,1,36.29,6,0,0,7,11606,0
+SFS,,Swiss Flight Services SA,CH,TOPO,1,0,0,0,16.50,2,0,0,,,
+SFW,4Q,Safi Airways,AF,SAFI,0,1,0,0,,,1,,,,
+SGD,,South East Asian Airlines,PH,AIR BLUE,1,0,0,0,30.50,1,0,0,,,
+SGL,,Sigma Airlines,KZ,SIGAIR,1,0,0,0,31.75,4,0,0,,,
+SGQ,6S,SaudiGulf Airlines,SA,SAUDIGULF,1,0,1,0,,,,,,,
+SGU,,Sol del Paraguay Lineas Aereas SA,PY,SOLPARAGUAYO,1,0,0,0,5.00,0,0,0,,,
+SHA,,Shree Airlines,NP,SHREE-AIR,1,0,0,0,19.00,4,0,0,,,
+SHF,,Royal Air Force,GB,VORTEX,1,0,0,0,,,,,,,
+SHH,,Sky High,DO,SKY HIGH,1,0,0,0,36.75,3,0,0,,,
+SHI,,Sepehran Airlines,IR,SHIRAZI,1,0,0,0,29.00,1,0,0,,,
+SHJ,,Sharjah Rulers Flight,AE,SHARJAH,1,0,0,0,12.50,0,0,0,,,
+SHP,,SAF Helicopteres,FR,SAF,1,0,0,0,13.74,0,0,0,,,
+SHU,HZ,Aurora,RU,AURORA,1,1,0,1,13.19,0,0,0,21,11872,3806
+SHY,ZY,Sky Airlines,TR,SKY POWER,0,1,0,0,,,,,,,
+SIA,SQ,Singapore Airlines,SG,SINGAPORE,1,1,1,1,6.08,0,5,0,71,0,91966
+SID,,Sideral Air Cargo,BR,SIDERAL,1,0,0,0,28.15,13,1,0,,,
+SIL,3M,Silver Airways,US,SILVER WINGS,1,1,0,1,19.43,0,0,0,40,29441,9431
+SIO,,Sirio Spa,IT,SIRIO,1,0,0,0,10.93,0,0,0,,,
+SIQ,,National Center for Atmospheric Research,US,SCIENCE QUEST,1,0,0,0,26.00,1,0,0,,,
+SIS,,Silver Air,US,SILVERSPEED,1,0,0,0,17.12,1,0,0,,,
+SIY,,Executive Aviation Corp,US,SERENITY,1,0,0,0,15.67,1,0,0,,,
+SJC,,Servicios Ejecutivos Continental SA de CV,MX,SERVIEJECUTIVO,1,0,0,0,8.00,0,0,0,,,
+SJK,,Nusantara Air Charter,ID,NUSANTARA,1,0,0,0,20.50,1,1,0,,,
+SJM,,Sino Jet Management Limited,HK,SINO SKY,1,0,0,0,6.88,0,0,0,,,
+SJO,,Spring Airlines Japan,JP,JEY SPRING,1,1,0,0,5.00,0,1,0,7,2756,532
+SJT,,Swiss Jet,CH,SWISS JET,1,0,0,0,5.00,0,0,0,,,
+SJY,SJ,Sriwijaya Air,ID,SRIWIJAYA,1,1,0,0,18.33,4,1,0,43,62227,1559
+SKB,SX,Skybus,US,SKYBUS,0,0,0,0,,,,,,,
+SKK,KP,ASKY Airlines,TG,ASKY,1,1,1,0,,,,,23,,
+SKL,,Skycharter,CA,SKYCHARTER,1,0,0,0,19.00,1,0,0,,,
+SKP,,Skytrans,AU,SKYTRANS,1,0,0,0,28.75,3,0,0,8,1154,0
+SKU,H2,Sky Airline,CL,AEROSKY,1,1,1,1,1.00,0,0,0,20,22982,3845
+SKV,KV,Sky Regional Airlines,CA,MAPLE,1,1,0,1,13.50,0,1,0,33,12362,21156
+SKW,OO,SkyWest Airlines,US,SKYWEST,1,1,0,1,11.57,0,4,0,207,603687,38455
+SKY,BC,Skymark Airlines,JP,SKYMARK,1,0,0,0,8.25,0,0,0,9,45096,0
+SKZ,,SkyWay Enterprises,US,SKYWAY-INC,1,0,0,0,38.20,5,0,0,,,
+SLD,,Silver Air,CZ,SILVERLINE,1,0,0,0,29.67,3,0,0,,,
+SLI,5D,Aeromexico Connect,MX,COSTERA,1,1,0,1,11.22,0,0,0,60,125162,14533
+SLJ,,SLAM Lavori Aerei SrL,IT,SLAMAIR,1,0,0,0,15.33,0,0,0,,,
+SLK,MI,SilkAir,SG,SILKAIR,1,1,1,1,5.00,0,1,0,56,0,40298
+SLM,PY,Surinam Airways,SR,SURINAM,1,1,1,0,12.00,0,0,0,10,0,3200
+SLQ,,Skylink Express Inc,CA,SKYLINK,1,0,0,0,31.35,15,1,0,,,
+SLR,,Silverstone Air Services,KE,SILVERSTONE,1,0,0,0,28.30,10,0,0,,,
+SLX,,Sete Linhas Aereas,BR,SETE,1,0,0,0,38.50,6,0,0,,,
+SME,,Smart,EG,,1,1,0,0,11.78,0,0,0,41,0,5773
+SMI,,Aero Sami SA de CV,MX,SAMI,1,0,0,0,13.80,0,0,0,,,
+SMO,,Servicios Aereos Automotriz SA de CV,MX,SERVIAUTOMOTRIZ,1,0,0,0,17.00,0,0,0,,,
+SMR,SZ,Somon Air,TJ,SOMON AIR,1,1,1,1,1.00,0,0,0,20,290,4616
+SMU,,The Sanborn Map Company Inc,US,SPRINGER,1,0,0,0,45.00,5,0,0,,,
+SNB,NB,Sterling Airlines,DK,STERLING,0,1,0,0,,,,,,,
+SNC,2Q,Air Cargo Carriers,US,NIGHT CARGO,1,0,0,0,34.30,27,1,0,,,
+SND,,Skytraders,AU,SNOWBIRD,1,0,0,0,14.33,0,0,0,,,
+SNG,,LongJiang Airlines,CN,SNOW EAGLE,1,0,0,0,7.50,0,0,0,,,
+SNJ,6J,Solaseed Air,JP,NEWSKY,1,0,0,0,6.83,0,0,0,,,
+SNM,,Servizi Aerei,IT,SERVIZI AEREI,1,0,0,0,10.67,0,0,0,,,
+SNU,,Snunit Aviation,IL,,1,0,0,0,17.29,0,0,0,,,
+SOA,,Southern Air Charter,BS,SOUTH AIRCHARTER,1,0,0,0,34.00,1,0,0,9,11307,0
+SOC,,Serviaereo SA de CV,MX,SERVIAEREO,1,0,0,0,13.00,0,0,0,,,
+SOL,IE,Solomon Airlines,SB,SOLOMON,1,1,1,1,42.00,5,0,0,20,8904,643
+SOO,9S*,Southern Air,US,SOUTHERN AIR,1,0,0,1,13.85,3,0,0,,,
+SOR,,SonAir,AO,SONAIR,1,1,0,0,16.42,2,0,0,5,0,762
+SOU,SO,Southern Airways,US,SOUTHERN,0,0,0,0,,,,,,,
+SOY,,Island Aviation,PH,SORIANO,1,0,0,0,32.00,3,0,0,,,
+SPD,UY,Sky Prime Aviation Services,SA,SKY PRIME,1,0,0,0,12.71,1,0,0,,,
+SPH,,Sapphire Executive Air,ZA,SAPPHIRE-CHARTER,1,0,0,0,11.00,0,0,0,,,
+SPM,,Air Saint-Pierre,PM,,1,1,0,0,14.00,0,0,0,5,0,831
+SPV,,Servicios Privados de Aviacion SA de CV,MX,SERVICIOS PRIVADOS,1,0,0,0,40.00,1,0,0,,,
+SQC,SQ,Singapore Airlines Cargo,SG,SING CARGO,1,1,0,0,,,,,,,
+SQF,,Slovak Air Force,SK,SLOVAK AIRFORCE,1,0,0,0,23.69,30,0,0,,,
+SQP,,SkyUp,UA,SKYUP,1,0,0,0,10.80,0,0,0,,,
+SQS,,Susi Air,ID,SKY QUEEN,1,0,0,0,10.65,0,0,0,,,
+SQU,,Bechtel Corp,US,REMUDO,1,0,0,0,17.50,1,0,0,,,
+SRC,,SEARCA Colombia,CO,SEARCA,1,0,0,0,26.46,20,0,0,,,
+SRE,,Serami,VE,SERAMI,1,0,0,0,21.50,1,0,0,,,
+SRI,,Air Safaris & Services,NZ,AIRSAFARI,1,0,0,0,22.12,3,0,0,,,
+SRK,SX,SkyWork Airlines,CH,SKYFOX,0,1,0,0,,,,,,,
+SRM,,Stars de Mexico SA de CV,MX,TARMEX,1,0,0,0,12.00,0,0,0,,,
+SRN,P8,SprintAir,PL,SPRINTAIR,1,1,0,0,31.00,11,0,0,10,1165,520
+SRQ,,Cebgo,PH,BLUE JAY,1,0,0,0,7.00,0,0,0,27,25531,0
+SRR,,Star Air,DK,WHITESTAR,1,0,0,0,28.14,11,0,0,,,
+SRS,IH,Southern Sky Airlines,KZ,SKY SOUTH,1,0,0,0,48.38,8,0,0,,,
+SRU,2I,Star Peru,PE,STAR-UP,1,0,0,0,25.20,4,0,0,7,8374,0
+SSF,,Severstal Aircompany,RU,SEVERSTAL,1,1,0,0,2.00,0,0,0,17,6617,194
+SSG,,Slovakian Government Flying Service,SK,SLOVAK GOVERNMENT,1,0,0,0,22.50,2,0,0,,,
+SSJ,,KrasAvia,RU,SIBERIAN SKY,1,0,0,0,30.44,33,0,0,,,
+SSN,,Setouchi Seaplanes,JP,SETOUCHI,1,0,0,0,4.25,0,0,0,,,
+SSQ,,Sunstate Airlines,AU,SUNSTATE,1,1,0,0,10.55,0,0,0,35,63610,1038
+SSR,,Sardinian Sky Aviation SRL,IT,SARDINIAN,1,0,0,0,11.00,0,0,0,,,
+STK,,Stobart Air,IE,STOBART AIR,1,1,0,1,3.00,0,0,0,28,2918,35958
+STP,8F,STP Airways,ST,SAOTOME AIRWAYS,1,1,0,0,31.00,1,0,0,3,84,182
+STQ,,Starwings,DE,STARTREK,1,0,0,0,14.43,0,0,0,,,
+STY,,Altius Aviation LLC,US,ALTAIR,1,0,0,0,13.00,0,0,0,,,
+SUA,,Silesia Air,CZ,AIR SILESIA,1,0,0,0,19.33,1,0,0,,,
+SUB,,Suburban Air Freight,US,SUB AIR,1,0,0,0,29.75,7,0,0,,,
+SUD,SD,Sudan Airways,SD,SUDANAIR,1,1,0,0,,,,,,,
+SUI,,Swiss Air Force,CH,SWISS AIR FORCE,1,0,0,0,28.62,101,0,0,,,
+SUM,,FGUAP MCHS Rossii,RU,SUMES,1,0,0,0,15.72,25,0,0,,,
+SUP,,Aeronautical Charters Inc,US,SUN SPEED,1,0,0,0,20.80,1,0,0,,,
+SUS,EZ*,Sun-Air of Scandinavia,DK,SUNSCAN,1,1,0,0,36.00,2,0,0,17,409,8835
+SUV,,Sundance Air,VE,DANCEAIR,1,0,0,0,33.75,4,0,0,,,
+SVA,SV,Saudia,SA,SAUDIA,1,1,1,1,8.96,4,1,0,118,130200,77868
+SVD,,SVG Air,VC,GRENADINES,1,0,0,0,38.57,6,0,0,,,
+SVE,,ASESA,MX,AEROESPECIAL,1,0,0,0,10.29,1,0,0,,,
+SVF,,Swedish Air Force,SE,SWEDEFORCE,1,0,0,0,26.06,57,0,0,,,
+SVL,,Alante Air Charter,US,SUN DEVIL,1,0,0,0,9.60,0,0,0,,,
+SVR,U6,Ural Airlines,RU,SVERDLOVSK AIR,1,1,1,1,11.67,0,2,1,123,25228,25182
+SVV,,Salt Aviation,PL,SALTAVIATION,1,0,0,0,16.88,2,0,0,,,
+SVW,,Global Jet Luxembourg,LU,SILVER ARROWS,1,0,0,0,9.41,1,0,0,,,
+SVX,,Security Aviation Inc,US,SECURITY AIR,1,0,0,0,36.67,5,0,0,,,
+SWA,WN,Southwest Airlines,US,SOUTHWEST,1,1,0,0,11.54,0,4,0,100,1289180,31875
+SWG,WG,Sunwing,CA,SUNWING,1,1,0,0,,,,,,,
+SWM,ZA,Sky Angkor Airlines,KH,SKY ANGKOR,1,1,0,0,19.00,0,0,0,12,92,1229
+SWN,,West Atlantic,SE,AIR SWEDEN,1,0,0,0,29.79,13,1,1,,,
+SWQ,,iAero Airways,US,SWIFTFLIGHT,1,0,0,0,27.43,5,0,0,,,
+SWR,LX,SWISS,CH,SWISS,1,1,1,1,7.28,0,0,0,118,5578,104575
+SWT,WT*,Swiftair,ES,SWIFT,1,1,0,1,29.46,33,1,0,10,14100,12
+SWV,WV,Swe Fly,SE,FLYING SWEDE,0,1,0,0,,,,,,,
+SXD,XG,SunExpress Germany,DE,SUNRISE,1,1,0,1,13.33,0,0,0,79,468,12314
+SXL,,Skyline Flight,US,SONIC,1,0,0,0,11.20,0,0,0,,,
+SXN,,SaxonAir,GB,SAXONAIR,1,0,0,0,6.71,0,0,0,,,
+SXS,XQ*,SunExpress,TR,,1,1,1,1,3.00,0,1,0,51,1,23332
+SXY,,Safari Express Cargo,KE,SAFARI EXPRESS,1,0,0,0,48.50,2,0,0,,,
+SYA,SO*,Syphax Airlines,TN,SYPHAXAIR,1,0,0,0,28.00,1,0,0,,,
+SYB,,Skyservice Business Aviation,CA,SKYBIZ,1,0,0,0,12.00,5,0,0,,,
+SYG,,Synergy Aviation Ltd,GB,SYNERGY,1,0,0,0,23.00,2,0,0,,,
+SYJ,,Slate Falls Airways,CA,,1,0,0,0,64.33,3,0,0,,,
+SYL,R3,Yakutia Airlines,RU,AIR YAKUTIA,1,1,0,0,17.00,2,1,0,48,7470,1346
+SYR,RB,Syrianair,SY,SYRIANAIR,1,1,1,1,38.22,8,0,0,10,12,1555
+SZT,,Servicios Aeronauticos Z SA de CV,MX,AERO ZEE,1,0,0,0,28.00,2,0,0,,,
+TAB,,Transportes Aeronauticos del Bajio S.A. de C.V.,MX,TRANS-BAJIO,1,0,0,0,12.00,0,0,0,,,
+TAD,,Transavia Luftfahrtunternehmen GmbH,DE,,1,0,0,0,29.67,1,0,0,,,
+TAE,EQ,TAME,EC,TAME,1,1,1,1,19.00,0,1,0,21,18813,4027
+TAI,TA,Avianca El Salvador,SV,TACA,1,1,1,1,13.00,0,0,0,23,0,24936
+TAJ,,Tunisavia,TN,TUNISAVIA,1,0,0,0,24.38,4,0,0,,,
+TAK,,Transafrican Air Ltd,KE,TRANSAFRICAN,1,0,0,0,37.00,1,0,0,,,
+TAM,JJ,LATAM Airlines Brazil,BR,TAM,1,1,1,1,8.62,0,1,0,73,205491,27682
+TAN,B4,ZanAir,TZ,ZANAIR,1,0,0,0,11.00,0,0,0,4,7405,0
+TAO,VW,Aeromar Airlines,MX,TRANS-AEROMAR,1,1,0,1,6.00,1,0,0,34,29634,750
+TAP,TP,TAP Air Portugal,PT,AIR PORTUGAL,1,1,1,1,1.00,0,0,0,96,12926,67373
+TAR,TU,Tunisair,TN,TUNAIR,1,0,1,0,,,,,,,
+TAU,,Transportes Aereos Tauro,MX,TRANSTAURO,1,0,0,0,18.00,0,0,0,,,
+TAX,XJ,Thai AirAsia X,TH,EXPRESS WING,1,1,0,1,12.00,0,0,0,13,0,4366
+TAY,3V,ASL Airlines Belgium,BE,QUALITY,1,1,0,1,23.94,14,0,0,22,0,4345
+TBA,,Tibet Airlines,CN,TIBET,1,1,0,0,4.50,0,0,0,26,8997,104
+TBJ,,TAG Aviation Asia,HK,TAG JET,1,0,0,0,6.58,0,0,0,,,
+TBN,HH,Taban Airlines,IR,TABAN,1,0,0,0,24.20,1,1,0,,,
+TBZ,,ATA Airlines,IR,ATALAR AIR,1,1,0,0,25.33,3,0,0,25,15844,1511
+TCV,VR,TACV Cabo Verde Airlines,CV,CABOVERDE,1,0,1,0,,,,,,,
+TDA,,Trend Aviation LLC,US,TREND AIR,1,0,0,0,29.50,1,0,0,,,
+TDI,,Transportes Aereos de Ixtlan,MX,,1,0,0,0,42.00,1,0,0,,,
+TDR,C3,Trade Air,HR,TRADEAIR,1,1,0,1,30.00,1,0,0,20,1220,768
+TDT,,Atlas Helicopters Ltd,GB,TRIDENT,1,0,0,0,26.00,1,0,0,,,
+TED,,Aero Servicios Azteca SA de CV,MX,AEROAZTECA,1,0,0,0,25.67,1,0,0,,,
+TEK,,Aero-Tech Services Inc,US,ATECH,1,0,0,0,17.00,1,0,0,,,
+TEL,,Telford Aviation Inc,US,TELFORD,1,0,0,0,21.00,1,0,0,,,
+TEU,,TAG Aviation Malta Ltd,MT,TAG MALTA,1,0,0,0,6.38,0,0,0,,,
+TFF,,Talon Air Inc,US,TALON FLIGHT,1,0,0,0,13.74,0,0,0,,,
+TFK,,TransAfrik,JE,,1,0,0,0,51.00,2,0,0,,,
+TFL,OL,TUI fly Netherlands,NL,ORANGE,1,1,0,0,,,,,,,
+TFO,,AeroPacifico,MX,,1,0,0,0,35.50,2,0,0,,,
+TFT,,Thai Flying Service,TH,THAI FLYING,1,0,0,0,18.40,0,0,0,,,
+TFX,,Toll Priority,AU,TOLL EXPRESS,1,0,0,0,31.00,4,1,0,,,
+TFY,,Tayside Aviation Ltd,GB,TAYSIDE,1,0,0,0,43.00,1,0,0,,,
+TGG,TT,Tigerair Australia,AU,TIGGOZ,0,1,0,0,,,,,,,
+TGN,,Trigana Air,ID,TRIGANA,1,1,0,0,29.00,11,2,0,13,21504,28
+TGU,5U,TAG Airlines,GT,CHAPIN,1,1,0,0,33.25,6,0,0,6,1565,976
+TGW,TR,Scoot,SG,SCOOTER,1,1,0,0,2.83,0,0,0,43,0,34664
+TGY,,Trans Guyana Airways,GY,TRANS GUYANA,1,0,0,0,21.67,2,0,0,,,
+TGZ,A9,Georgian Airways,GE,TAMAZI,1,1,1,1,13.50,0,0,0,32,69,3512
+THA,TG,Thai Airways International,TH,THAI,1,1,1,1,10.60,0,7,0,70,14203,63787
+THD,WE,Thai Smile,TH,THAI SMILE,1,0,1,0,,,,,,,
+THK,,THK Turkish Air Taxi,TR,HUR KUS,1,0,0,0,21.60,2,0,0,,,
+THT,TN,Air Tahiti Nui,PF,TAHITI AIRLINES,1,0,1,0,,,,,,,
+THU,,Thunder Airlines,CA,AIR THUNDER,1,0,0,0,42.08,13,0,0,,,
+THY,TK,Turkish Airlines,TR,TURKISH,1,1,1,1,7.57,3,1,0,286,114528,278082
+TIE,,Time Air s.r.o.,CZ,TIME AIR,1,0,0,0,18.00,0,0,0,,,
+TIG,,Tiger Helicopters Ltd,GB,TIGRIS,1,0,0,0,34.00,3,0,0,,,
+TIH,,ION Tiriac Air,RO,TIRIAC AIR,1,0,0,0,10.67,0,0,0,,,
+TIN,,Air Tindi,CA,TINDI,1,0,0,0,32.06,10,0,0,,,
+TIR,,Antair SA de CV,MX,ANTAIR,1,0,0,0,15.23,2,0,0,,,
+TIW,,Transcarga International Airways,VE,TIACA,1,1,0,0,37.00,2,0,0,4,0,179
+TJJ,,Top Jets,BG,THUNDERBOLT,1,0,0,0,15.00,0,0,0,,,
+TJK,7J,Tajik Air,TJ,TAJIKAIR,1,1,0,0,30.50,2,0,0,16,0,2609
+TJS,,Tyrolean Jet Service,AT,TYROLJET,1,0,0,0,13.80,0,0,0,,,
+TKJ,,JetGlobe,TR,,1,0,0,0,15.50,0,1,0,,,
+TKK,,Aeroways Inc,US,TARKA,1,0,0,0,16.67,5,0,0,,,
+TLE,,Aero Util SA de CV,MX,AEROUTIL,1,0,0,0,25.00,1,0,0,,,
+TLK,,Starlink Aviation,CA,STARLINK,1,0,0,0,7.50,0,0,0,,,
+TLM,SL,Thai Lion Air,TH,MENTARI,1,0,1,0,,,,,,,
+TLR,7I,Air Libya,LY,AIR LIBYA,1,1,0,0,17.00,0,0,0,13,296,735
+TLT,,Turtle Airways,FJ,TURTLE,1,0,0,0,59.00,2,0,0,,,
+TLU,,Aero Toluca Internacional SA de CV,MX,AEROTOLUCA,1,0,0,0,40.00,1,0,0,,,
+TMC,,Travel Management Company Limited,US,TRAIL BLAZER,1,0,0,0,12.52,0,0,0,,,
+TMD,,Transmandu - Transportes Aereos Manduca,VE,TRANSMANDU,1,0,0,0,29.00,5,0,0,,,
+TMG,GM,Tri MG Airlines,ID,TRILINES,1,1,0,0,20.17,1,1,0,43,0,3241
+TMI,,Tamir Airways,IL,TAMIRWAYS,1,0,0,0,18.00,0,0,0,,,
+TMN,HJ*,Tasman Cargo Airlines,AU,TASMAN,1,1,0,0,8.00,0,0,0,2,0,522
+TMS,,Temsco Helicopters Inc,US,TEMSCO,1,0,0,0,28.81,23,0,0,,,
+TMW,,Trans Maldivian Airways,MV,TRANS MALDIVIAN,1,0,0,0,44.95,21,1,0,,,
+TNE,,Taxis Aereos del Noroeste SA de CV,MX,TAXINOROESTE,1,0,0,0,16.67,1,0,0,,,
+TNL,,Sky Horse Aviation,MN,SKY HORSE,1,0,0,0,39.00,1,0,0,,,
+TNO,6R*,AeroUnion,MX,AEROUNION,1,0,0,0,29.20,4,0,0,,,
+TNR,,Tanana Air Service,US,TAN AIR,1,1,0,0,2.00,0,0,0,9,416,263
+TNU,,TransNusa Air Services,ID,TRANSNUSA,1,0,0,0,17.50,1,0,0,13,3739,0
+TNV,,TransNorthern,US,TRANSNORTHERN,1,0,0,0,47.75,4,0,0,,,
+TNW,,Trans Nation Airways,ET,TRANS-NATION,1,0,0,0,34.00,1,0,0,,,
+TNX,,Trener KFT,HU,TRAINER,1,0,0,0,18.50,0,0,0,,,
+TOK,CG*,PNG Air,PG,BALUS,1,0,0,0,26.78,7,1,0,19,20134,0
+TOM,BY,TUI Airways,GB,TOMJET,1,1,0,0,,,,,,,
+TOR,,FlyGTA Airlines,CA,HOMERUN,1,0,0,0,31.11,6,0,0,,,
+TOS,9N,Tropic Air,BZ,TROPISER,1,1,0,0,8.75,0,0,0,6,64177,3490
+TOW,9L,AirTanker,GB,TOWLINE,1,0,0,0,6.50,0,0,0,,,
+TOY,,Toyo Aviation,RO,TOYO AVIATION,1,0,0,0,6.20,0,0,0,,,
+TPA,QT,Avianca Cargo,CO,TAMPA,1,1,0,0,6.83,0,0,0,18,157,6687
+TPC,TY,Air Caledonie,NC,AIRCAL,1,0,1,1,8.00,0,0,0,10,12910,0
+TPG,,Transportes Aereos Pegaso SA de CV,MX,TRANSPEGASO,1,0,0,0,11.90,1,1,0,,,
+TPJ,,Tempus Jets Inc,US,TEMPUS JETS,1,0,0,0,24.67,1,0,0,,,
+TPM,,Transpais Aereo SA de CV,MX,TRANSPAIS,1,0,0,0,11.62,1,0,0,,,
+TPN,,Transportacion Aerea del Norte SA de CV,MX,AEREA DELNORTE,1,0,0,0,10.40,0,0,0,,,
+TPS,,TAPSA - Transportes Aereos Petroleros SA,AR,TAPSA,1,0,0,0,45.00,1,0,0,,,
+TPU,T0,Avianca Peru,PE,AVIANCA PERÚ,1,0,1,0,,,,,,,
+TPZ,,Transportes La Paz SA de CV,MX,TRANSPAZ,1,0,0,0,6.00,0,0,0,,,
+TQN,,Taquan Air,US,TAQUAN,1,0,0,0,64.17,12,0,0,2,6206,0
+TRA,HV,Transavia,NL,TRANSAVIA,1,1,0,0,,,,,,,
+TRH,,Turuhan Aviacompany,RU,TURUKHAN,1,0,0,0,31.91,10,0,0,,,
+TRI,,Trafico - Ministerio del Interior,ES,,1,0,0,0,11.30,0,0,0,,,
+TRL,,Starlite Aviation Ltd,ZA,STARSTREAM,1,0,0,0,20.11,14,0,0,,,
+TRN,,Servicios Aereos Corporativos SA de CV,MX,AEROTRON,1,0,0,0,39.00,4,0,0,,,
+TRQ,3T,Tarco Aviation,SD,,1,1,0,0,25.82,7,0,0,12,2260,1952
+TRS,FL,AirTran Airways,US,CITRUS,0,1,0,0,,,,,,,
+TRX,,TATSA - Transportes Aereos Terrestres SA,MX,TRANS-TERRESTRES,1,0,0,0,45.00,2,0,0,,,
+TSC,TS,Air Transat,CA,AIR TRANSAT,1,0,1,0,,,,,,,
+TSG,,Trans Air Congo,CG,TRANS-AIR-CONGO,1,1,0,0,23.33,4,0,0,8,3765,1300
+TSL,,Thai Aviation Services,TH,THAI AVIATION,1,0,0,0,8.10,0,0,0,,,
+TSO,UN,Transaero,RU,TRANSOVIET,0,1,0,0,,,,,,,
+TSS,,Tri State Aero Inc,US,TRI-STATE,1,0,0,0,40.00,2,0,0,,,
+TSU,,Gulf & Caribbean Cargo,US,TRANSAUTO,1,0,0,0,39.94,13,0,0,,,
+TTE,,Avcenter Inc,US,TETON,1,0,0,0,28.88,4,0,0,,,
+TTF,,224th State Airline Flight Unit,RU,CARGO UNIT,1,0,0,0,31.38,24,0,0,,,
+TTJ,,Tatra Jet,SK,TATRA,1,0,0,0,16.50,1,0,0,,,
+TTL,,Total Linhas Aereas,BR,TOTAL,1,0,0,0,42.00,2,1,0,,,
+TTU,,Tantalus Air,CA,TANTALUS,1,0,0,0,6.50,0,0,0,,,
+TTW,,Tigerair Taiwan,TW,SMART CAT,1,1,0,0,3.00,0,0,0,19,0,11219
+TUA,T5,Turkmenistan Airlines,TM,TURKMENISTAN,1,1,0,0,19.21,12,0,0,20,11831,5674
+TUI,X3*,TUI fly Deutschland,DE,TUI JET,1,0,1,0,,,,,,,
+TUL,,Tulpar Air,RU,URSAL,1,0,0,0,14.60,2,0,0,,,
+TUM,,UTair Cargo,RU,UTAIR-CARGO,1,0,0,0,36.19,27,0,0,,,
+TUP,4B*,Aviastar-TU,RU,TUPOLEVAIR,1,0,0,0,19.57,3,0,0,,,
+TVF,TO,Transavia France,FR,FRANCE SOLEIL,1,1,0,0,,,,,,,
+TVJ,VZ,Thai VietJet Air,TH,THAIVIET JET,1,0,0,0,5.00,0,0,0,,,
+TVL,7O,Smartwings Hungary,HU,TRAVEL SERVICE,1,1,0,0,,,,,,,
+TVS,QS,Smartwings,CZ,SKYTRAVEL,1,1,0,1,9.62,0,0,0,89,136,15634
+TVV,,Travira Air,ID,PARAMITA,1,0,0,0,13.41,2,0,0,,,
+TWB,TW,T'way Air,KR,TEEWAY,1,1,1,1,10.00,0,2,0,32,7117,12010
+TWG,,Air-Taxi Europe GmbH,DE,TWIN-GOOSE,1,0,0,0,31.75,4,0,0,,,
+TWI,TI*,Tailwind Airlines,TR,TAILWIND,1,0,0,1,26.67,3,0,0,,,
+TWT,,Transwisata Air,ID,TRANSWISATA,1,0,0,0,16.67,0,0,0,,,
+TWY,,Solairus Aviation,US,TWILIGHT,1,0,0,0,11.66,3,0,0,,,
+TXC,,TransAVIAexport Airlines,BY,TRANSEXPORT,1,0,0,1,30.75,8,0,0,,,
+TXM,,Taxi Aereo de Mexico SA,MX,TAXIMEX,1,0,0,0,20.33,1,0,0,,,
+TXV,,Puerto Vallarta Taxi Aereo SA de CV,MX,TAXIVALLARTA,1,0,0,0,41.00,1,0,0,,,
+TYA,Y7,Taimyr Air - NordStar,RU,TAIMYR,1,1,1,1,26.50,12,0,0,33,10635,330
+TYJ,,Tyrolean Jet Services Malta,MT,TYROL MALTA,1,0,0,0,13.00,0,0,0,,,
+TYW,,Tyrol Air Ambulance,AT,TYROL AMBULANCE,1,0,0,0,19.43,0,0,0,,,
+TZP,ZG,ZIPAIR Tokyo,JP,ZIPPY,1,0,0,0,9.00,0,0,0,,,
+TZS,,TCA,GE,TOKA,1,0,0,0,28.67,3,0,0,,,
+UAE,EK,Emirates Airline,AE,EMIRATES,1,1,1,1,6.98,0,3,2,159,0,204415
+UAF,,United Arab Emirates Air Force,AE,UNIFORCE,1,0,0,0,19.23,69,0,0,,,
+UAL,UA,United Airlines,US,UNITED,1,1,1,1,13.50,20,9,0,330,540994,175574
+UAR,,Aerostar,UA,AEROSTAR,1,0,0,0,15.00,0,0,0,,,
+UBA,UB*,Myanmar National Airlines,MM,UNIONAIR,1,1,0,0,7.33,0,0,0,31,15660,2473
+UBG,,US-Bangla Airlines,BD,BANGLASTAR,1,1,0,0,15.50,0,0,0,11,8707,127
+UCA,,CommutAir,US,COMMUTAIR,1,0,0,1,15.64,0,2,0,29,42487,0
+UCB,,United Caribbean Airlines,CW,EAGLE EYE,1,0,0,0,40.00,1,0,0,,,
+UCC,,Uganda Air Cargo,UG,UGANDA CARGO,1,0,0,0,45.00,1,0,0,,,
+UCG,U7,Uniworld Air Cargo,PA,UNIWORLD,1,0,0,0,40.00,1,0,0,,,
+UCK,,East Kazakhstan Region Air Enterprise,KZ,GALETA,1,0,0,0,35.80,5,0,0,,,
+UEA,,Chengdu Airlines,CN,UNITED EAGLE,1,0,0,0,4.96,0,0,0,44,40287,0
+UHL,,Ukrainian Helicopters,UA,UKRAINE COPTERS,1,0,0,0,31.73,26,0,0,,,
+UIA,B7,UNI Air,TW,,1,1,1,1,6.27,0,0,0,36,28336,3630
+UJC,UE,Ultimate Jetcharters,US,ULTIMATE,1,0,0,0,19.67,0,0,0,,,
+UKL,,Ukraine Air Alliance,UA,UKRAINE ALLIANCE,1,0,0,0,53.00,1,0,0,,,
+UKN,,Ukraine Air Enterprise,UA,ENTERPRISE UKRAINE,1,0,0,0,14.75,0,0,0,,,
+UKT,,Uktus Avia-Company,RU,UKTUS,1,0,0,0,22.33,2,0,0,,,
+ULA,,UltraAir LLC,US,ULTRAJET,1,0,0,0,23.00,3,0,0,,,
+ULC,,Albinati Aviation Ltd,MT,ALBI,1,0,0,0,10.00,0,0,0,,,
+UMK,,Yuzhmashavia,UA,YUZMASH,1,0,0,0,36.00,2,0,0,,,
+UNA,,BAA Jet Management Ltd,HK,UNITED ASIA,1,0,0,0,7.26,0,0,0,,,
+UNC,,Uni-Fly AS,DK,UNICOPTER,1,0,0,0,5.50,0,1,0,,,
+UND,,Atuneros Unidos de California S A de C V,MX,ATUNEROS UNIDOS,1,0,0,0,26.33,1,0,0,,,
+UNF,,Union Flights,US,UNION FLIGHTS,1,0,0,0,25.00,1,0,0,,,
+UPS,5X,UPS Airlines,US,UPS,1,0,1,1,20.04,95,1,0,,,
+URA,,Aircompany Rosavia,UA,ROSAVIA,1,0,0,0,31.33,12,0,0,,,
+URF,,Surf Air,US,SURFAIR,1,1,0,0,,,,,,,
+URG,3N*,Air Urga,UA,URGA,1,0,0,0,34.42,12,0,0,,,
+USB,,Tusheti Aircompany,GE,TUSHETI,1,0,0,0,30.25,3,0,0,,,
+USX,,Terrakea SA de CV,MX,TERRAKEA,1,0,0,0,18.00,0,0,0,,,
+UTA,UT,Utair,RU,UTAIR,1,1,1,1,23.16,69,2,0,67,62165,8101
+UTR,,UTair South Africa,ZA,AIRUT,1,0,0,0,38.00,1,0,0,,,
+UTY,QQ,Alliance Airlines,AU,UNITY,1,0,0,1,27.24,32,0,0,14,3774,0
+UVN,,United Aviation,KW,SENYARI,1,0,0,0,15.00,0,0,0,,,
+UVT,RT,UVT Aero,RU,TAT-JET,1,0,0,0,18.57,0,0,0,,,
+UWJ,,Ukrainian Wings,UA,UKRAINIAN WINGS,1,0,0,0,30.00,1,0,0,,,
+UZA,,Constanta Airlines,UA,CONSTANTA,1,0,0,0,38.20,10,0,0,,,
+UZB,HY,Uzbekistan Airways,UZ,UZBEK,1,1,1,1,22.20,1,0,0,53,8827,13038
+VAA,,VAN AIR Europe,CZ,EUROVAN,1,0,0,0,30.00,1,0,0,,,
+VAJ,,Avcon Jet SRL,SM,TRUBADIX,1,0,0,0,7.29,0,0,0,,,
+VAL,,Voyageur Airways,CA,VOYAGEUR,1,0,0,0,24.00,5,0,0,,,
+VAS,V8,Atran,RU,ATRAN,1,0,0,0,20.80,0,0,0,,,
+VBB,,ALK Airlines,BG,AIR LUBO,1,0,0,0,31.00,1,0,0,,,
+VBW,2J,Air Burkina,BF,BURKINA,1,0,1,0,,,,,,,
+VCG,,Catreus Ltd,GB,THUNDER CAT,1,0,0,0,4.89,0,0,0,,,
+VCH,,Helitec - Consorcio Helitec,VE,CONSORCIO HELITEC,1,0,0,0,31.46,10,0,0,,,
+VCJ,,Avcon Jet Malta Ltd,MT,OBELIX,1,0,0,0,5.86,0,0,0,,,
+VCN,,ExecuJet Europe AG,CH,AVCON,1,0,0,0,10.44,2,0,0,,,
+VCV,V0,Conviasa,VE,CONVIASA,1,1,0,0,12.58,2,0,0,26,12883,3830
+VCY,C0,One Caribbean,VC,VINCY,1,0,0,0,27.50,2,0,0,,,
+VDA,VI*,Volga-Dnepr Airlines,RU,VOLGA,1,0,0,0,20.00,6,0,0,,,
+VDC,,Excelair,ES,PRIVIUM,1,0,0,0,40.00,1,0,0,,,
+VDO,,Servicios Aereos Avandaro SA de CV,MX,AVANDARO,1,0,0,0,12.50,0,0,0,,,
+VEC,V4,Vensecar Internacional,VE,VECAR,1,0,0,0,29.00,1,0,0,,,
+VES,,Vieques Air Link,PR,VIEQUES,1,0,0,0,40.91,11,0,0,4,3821,0
+VET,,Venture Aviation Group,US,POINSETT AIR,1,0,0,0,28.00,6,0,0,,,
+VFC,0V,Vietnam Air Services Company,VN,VASCO AIR,1,0,0,0,,,,,,,
+VGA,6V,Air Vegas,US,AIR VEGAS,0,0,0,0,,,,,,,
+VGB,,Beijing Tianxinai General Aviation,CN,HONG XIANG,1,0,0,0,5.71,0,0,0,,,
+VGJ,,Vigo Jet,MX,,1,0,0,0,46.00,3,0,0,,,
+VGV,,Vologda Air Enterprise,RU,VOLOGDA AIR,1,0,0,0,31.84,15,0,0,,,
+VHT,,Corporate Flight International Inc,US,VEGAS HEAT,1,0,0,0,4.00,0,0,0,,,
+VIC,,VIP Servicios Aereos Ejecutivos SA de CV,MX,VIP-EJECUTIVO,1,0,0,0,47.00,1,0,0,,,
+VIL,,VI Airlink,VG,TURTLE DOVE,1,0,0,0,47.00,1,0,0,,,
+VIP,,TAG Aviation Ltd,GB,SOVEREIGN,1,0,0,0,7.18,0,0,0,,,
+VIR,VS,Virgin Atlantic Airways,GB,VIRGIN,1,1,1,1,4.40,0,1,0,31,0,22350
+VIT,,Aviastar Mandiri,ID,AVIASTAR,1,0,0,0,39.83,5,0,0,,,
+VIV,VB,VivaAerobus,MX,AEROENLACES,1,1,0,0,2.00,0,0,0,28,41605,432
+VIZ,,Aerovis Airlines,UA,AEROVIZ,1,0,0,0,57.33,3,0,0,,,
+VJA,J7,Valujet,US,CRITTER,0,1,0,0,,,,,,,
+VJC,VJ,VietJet Air,VN,VIETJETAIR,1,1,1,1,2.57,0,0,0,30,76968,7016
+VJT,,VistaJet Ltd,MT,VISTA JET,1,0,0,0,6.02,0,0,0,,,
+VKA,,Vulkan Air,UA,VULKAN AIR,1,0,0,0,37.00,3,0,0,,,
+VLA,,Valan International Cargo,ZA,NALAU,1,0,0,0,28.00,2,0,0,,,
+VLB,,Air Volta Ltd,BG,VOLTA,1,0,0,0,9.00,0,0,0,,,
+VLG,VY,Vueling Airlines,ES,VUELING,1,1,1,1,4.29,0,2,0,162,63585,121728
+VLJ,,Valljet,FR,VALJET,1,0,0,0,19.50,4,0,0,,,
+VLK,XF,Vladivostok Air,RU,VLADAIR,0,1,0,0,,,,,,,
+VLN,,Valan International Cargo Charter,MD,VALAN,1,0,0,0,29.89,8,0,0,,,
+VLS,,Aero Virel SA de CV,MX,VIREL,1,0,0,0,19.00,0,0,0,,,
+VLT,,Vertical-T Air Transport Company,RU,VERTICAL,1,0,0,0,30.75,3,0,0,,,
+VLV,,Avialift Vladivostok,RU,VLADLIFT,1,0,0,0,29.78,9,0,0,,,
+VME,,Cemex Central,MX,AVIAMERICA,1,0,0,0,12.50,0,0,0,,,
+VMP,,ExecuJet Europe A/S,DK,VAMPIRE,1,0,0,0,11.70,0,0,0,,,
+VMX,,Aeroventas SA de CV,MX,,1,0,0,0,11.00,0,0,0,,,
+VNC,,Intervuelos Nacionales SA de CV,MX,,1,0,0,0,46.00,2,0,0,,,
+VNE,,Venezolana,VE,VENEZOLANA,1,0,0,0,35.33,3,1,0,,,
+VNL,JW,Vanilla Air,JP,VANILLA,0,1,0,0,,,,,,,
+VOE,V7,Volotea,ES,VOLOTEA,1,1,1,1,16.00,0,0,0,71,1786,34309
+VOI,Y4*,Volaris,MX,VOLARIS,1,1,1,1,4.67,0,0,0,69,82510,20918
+VOZ,VA,Virgin Australia,AU,VELOCITY,1,0,1,1,6.82,0,5,0,,,
+VPC,,Panaviatic,EE,SOLAR,1,0,0,0,11.88,0,0,0,,,
+VPE,,Viva Air Peru,PE,VIVA PERU,1,0,0,0,2.00,0,0,0,,,
+VRC,,Taxi Aereo de Veracruz SA de CV,MX,VERACRUZ,1,0,0,0,7.50,0,0,0,,,
+VRD,VX,Virgin America,US,REDWOOD,0,1,0,0,,,,,,,
+VRH,,Varesh Airlines,IR,SKY VICTOR,1,0,0,0,22.00,0,0,0,,,
+VRI,,Aero Taxis Villa Rica SA de CV,MX,VILLARICA,1,0,0,0,10.50,0,0,0,,,
+VRO,,Aerovitro SA de CV,MX,AEROVITRO,1,0,0,0,10.00,0,0,0,,,
+VRS,,Sirvair SA de CV,MX,VAIRSA,1,0,0,0,33.00,1,0,0,,,
+VSP,VP,VASP,BR,VASP,0,1,0,0,,,,,,,
+VSR,,Aviostart Airlines,BG,AVIOSTART,1,0,0,0,15.00,0,0,0,,,
+VSV,DV,SCAT,KZ,VLASTA,1,1,1,1,23.20,2,0,0,36,13686,3287
+VTA,VT,Air Tahiti,PF,AIR TAHITI,1,0,1,0,,,,,,,
+VTE,LF,Contour Airlines,US,VOLUNTEER,1,0,0,0,21.26,6,0,0,,,
+VTI,UK,Vistara,IN,VISTARA,1,0,1,1,0.00,0,0,0,,,
+VTM,,Aeronaves TSM,MX,AERONAVES TSM,1,0,0,0,35.22,35,0,0,,,
+VTS,,Everts Air Alaska,US,EVERTS,1,0,0,0,31.55,7,1,0,13,4713,0
+VTU,T9,Turpial Airlines,VE,TURPIAL,1,0,0,0,27.33,3,0,0,,,
+VUL,,Elios Srl,IT,,1,0,0,0,28.00,1,0,0,,,
+VUO,,Aerovuelox SA,MX,AEROVUELOX,1,0,0,0,10.50,0,0,0,,,
+VVA,,Eleron,UA,LOAD SHARK,1,0,0,0,37.50,2,0,0,,,
+VVV,,Valair,PT,VALAIRJET,1,0,0,0,16.50,1,0,0,,,
+VXS,,Voluxis,GB,VOLUXIS,1,0,0,0,14.25,0,0,0,,,
+VXX,,Aviaexpress Aircompany,UA,,1,0,0,0,34.50,2,0,0,,,
+VYE,,First Jet,MX,JET SOLUTIONS,1,0,0,0,19.00,0,0,0,,,
+VZL,,Vzlet,RU,VZLYET,1,0,0,0,36.50,6,0,0,,,
+WAA,WV,Westair Aviation,NA,WESTAIR WINGS,1,0,0,0,29.57,17,0,0,,,
+WAB,,Aero Industries Inc,US,WABASH,1,0,0,0,4.00,0,0,0,,,
+WAE,,Western Air Express,US,WESTERN EXPRESS,1,0,0,0,40.50,4,0,0,,,
+WAF,F4,Air Flamenco,PR,FLAMENCO,1,0,0,0,40.92,13,1,0,5,16157,0
+WAL,WL,World Atlantic Airlines,US,DORAL,1,0,0,0,30.00,1,0,0,,,
+WAN,Q9,Wataniya Airways,KW,WATANIYA,0,1,0,0,,,,,,,
+WAV,4W,Warbelow's Air Ventures,US,WARBELOW,1,0,0,0,41.08,13,0,0,4,8858,0
+WBR,3E,Air Choice One,US,,1,0,0,0,11.25,0,0,0,9,18317,0
+WCC,,West Coast Aviation Services LLC,US,WEST COAST,1,0,0,0,19.23,4,0,0,,,
+WCP,FR,Primaris Airlines,US,WHITECAP,0,1,0,0,,,,,,,
+WDK,,Capital Air Services Ltd,GB,WOODSTOCK,1,0,0,0,14.67,0,0,0,,,
+WDY,,Chicago Jet Group LLC,US,WINDY CITY,1,0,0,0,32.67,3,0,0,,,
+WEN,WR,WestJet Encore,CA,ENCORE,1,0,0,1,4.83,0,3,0,,,
+WET,,Flywet,MX,,1,0,0,0,22.00,0,0,0,,,
+WEW,,West Wind Aviation,CA,WESTWIND,1,0,0,0,35.00,6,1,1,2,1024,0
+WFT,,Aircharters Worldwide Inc,US,,1,0,0,0,21.00,0,0,0,,,
+WGN,KD*,Western Global,US,WESTERN GLOBAL,1,0,0,0,25.82,10,0,0,,,
+WHH,,Richy Skylark Pvt Ltd,LK,,1,0,0,0,7.00,0,0,0,,,
+WHS,,WIKING Helicopter Service GmbH,DE,WEEKING,1,0,0,0,2.80,0,0,0,,,
+WHT,WI,White,PT,WHITEJET,1,1,1,1,15.00,0,1,0,18,7896,7821
+WIA,WM,Winair,SX,WINDWARD,1,1,0,0,,,,,,,
+WIF,WF,Wideroe,NO,WIDEROE,1,1,1,1,20.19,17,0,0,55,118362,9830
+WIG,,Wiggins Airways,US,WIGGINS AIRWAYS,1,0,0,0,32.62,35,0,0,,,
+WIL,,Aero Air LLC,US,WILLAMETTE,1,0,0,0,21.85,11,0,0,,,
+WJA,WS,WestJet,CA,WESTJET,1,1,1,1,10.62,0,6,0,100,112474,56240
+WJM,,Windsor Jet Management,US,WINDSOR JET,1,0,0,0,25.71,2,0,0,,,
+WJT,,WiJet,FR,WIJET,1,0,0,0,11.00,0,0,0,,,
+WLB,W7,Wings of Lebanon,LB,WINGS LEBANON,1,0,1,0,,,,,,,
+WLC,,Welcome Air,AT,WELCOMEAIR,0,1,0,0,,,,,,,
+WLD,,Wilderness Air,ZA,WILDERNESS,1,0,0,0,16.81,1,1,0,,,
+WLR,,Air Walser Srl,IT,,1,0,0,0,43.00,11,0,0,,,
+WMA,,Watermakers Air,US,WATERMAKERS,1,0,0,0,10.25,0,0,0,,,
+WML,,Chantilly Air Inc,US,MARLIN,1,0,0,0,13.00,0,0,0,,,
+WOA,WO,World Airways,US,WORLD,0,1,0,0,,,,,,,
+WOL,,Air Guyana,GY,WINGJET,1,0,0,0,18.00,0,0,0,,,
+WON,,Wings Air,ID,WINGS ABADI,1,1,0,1,6.15,0,0,0,76,44799,30
+WOW,WW,WOW Air,IS,WOW AIR,1,1,0,0,,,,,,,
+WPR,,Auckland Rescue Helicopter Trust,NZ,WESTPAC RESCUE,1,0,0,0,16.25,2,0,0,,,
+WRA,,White River Air Services,CA,,1,0,0,0,67.67,3,1,0,,,
+WRC,7W,Windrose Airlines,UA,WIND ROSE,1,1,0,1,15.33,0,0,0,24,0,772
+WRT,,Wright Air Service,US,WRIGHT-AIR,1,0,0,0,23.82,7,0,0,,,
+WSG,,Wasaya Airways,CA,WASAYA,1,1,0,0,28.76,10,1,0,22,18823,440
+WSN,,Advanced Air (Taos Air),US,WINGSPAN,1,0,0,0,12.14,1,0,0,,,
+WSW,WO,Swoop,CA,SWOOP,1,0,0,0,5.00,0,0,0,,,
+WUE,,Adolf Wurth GmbH,DE,FASTY,1,0,0,0,11.60,0,0,0,,,
+WVZ,,Winair,HR,,1,0,0,0,12.00,0,0,0,,,
+WWI,,Worldwide Jet Charter Inc,US,WORLDWIDE,1,0,0,0,22.42,5,0,0,,,
+WZP,3J,Zip,CA,ZIPPER,0,0,0,0,,,,,,,
+WZZ,W6*,Wizz Air,HU,WIZZAIR,1,1,0,1,8.00,0,1,0,132,0,139559
+XAK,P2,Airkenya,KE,SUNEXPRESS,1,1,0,0,28.00,5,0,0,8,9231,1474
+XAR,,Express Air,ID,TRAVEL EXPRESS,1,1,0,0,25.62,7,1,0,25,4253,378
+XAU,A8*,AeroLink Uganda,UG,PEARL,1,0,0,0,9.00,0,0,0,3,1019,0
+XAX,D7,AirAsia X,MY,XANADU,1,1,0,1,6.75,0,2,0,25,0,16431
+XCC,,Ecoturistica de Xcalak SA de CV,MX,XCALAK,1,0,0,0,5.00,0,0,0,,,
+XEL,,Excel Charter Ltd,GB,HELI EXCEL,1,0,0,0,36.57,7,0,0,,,
+XFL,,Executive Fliteways Inc,US,EX-FLIGHT,1,0,0,0,15.75,0,0,0,,,
+XGO,,AirGO Flugservice GmbH & Co KG,DE,PASTIS,1,0,0,0,13.00,0,0,0,,,
+XKX,,ASECNA,FR,,1,0,0,0,32.00,1,0,0,,,
+XLF,SE,XL Airways France,FR,STARWAY,0,1,0,0,,,,,,,
+XLK,,SafariLink Aviation,KE,SAFARILINK,1,1,0,0,14.43,3,1,0,11,6127,834
+XLL,,Air Excel,TZ,TINGA-TINGA,1,0,0,0,14.88,1,0,0,,,
+XLR,,Texel Air,BH,TEXEL,1,0,0,0,22.50,0,0,0,,,
+XLS,,ExcelAire LLC,US,EXCELAIRE,1,0,0,0,12.11,0,0,0,,,
+XME,XM,Australian airExpress,AU,QANTAS,0,0,0,0,,,,,,,
+XNR,,Taxi Aereo del Norte SA de CV,MX,,1,0,0,0,9.00,0,0,0,,,
+XOJ,,XOJET Inc,US,EXOJET,1,0,0,0,13.90,0,0,0,,,
+XPE,,Amira Air,AT,EXPERT,0,1,0,0,,,,,,,
+XRC,7A,Express Air Cargo,TN,TUNISIA CARGO,1,0,0,0,31.00,2,0,0,2,2801,0
+XSN,,AirSF,US,SANTANA,1,0,0,0,11.57,0,0,0,,,
+XSR,,AirShare LLC,US,AIRSHARE,1,0,0,0,9.70,1,0,0,,,
+XTA,,Servicios Aereos Textra SA de CV,MX,TEXTRA,1,0,0,0,15.00,0,0,0,,,
+YAP,,OLT Express Poland,PL,WHITEKEKO,0,1,0,0,,,,,,,
+YEL,,Summit Aviation Inc,US,YELLOWSTONE,1,0,0,0,11.86,1,0,0,,,
+YZR,Y8,Suparna Airlines,CN,YANGTZE RIVER,1,1,1,1,16.61,5,0,0,33,16953,4342
+ZAV,ZK*,Aircompany ZetAvia,UA,ZETAVIA,1,0,0,0,31.60,5,0,0,,,
