@@ -1,4 +1,4 @@
-,Origin,Destination,Marketing_Airline,Operating_Airline,Flight_Duration,Distance
+Unnamed: 0,Origin,Destination,Marketing_Airline,Operating_Airline,Flight_Duration,Distance
 14,SEL,LAX,KE,KE,650,5186.0
 21,GRU,LAX,KE,KE,720,5382.0
 23,LAX,GRU,KE,KE,700,5382.0
