@@ -3893,357 +3893,357 @@ order_date,market,region,product_category,product,cost,inventory,net_profit,sale
 10/1/2011,Retail,West,Espresso,Decaf Espresso,91,8188,78,898
 10/1/2011,Retail,West,Coffee,Columbian,69,489,98,799
 10/1/2011,Retail,West,Coffee,Decaf Irish Cream,76,698,88,738
-16/1/2011,Wholesale,Central,Herbal tea,Chamomile,898,8898,879,897
-16/1/2011,Wholesale,Central,Herbal tea,Lemon,88,817,-6,888
-16/1/2011,Wholesale,Central,Herbal tea,Mint,79,488,47,737
-16/1/2011,Wholesale,Central,Tea,Darjeeling,88,481,88,888
-16/1/2011,Wholesale,Central,Tea,Earl Grey,79,8148,48,888
-16/1/2011,Wholesale,Central,Tea,Green Tea,99,868,814,888
-16/1/2011,Wholesale,Central,Espresso,Caffe Mocha,81,897,78,888
-16/1/2011,Wholesale,Central,Espresso,Decaf Espresso,78,679,96,818
-16/1/2011,Wholesale,Central,Coffee,Amaretto,889,781,791,817
-16/1/2011,Wholesale,Central,Coffee,Columbian,41,886,41,79
-16/1/2011,Wholesale,Central,Coffee,Decaf Irish Cream,98,794,888,888
-16/1/2011,Wholesale,Central,Herbal tea,Chamomile,889,781,899,817
-16/1/2011,Wholesale,Central,Herbal tea,Lemon,41,886,41,79
-16/1/2011,Wholesale,Central,Herbal tea,Mint,98,794,888,888
-16/1/2011,Wholesale,Central,Tea,Darjeeling,81,897,78,888
-16/1/2011,Wholesale,Central,Tea,Earl Grey,78,679,99,818
-16/1/2011,Wholesale,Central,Espresso,Caffe Mocha,889,8678,798,867
-16/1/2011,Wholesale,Central,Espresso,Decaf Espresso,888,7979,798,488
-16/1/2011,Wholesale,Central,Coffee,Columbian,798,8881,816,479
-16/1/2011,Wholesale,Central,Coffee,Decaf Irish Cream,888,918,879,796
-16/1/2011,Retail,Central,Herbal tea,Chamomile,889,8678,798,867
-16/1/2011,Retail,Central,Herbal tea,Lemon,888,918,879,796
-16/1/2011,Retail,Central,Tea,Darjeeling,888,7979,798,488
-16/1/2011,Retail,Central,Tea,Earl Grey,738,7994,879,898
-16/1/2011,Retail,Central,Espresso,Caffe Mocha,88,918,73,61
-16/1/2011,Retail,Central,Espresso,Decaf Espresso,1,897,46,46
-16/1/2011,Retail,Central,Coffee,Amaretto,88,949,88,48
-16/1/2011,Retail,Central,Coffee,Columbian,79,8118,7,69
-16/1/2011,Retail,Central,Coffee,Decaf Irish Cream,81,796,-4,88
-16/1/2011,Retail,Central,Herbal tea,Chamomile,44,888,-88,888
-16/1/2011,Retail,Central,Herbal tea,Lemon,98,8914,-88,881
-16/1/2011,Retail,Central,Tea,Darjeeling,88,739,88,97
-16/1/2011,Retail,Central,Tea,Earl Grey,73,888,-4,98
-16/1/2011,Retail,Central,Tea,Green Tea,88,738,-6,77
-16/1/2011,Retail,Central,Espresso,Caffe Mocha,73,998,76,738
-16/1/2011,Retail,Central,Espresso,Decaf Espresso,88,986,41,96
-16/1/2011,Retail,Central,Coffee,Columbian,98,618,86,796
-16/1/2011,Retail,Central,Coffee,Decaf Irish Cream,67,8161,86,861
-16/1/2011,Wholesale,Central,Herbal tea,Chamomile,88,498,48,98
-16/1/2011,Wholesale,Central,Herbal tea,Lemon,86,968,48,74
-16/1/2011,Wholesale,Central,Tea,Darjeeling,79,779,78,881
-16/1/2011,Wholesale,Central,Tea,Earl Grey,818,666,888,868
-16/1/2011,Wholesale,Central,Espresso,Caffe Mocha,898,8898,879,897
-16/1/2011,Wholesale,Central,Espresso,Decaf Espresso,88,481,73,888
-16/1/2011,Wholesale,Central,Coffee,Amaretto,79,488,47,737
-16/1/2011,Wholesale,Central,Coffee,Columbian,46,473,47,888
-16/1/2011,Wholesale,Central,Coffee,Decaf Irish Cream,88,817,-4,888
-16/1/2011,Retail,Central,Herbal tea,Chamomile,88,888,78,881
-16/1/2011,Retail,Central,Herbal tea,Lemon,88,986,41,98
-16/1/2011,Retail,Central,Tea,Darjeeling,47,473,47,889
-16/1/2011,Retail,Central,Tea,Earl Grey,68,688,8,879
-16/1/2011,Retail,Central,Espresso,Caffe Mocha,78,8168,67,798
-16/1/2011,Retail,Central,Espresso,Decaf Espresso,88,791,86,88
-16/1/2011,Retail,Central,Coffee,Amaretto,73,798,88,879
-16/1/2011,Retail,Central,Coffee,Columbian,74,674,73,879
-16/1/2011,Retail,Central,Coffee,Decaf Irish Cream,77,879,76,798
-16/1/2011,Retail,East,Herbal tea,Lemon,98,618,86,796
-16/1/2011,Retail,East,Herbal tea,Mint,67,8161,86,861
-16/1/2011,Retail,East,Tea,Darjeeling,73,998,76,738
-16/1/2011,Retail,East,Tea,Green Tea,86,917,47,76
-16/1/2011,Retail,East,Espresso,Caffe Mocha,68,688,8,879
-16/1/2011,Retail,East,Espresso,Decaf Espresso,88,891,79,888
-16/1/2011,Retail,East,Coffee,Columbian,881,8793,898,736
-16/1/2011,Wholesale,East,Herbal tea,Chamomile,88,791,86,88
-16/1/2011,Wholesale,East,Herbal tea,Lemon,73,798,79,879
-16/1/2011,Wholesale,East,Herbal tea,Mint,78,8168,68,798
-16/1/2011,Wholesale,East,Tea,Darjeeling,89,978,73,78
-16/1/2011,Wholesale,East,Tea,Green Tea,88,986,48,98
-16/1/2011,Wholesale,East,Espresso,Caffe Mocha,74,674,88,879
-16/1/2011,Wholesale,East,Espresso,Decaf Espresso,77,879,76,798
-16/1/2011,Wholesale,East,Coffee,Columbian,79,779,78,881
-16/1/2011,Wholesale,East,Coffee,Decaf Irish Cream,818,666,888,868
-16/1/2011,Wholesale,East,Herbal tea,Lemon,88,481,88,888
-16/1/2011,Wholesale,East,Tea,Darjeeling,86,968,46,74
-16/1/2011,Wholesale,East,Tea,Green Tea,88,498,48,98
-16/1/2011,Wholesale,East,Espresso,Caffe Mocha,88,793,-88,889
-16/1/2011,Wholesale,East,Espresso,Regular Espresso,898,8898,861,897
-16/1/2011,Wholesale,East,Coffee,Columbian,78,-8897,498,494
-16/1/2011,Retail,East,Herbal tea,Lemon,88,738,-6,77
-16/1/2011,Retail,East,Tea,Darjeeling,88,949,88,48
-16/1/2011,Retail,East,Tea,Green Tea,1,897,47,46
-16/1/2011,Retail,East,Espresso,Caffe Mocha,44,888,-88,888
-16/1/2011,Retail,East,Espresso,Regular Espresso,73,888,-4,98
-16/1/2011,Retail,East,Coffee,Amaretto,46,886,48,881
-16/1/2011,Retail,East,Coffee,Columbian,48,488,81,886
-16/1/2011,Wholesale,East,Herbal tea,Lemon,738,7914,818,673
-16/1/2011,Wholesale,East,Herbal tea,Mint,888,4748,-888,798
-16/1/2011,Wholesale,East,Tea,Darjeeling,98,794,888,888
-16/1/2011,Wholesale,East,Tea,Earl Grey,889,781,899,817
-16/1/2011,Wholesale,East,Tea,Green Tea,81,897,71,888
-16/1/2011,Wholesale,East,Espresso,Caffe Mocha,888,8898,-811,68
-16/1/2011,Wholesale,East,Espresso,Regular Espresso,888,788,868,779
-16/1/2011,Wholesale,East,Coffee,Columbian,737,8891,881,664
-16/1/2011,Retail,South,Herbal tea,Chamomile,818,888,886,736
-16/1/2011,Retail,South,Herbal tea,Lemon,98,618,86,796
-16/1/2011,Retail,South,Coffee,Columbian,47,973,68,888
-16/1/2011,Retail,South,Coffee,Decaf Irish Cream,88,986,48,98
-16/1/2011,Retail,South,Espresso,Caffe Latte,68,-716,8,879
-16/1/2011,Retail,South,Espresso,Caffe Mocha,88,888,78,881
-16/1/2011,Retail,South,Espresso,Decaf Espresso,47,473,81,889
-16/1/2011,Retail,South,Herbal tea,Chamomile,88,949,88,48
-16/1/2011,Retail,South,Herbal tea,Lemon,79,8118,7,69
-16/1/2011,Retail,South,Coffee,Columbian,48,488,81,886
-16/1/2011,Retail,South,Coffee,Decaf Irish Cream,98,8914,-88,881
-16/1/2011,Retail,South,Espresso,Caffe Latte,73,-888,-6,98
-16/1/2011,Retail,South,Espresso,Caffe Mocha,44,888,-81,888
-16/1/2011,Retail,South,Espresso,Decaf Espresso,88,739,88,97
-16/1/2011,Retail,South,Herbal tea,Chamomile,73,798,79,879
-16/1/2011,Retail,South,Herbal tea,Lemon,74,674,88,879
-16/1/2011,Retail,South,Coffee,Columbian,99,868,818,888
-16/1/2011,Retail,South,Coffee,Decaf Irish Cream,86,968,48,74
-16/1/2011,Retail,South,Espresso,Caffe Latte,818,-8118,888,868
-16/1/2011,Retail,South,Espresso,Caffe Mocha,88,498,48,98
-16/1/2011,Retail,South,Espresso,Decaf Espresso,79,779,78,881
-16/1/2011,Wholesale,South,Herbal tea,Chamomile,79,488,47,737
-16/1/2011,Wholesale,South,Herbal tea,Lemon,46,473,46,888
-16/1/2011,Wholesale,South,Coffee,Columbian,888,8798,889,888
-16/1/2011,Wholesale,South,Coffee,Decaf Irish Cream,41,886,79,79
-16/1/2011,Wholesale,South,Espresso,Caffe Latte,78,-8181,99,818
-16/1/2011,Wholesale,South,Espresso,Caffe Mocha,889,781,899,817
-16/1/2011,Wholesale,South,Espresso,Decaf Espresso,81,897,78,888
-16/1/2011,Retail,West,Tea,Darjeeling,44,888,-81,888
-16/1/2011,Retail,West,Tea,Earl Grey,88,739,88,97
-16/1/2011,Retail,West,Tea,Green Tea,73,888,-4,98
-16/1/2011,Retail,West,Herbal tea,Chamomile,46,886,48,881
-16/1/2011,Retail,West,Herbal tea,Lemon,48,488,81,886
-16/1/2011,Retail,West,Herbal tea,Mint,98,8914,-88,881
-16/1/2011,Retail,West,Espresso,Caffe Mocha,818,888,886,736
-16/1/2011,Retail,West,Espresso,Decaf Espresso,73,998,77,738
-16/1/2011,Retail,West,Coffee,Amaretto,67,8161,89,861
-16/1/2011,Retail,West,Coffee,Columbian,88,891,41,888
-16/1/2011,Retail,West,Coffee,Decaf Irish Cream,98,618,86,796
-16/1/2011,Retail,West,Espresso,Caffe Latte,88,986,41,96
-16/1/2011,Wholesale,West,Tea,Darjeeling,889,781,791,817
-16/1/2011,Wholesale,West,Tea,Earl Grey,81,897,71,888
-16/1/2011,Wholesale,West,Tea,Green Tea,78,679,99,818
-16/1/2011,Wholesale,West,Herbal tea,Chamomile,98,794,888,888
-16/1/2011,Wholesale,West,Herbal tea,Lemon,888,8798,889,888
-16/1/2011,Wholesale,West,Herbal tea,Mint,41,886,41,79
-16/1/2011,Wholesale,West,Espresso,Caffe Mocha,888,788,79,819
-16/1/2011,Wholesale,West,Espresso,Decaf Espresso,889,8678,798,867
-16/1/2011,Wholesale,West,Coffee,Amaretto,888,7989,-98,793
-16/1/2011,Wholesale,West,Coffee,Columbian,737,8891,737,664
-16/1/2011,Wholesale,West,Coffee,Decaf Irish Cream,798,7917,-899,886
-16/1/2011,Wholesale,West,Espresso,Caffe Latte,888,7979,798,488
-16/1/2011,Retail,West,Tea,Darjeeling,889,8678,798,867
-16/1/2011,Retail,West,Tea,Earl Grey,888,7979,791,488
-16/1/2011,Retail,West,Tea,Green Tea,738,7688,-818,73
-16/1/2011,Retail,West,Herbal tea,Chamomile,888,788,79,819
-16/1/2011,Retail,West,Herbal tea,Lemon,798,8881,818,479
-16/1/2011,Retail,West,Herbal tea,Mint,888,918,879,796
-16/1/2011,Retail,West,Espresso,Caffe Latte,1,897,46,46
-16/1/2011,Retail,West,Espresso,Caffe Mocha,88,949,88,48
-16/1/2011,Retail,West,Espresso,Decaf Espresso,88,918,88,61
-16/1/2011,Retail,West,Coffee,Columbian,88,738,-6,77
-16/1/2011,Retail,West,Coffee,Decaf Irish Cream,79,8118,7,69
-16/1/2011,Retail,West,Tea,Darjeeling,88,498,48,98
-16/1/2011,Retail,West,Tea,Earl Grey,79,779,78,881
-16/1/2011,Retail,West,Tea,Green Tea,818,666,888,868
-16/1/2011,Retail,West,Herbal tea,Chamomile,88,988,89,67
-16/1/2011,Retail,West,Herbal tea,Lemon,99,868,814,888
-16/1/2011,Retail,West,Espresso,Caffe Latte,88,481,73,888
-16/1/2011,Retail,West,Espresso,Caffe Mocha,79,488,47,737
-16/1/2011,Retail,West,Espresso,Decaf Espresso,898,8898,861,897
-16/1/2011,Retail,West,Coffee,Amaretto,88,817,-6,888
-16/1/2011,Retail,West,Coffee,Columbian,88,471,88,886
-16/1/2011,Retail,West,Coffee,Decaf Irish Cream,46,473,47,888
-16/1/2011,Retail,West,Tea,Darjeeling,88,888,78,881
-16/1/2011,Retail,West,Tea,Earl Grey,47,473,81,889
-16/1/2011,Retail,West,Tea,Green Tea,68,688,8,879
-16/1/2011,Retail,West,Herbal tea,Chamomile,881,8793,898,736
-16/1/2011,Retail,West,Herbal tea,Lemon,47,973,68,888
-16/1/2011,Retail,West,Espresso,Caffe Latte,88,791,86,88
-16/1/2011,Retail,West,Espresso,Caffe Mocha,73,798,79,879
-16/1/2011,Retail,West,Espresso,Decaf Espresso,78,8168,67,798
-16/1/2011,Retail,West,Coffee,Columbian,68,446,74,866
-16/1/2011,Retail,West,Coffee,Decaf Irish Cream,74,674,73,879
-12/1/2011,Wholesale,Central,Herbal tea,Chamomile,888,8879,879,886
-12/1/2011,Wholesale,Central,Herbal tea,Lemon,47,888,-7,879
-12/1/2011,Wholesale,Central,Herbal tea,Mint,73,473,48,888
-12/1/2011,Wholesale,Central,Tea,Darjeeling,46,488,7,881
-12/1/2011,Wholesale,Central,Tea,Earl Grey,88,8173,79,793
-12/1/2011,Wholesale,Central,Tea,Green Tea,98,888,79,797
-12/1/2011,Wholesale,Central,Espresso,Caffe Mocha,73,618,77,738
-12/1/2011,Wholesale,Central,Espresso,Decaf Espresso,67,677,71,797
-12/1/2011,Wholesale,Central,Coffee,Amaretto,888,779,797,888
-12/1/2011,Wholesale,Central,Coffee,Columbian,48,888,48,816
-12/1/2011,Wholesale,Central,Coffee,Decaf Irish Cream,96,8118,888,793
-12/1/2011,Wholesale,Central,Herbal tea,Chamomile,888,779,797,888
-12/1/2011,Wholesale,Central,Herbal tea,Lemon,48,888,48,816
-12/1/2011,Wholesale,Central,Herbal tea,Mint,96,8118,888,793
-12/1/2011,Wholesale,Central,Tea,Darjeeling,73,618,77,738
-12/1/2011,Wholesale,Central,Tea,Earl Grey,67,677,71,797
-12/1/2011,Wholesale,Central,Espresso,Caffe Mocha,737,7944,888,673
-12/1/2011,Wholesale,Central,Espresso,Decaf Espresso,881,8981,888,793
-12/1/2011,Wholesale,Central,Coffee,Columbian,793,8798,899,867
-12/1/2011,Wholesale,Central,Coffee,Decaf Irish Cream,879,981,898,888
-12/1/2011,Retail,Central,Herbal tea,Chamomile,737,7944,888,673
-12/1/2011,Retail,Central,Herbal tea,Lemon,879,981,898,888
-12/1/2011,Retail,Central,Tea,Darjeeling,881,8981,888,793
-12/1/2011,Retail,Central,Tea,Earl Grey,794,8989,888,677
-12/1/2011,Retail,Central,Espresso,Caffe Mocha,88,917,88,68
-12/1/2011,Retail,Central,Espresso,Decaf Espresso,1,734,47,46
-12/1/2011,Retail,Central,Coffee,Amaretto,86,988,88,44
-12/1/2011,Retail,Central,Coffee,Columbian,88,8117,88,74
-12/1/2011,Retail,Central,Coffee,Decaf Irish Cream,81,794,-8,86
-12/1/2011,Retail,Central,Herbal tea,Chamomile,47,888,-7,886
-12/1/2011,Retail,Central,Herbal tea,Lemon,78,8979,73,798
-12/1/2011,Retail,Central,Tea,Darjeeling,89,886,86,78
-12/1/2011,Retail,Central,Tea,Earl Grey,81,889,-73,49
-12/1/2011,Retail,Central,Tea,Green Tea,79,881,8,74
-12/1/2011,Retail,Central,Espresso,Caffe Mocha,81,979,78,888
-12/1/2011,Retail,Central,Espresso,Decaf Espresso,88,944,41,98
-12/1/2011,Retail,Central,Coffee,Columbian,69,679,79,868
-12/1/2011,Retail,Central,Coffee,Decaf Irish Cream,68,8178,88,739
-12/1/2011,Wholesale,Central,Herbal tea,Chamomile,79,471,79,79
-12/1/2011,Wholesale,Central,Herbal tea,Lemon,88,971,48,97
-12/1/2011,Wholesale,Central,Tea,Darjeeling,99,979,817,886
-12/1/2011,Wholesale,Central,Tea,Earl Grey,793,671,891,738
-12/1/2011,Wholesale,Central,Espresso,Caffe Mocha,888,8879,879,886
-12/1/2011,Wholesale,Central,Espresso,Decaf Espresso,46,488,7,881
-12/1/2011,Wholesale,Central,Coffee,Amaretto,73,473,48,888
-12/1/2011,Wholesale,Central,Coffee,Columbian,48,488,86,819
-12/1/2011,Wholesale,Central,Coffee,Decaf Irish Cream,47,888,-7,879
-12/1/2011,Retail,Central,Herbal tea,Chamomile,48,881,48,793
-12/1/2011,Retail,Central,Herbal tea,Lemon,73,968,48,78
-12/1/2011,Retail,Central,Tea,Darjeeling,48,466,48,888
-12/1/2011,Retail,Central,Tea,Earl Grey,88,679,-4,731
-12/1/2011,Retail,Central,Espresso,Caffe Mocha,91,8177,74,899
-12/1/2011,Retail,Central,Espresso,Decaf Espresso,73,867,79,61
-12/1/2011,Retail,Central,Coffee,Amaretto,68,418,88,888
-12/1/2011,Retail,Central,Coffee,Columbian,818,786,81,866
-12/1/2011,Retail,Central,Coffee,Decaf Irish Cream,98,798,98,819
-12/1/2011,Retail,East,Herbal tea,Lemon,69,679,41,868
-12/1/2011,Retail,East,Herbal tea,Mint,68,8178,88,739
-12/1/2011,Retail,East,Tea,Darjeeling,81,979,71,888
-12/1/2011,Retail,East,Tea,Green Tea,88,989,48,97
-12/1/2011,Retail,East,Espresso,Caffe Mocha,88,679,-8,731
-12/1/2011,Retail,East,Espresso,Decaf Espresso,47,798,88,888
-12/1/2011,Retail,East,Coffee,Columbian,888,8866,886,819
-12/1/2011,Wholesale,East,Herbal tea,Chamomile,73,867,89,61
-12/1/2011,Wholesale,East,Herbal tea,Lemon,68,418,73,888
-12/1/2011,Wholesale,East,Herbal tea,Mint,91,8177,74,899
-12/1/2011,Wholesale,East,Tea,Darjeeling,81,998,79,91
-12/1/2011,Wholesale,East,Tea,Green Tea,73,968,48,78
-12/1/2011,Wholesale,East,Espresso,Caffe Mocha,818,786,88,866
-12/1/2011,Wholesale,East,Espresso,Decaf Espresso,98,798,96,819
-12/1/2011,Wholesale,East,Coffee,Columbian,99,979,819,886
-12/1/2011,Wholesale,East,Coffee,Decaf Irish Cream,793,671,898,738
-12/1/2011,Wholesale,East,Herbal tea,Lemon,46,488,81,881
-12/1/2011,Wholesale,East,Tea,Darjeeling,88,971,48,97
-12/1/2011,Wholesale,East,Tea,Green Tea,79,471,79,79
-12/1/2011,Wholesale,East,Espresso,Caffe Mocha,47,798,-81,816
-12/1/2011,Wholesale,East,Espresso,Regular Espresso,888,8879,879,886
-12/1/2011,Wholesale,East,Coffee,Columbian,67,-8793,797,738
-12/1/2011,Retail,East,Herbal tea,Lemon,79,881,8,74
-12/1/2011,Retail,East,Tea,Darjeeling,86,988,88,44
-12/1/2011,Retail,East,Tea,Green Tea,1,734,47,46
-12/1/2011,Retail,East,Espresso,Caffe Mocha,47,888,-6,886
-12/1/2011,Retail,East,Espresso,Regular Espresso,81,889,-73,49
-12/1/2011,Retail,East,Coffee,Amaretto,88,879,88,888
-12/1/2011,Retail,East,Coffee,Columbian,49,468,48,881
-12/1/2011,Wholesale,East,Herbal tea,Lemon,794,7979,479,776
-12/1/2011,Wholesale,East,Herbal tea,Mint,738,8888,-891,889
-12/1/2011,Wholesale,East,Tea,Darjeeling,96,8118,888,793
-12/1/2011,Wholesale,East,Tea,Earl Grey,888,779,797,888
-12/1/2011,Wholesale,East,Tea,Green Tea,73,618,77,738
-12/1/2011,Wholesale,East,Espresso,Caffe Mocha,888,8648,-888,71
-12/1/2011,Wholesale,East,Espresso,Regular Espresso,881,788,468,711
-12/1/2011,Wholesale,East,Coffee,Columbian,797,8648,418,748
-12/1/2011,Retail,South,Herbal tea,Chamomile,74,731,793,889
-12/1/2011,Retail,South,Herbal tea,Lemon,69,679,79,868
-12/1/2011,Retail,South,Coffee,Columbian,47,948,69,889
-12/1/2011,Retail,South,Coffee,Decaf Irish Cream,73,968,46,78
-12/1/2011,Retail,South,Espresso,Caffe Latte,88,-8188,-4,731
-12/1/2011,Retail,South,Espresso,Caffe Mocha,48,881,46,793
-12/1/2011,Retail,South,Espresso,Decaf Espresso,48,466,41,888
-12/1/2011,Retail,South,Herbal tea,Chamomile,86,988,88,44
-12/1/2011,Retail,South,Herbal tea,Lemon,88,8117,81,74
-12/1/2011,Retail,South,Coffee,Columbian,49,468,41,881
-12/1/2011,Retail,South,Coffee,Decaf Irish Cream,78,8979,73,798
-12/1/2011,Retail,South,Espresso,Caffe Latte,81,-799,-88,49
-12/1/2011,Retail,South,Espresso,Caffe Mocha,47,888,-7,886
-12/1/2011,Retail,South,Espresso,Decaf Espresso,89,886,89,78
-12/1/2011,Retail,South,Herbal tea,Chamomile,68,418,88,888
-12/1/2011,Retail,South,Herbal tea,Lemon,818,786,81,866
-12/1/2011,Retail,South,Coffee,Columbian,98,888,79,797
-12/1/2011,Retail,South,Coffee,Decaf Irish Cream,88,971,48,97
-12/1/2011,Retail,South,Espresso,Caffe Latte,793,-7939,891,738
-12/1/2011,Retail,South,Espresso,Caffe Mocha,79,471,86,79
-12/1/2011,Retail,South,Espresso,Decaf Espresso,99,979,817,886
-12/1/2011,Wholesale,South,Herbal tea,Chamomile,73,473,48,888
-12/1/2011,Wholesale,South,Herbal tea,Lemon,48,488,86,819
-12/1/2011,Wholesale,South,Coffee,Columbian,738,8888,797,879
-12/1/2011,Wholesale,South,Coffee,Decaf Irish Cream,48,888,48,816
-12/1/2011,Wholesale,South,Espresso,Caffe Latte,67,-8879,71,797
-12/1/2011,Wholesale,South,Espresso,Caffe Mocha,888,779,797,888
-12/1/2011,Wholesale,South,Espresso,Decaf Espresso,73,618,77,738
-12/1/2011,Retail,West,Tea,Darjeeling,47,888,-6,886
-12/1/2011,Retail,West,Tea,Earl Grey,89,886,89,78
-12/1/2011,Retail,West,Tea,Green Tea,81,889,-88,49
-12/1/2011,Retail,West,Herbal tea,Chamomile,88,879,88,888
-12/1/2011,Retail,West,Herbal tea,Lemon,49,468,48,881
-12/1/2011,Retail,West,Herbal tea,Mint,78,8979,88,798
-12/1/2011,Retail,West,Espresso,Caffe Latte,88,944,79,98
-12/1/2011,Retail,West,Espresso,Caffe Mocha,74,731,793,889
-12/1/2011,Retail,West,Espresso,Decaf Espresso,81,979,71,888
-12/1/2011,Retail,West,Coffee,Amaretto,68,8178,88,739
-12/1/2011,Retail,West,Coffee,Columbian,47,798,88,888
-12/1/2011,Retail,West,Coffee,Decaf Irish Cream,69,679,79,868
-12/1/2011,Wholesale,West,Tea,Darjeeling,888,779,797,888
-12/1/2011,Wholesale,West,Tea,Earl Grey,73,618,77,738
-12/1/2011,Wholesale,West,Tea,Green Tea,67,677,71,797
-12/1/2011,Wholesale,West,Herbal tea,Chamomile,96,8118,888,793
-12/1/2011,Wholesale,West,Herbal tea,Lemon,738,8888,797,879
-12/1/2011,Wholesale,West,Herbal tea,Mint,48,888,48,816
-12/1/2011,Wholesale,West,Espresso,Caffe Latte,881,8981,888,793
-12/1/2011,Wholesale,West,Espresso,Caffe Mocha,888,741,46,738
-12/1/2011,Wholesale,West,Espresso,Decaf Espresso,737,7944,888,673
-12/1/2011,Wholesale,West,Coffee,Amaretto,879,7947,-888,817
-12/1/2011,Wholesale,West,Coffee,Columbian,797,8648,418,748
-12/1/2011,Wholesale,West,Coffee,Decaf Irish Cream,793,4886,-888,818
-12/1/2011,Retail,West,Tea,Darjeeling,737,7944,879,673
-12/1/2011,Retail,West,Tea,Earl Grey,881,8981,888,793
-12/1/2011,Retail,West,Tea,Green Tea,794,9888,-618,88
-12/1/2011,Retail,West,Herbal tea,Chamomile,888,741,47,738
-12/1/2011,Retail,West,Herbal tea,Lemon,793,8798,899,867
-12/1/2011,Retail,West,Herbal tea,Mint,879,981,898,888
-12/1/2011,Retail,West,Espresso,Caffe Latte,1,734,46,46
-12/1/2011,Retail,West,Espresso,Caffe Mocha,86,988,88,44
-12/1/2011,Retail,West,Espresso,Decaf Espresso,88,917,88,68
-12/1/2011,Retail,West,Coffee,Columbian,79,881,8,74
-12/1/2011,Retail,West,Coffee,Decaf Irish Cream,88,8117,88,74
-12/1/2011,Retail,West,Tea,Darjeeling,79,471,79,79
-12/1/2011,Retail,West,Tea,Earl Grey,99,979,819,886
-12/1/2011,Retail,West,Tea,Green Tea,793,671,891,738
-12/1/2011,Retail,West,Herbal tea,Chamomile,73,979,89,64
-12/1/2011,Retail,West,Herbal tea,Lemon,98,888,79,797
-12/1/2011,Retail,West,Espresso,Caffe Latte,46,488,7,881
-12/1/2011,Retail,West,Espresso,Caffe Mocha,73,473,48,888
-12/1/2011,Retail,West,Espresso,Decaf Espresso,888,8879,879,886
-12/1/2011,Retail,West,Coffee,Amaretto,47,888,-81,879
-12/1/2011,Retail,West,Coffee,Columbian,48,498,8,814
-12/1/2011,Retail,West,Coffee,Decaf Irish Cream,48,488,79,819
-12/1/2011,Retail,West,Tea,Darjeeling,48,881,48,793
-12/1/2011,Retail,West,Tea,Earl Grey,48,466,48,888
-12/1/2011,Retail,West,Tea,Green Tea,88,679,-4,731
-12/1/2011,Retail,West,Herbal tea,Chamomile,888,8866,886,819
-12/1/2011,Retail,West,Herbal tea,Lemon,47,948,69,889
-12/1/2011,Retail,West,Espresso,Caffe Latte,73,867,79,61
-12/1/2011,Retail,West,Espresso,Caffe Mocha,68,418,73,888
-12/1/2011,Retail,West,Espresso,Decaf Espresso,91,8177,76,899
-12/1/2011,Retail,West,Coffee,Columbian,78,468,96,899
-12/1/2011,Retail,West,Coffee,Decaf Irish Cream,818,786,81,866
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
