@@ -1769,183 +1769,183 @@ order_date,market,region,product_category,product,cost,inventory,net_profit,sale
 10/1/2021,Retail,West,Espresso,Caffe Latte,88,798,81,88
 10/1/2021,Retail,West,Espresso,Caffe Mocha,86,898,86,886
 10/1/2021,Retail,West,Espresso,Decaf Espresso,91,8188,49,794
-16/1/2021,Wholesale,Central,Tea,Green Tea,99,868,71,811
-16/1/2021,Wholesale,Central,Herbal tea,Chamomile,898,8898,817,868
-16/1/2021,Wholesale,Central,Herbal tea,Lemon,88,817,-4,888
-16/1/2021,Wholesale,Central,Herbal tea,Mint,79,488,88,889
-16/1/2021,Wholesale,Central,Tea,Darjeeling,88,481,88,793
-16/1/2021,Wholesale,Central,Tea,Earl Grey,79,8148,79,888
-16/1/2021,Wholesale,Central,Espresso,Decaf Espresso,78,679,89,897
-16/1/2021,Wholesale,Central,Espresso,Caffe Mocha,81,897,49,888
-16/1/2021,Wholesale,Central,Coffee,Decaf Irish Cream,98,794,94,799
-16/1/2021,Wholesale,Central,Coffee,Amaretto,889,781,889,791
-16/1/2021,Wholesale,Central,Coffee,Columbian,41,886,79,78
-16/1/2021,Wholesale,Central,Herbal tea,Chamomile,889,781,879,791
-16/1/2021,Wholesale,Central,Herbal tea,Lemon,41,886,79,78
-16/1/2021,Wholesale,Central,Herbal tea,Mint,98,794,94,799
-16/1/2021,Wholesale,Central,Tea,Darjeeling,81,897,49,888
-16/1/2021,Wholesale,Central,Tea,Earl Grey,78,679,79,897
-16/1/2021,Wholesale,Central,Espresso,Decaf Espresso,888,7979,879,488
-16/1/2021,Wholesale,Central,Espresso,Caffe Mocha,889,8678,796,888
-16/1/2021,Wholesale,Central,Coffee,Decaf Irish Cream,888,918,816,799
-16/1/2021,Wholesale,Central,Coffee,Columbian,798,8881,879,488
-16/1/2021,Retail,Central,Herbal tea,Chamomile,889,8678,796,888
-16/1/2021,Retail,Central,Herbal tea,Lemon,888,918,817,799
-16/1/2021,Retail,Central,Tea,Darjeeling,888,7979,879,488
-16/1/2021,Retail,Central,Tea,Earl Grey,738,7994,798,738
-16/1/2021,Retail,Central,Espresso,Caffe Mocha,88,918,86,86
-16/1/2021,Retail,Central,Espresso,Decaf Espresso,1,897,88,48
-16/1/2021,Retail,Central,Coffee,Decaf Irish Cream,81,796,-8,88
-16/1/2021,Retail,Central,Coffee,Amaretto,88,949,9,79
-16/1/2021,Retail,Central,Coffee,Columbian,79,8118,8,64
-16/1/2021,Retail,Central,Tea,Green Tea,88,738,-4,74
-16/1/2021,Retail,Central,Herbal tea,Chamomile,44,888,-9,816
-16/1/2021,Retail,Central,Herbal tea,Lemon,98,8914,-7,888
-16/1/2021,Retail,Central,Tea,Darjeeling,88,739,7,98
-16/1/2021,Retail,Central,Tea,Earl Grey,73,888,-8,76
-16/1/2021,Retail,Central,Espresso,Caffe Mocha,73,998,88,888
-16/1/2021,Retail,Central,Espresso,Decaf Espresso,88,986,79,98
-16/1/2021,Retail,Central,Coffee,Decaf Irish Cream,67,8161,89,881
-16/1/2021,Retail,Central,Coffee,Columbian,98,618,89,894
-16/1/2021,Wholesale,Central,Tea,Darjeeling,79,779,68,797
-16/1/2021,Wholesale,Central,Tea,Earl Grey,818,666,97,738
-16/1/2021,Wholesale,Central,Herbal tea,Chamomile,88,498,79,91
-16/1/2021,Wholesale,Central,Herbal tea,Lemon,86,968,81,99
-16/1/2021,Wholesale,Central,Espresso,Caffe Mocha,898,8898,817,868
-16/1/2021,Wholesale,Central,Espresso,Decaf Espresso,88,481,86,793
-16/1/2021,Wholesale,Central,Coffee,Amaretto,79,488,88,889
-16/1/2021,Wholesale,Central,Coffee,Columbian,46,473,88,793
-16/1/2021,Wholesale,Central,Coffee,Decaf Irish Cream,88,817,-8,888
-16/1/2021,Retail,Central,Tea,Darjeeling,47,473,88,881
-16/1/2021,Retail,Central,Tea,Earl Grey,68,688,8,737
-16/1/2021,Retail,Central,Herbal tea,Chamomile,88,888,49,738
-16/1/2021,Retail,Central,Herbal tea,Lemon,88,986,79,79
-16/1/2021,Retail,Central,Espresso,Caffe Mocha,78,8168,48,864
-16/1/2021,Retail,Central,Espresso,Decaf Espresso,88,791,88,88
-16/1/2021,Retail,Central,Coffee,Amaretto,73,798,73,888
-16/1/2021,Retail,Central,Coffee,Columbian,74,674,86,793
-16/1/2021,Retail,Central,Coffee,Decaf Irish Cream,77,879,88,891
-16/1/2021,Retail,East,Tea,Darjeeling,73,998,88,888
-16/1/2021,Retail,East,Tea,Green Tea,86,917,88,71
-16/1/2021,Retail,East,Herbal tea,Lemon,98,618,89,894
-16/1/2021,Retail,East,Herbal tea,Mint,67,8161,89,881
-16/1/2021,Retail,East,Espresso,Caffe Mocha,68,688,8,737
-16/1/2021,Retail,East,Espresso,Decaf Espresso,88,891,86,793
-16/1/2021,Retail,East,Coffee,Columbian,881,8793,888,888
-16/1/2021,Wholesale,East,Tea,Darjeeling,89,978,88,71
-16/1/2021,Wholesale,East,Tea,Green Tea,88,986,89,79
-16/1/2021,Wholesale,East,Herbal tea,Chamomile,88,791,88,88
-16/1/2021,Wholesale,East,Herbal tea,Lemon,73,798,88,888
-16/1/2021,Wholesale,East,Herbal tea,Mint,78,8168,44,864
-16/1/2021,Wholesale,East,Espresso,Caffe Mocha,74,674,88,793
-16/1/2021,Wholesale,East,Espresso,Decaf Espresso,77,879,88,891
-16/1/2021,Wholesale,East,Coffee,Columbian,79,779,68,797
-16/1/2021,Wholesale,East,Coffee,Decaf Irish Cream,818,666,97,738
-16/1/2021,Wholesale,East,Tea,Darjeeling,86,968,88,99
-16/1/2021,Wholesale,East,Tea,Green Tea,88,498,79,91
-16/1/2021,Wholesale,East,Herbal tea,Lemon,88,481,88,793
-16/1/2021,Wholesale,East,Espresso,Caffe Mocha,88,793,-9,881
-16/1/2021,Wholesale,East,Espresso,Regular Espresso,898,8898,819,868
-16/1/2021,Wholesale,East,Coffee,Columbian,78,-8897,793,473
-16/1/2021,Retail,East,Tea,Darjeeling,88,949,9,79
-16/1/2021,Retail,East,Tea,Green Tea,1,897,88,48
-16/1/2021,Retail,East,Herbal tea,Lemon,88,738,-4,74
-16/1/2021,Retail,East,Espresso,Caffe Mocha,44,888,-9,816
-16/1/2021,Retail,East,Espresso,Regular Espresso,73,888,-8,76
-16/1/2021,Retail,East,Coffee,Columbian,48,488,81,817
-16/1/2021,Retail,East,Coffee,Amaretto,46,886,81,888
-16/1/2021,Wholesale,East,Tea,Darjeeling,98,794,94,799
-16/1/2021,Wholesale,East,Tea,Earl Grey,889,781,879,791
-16/1/2021,Wholesale,East,Tea,Green Tea,81,897,47,888
-16/1/2021,Wholesale,East,Herbal tea,Lemon,738,7914,814,796
-16/1/2021,Wholesale,East,Herbal tea,Mint,888,4748,-886,861
-16/1/2021,Wholesale,East,Espresso,Caffe Mocha,888,8898,-818,68
-16/1/2021,Wholesale,East,Espresso,Regular Espresso,888,788,898,678
-16/1/2021,Wholesale,East,Coffee,Columbian,737,8891,886,688
-16/1/2021,Retail,South,Coffee,Columbian,47,973,44,888
-16/1/2021,Retail,South,Coffee,Decaf Irish Cream,88,986,89,79
-16/1/2021,Retail,South,Herbal tea,Chamomile,818,888,98,888
-16/1/2021,Retail,South,Herbal tea,Lemon,98,618,89,894
-16/1/2021,Retail,South,Espresso,Caffe Latte,68,-716,8,737
-16/1/2021,Retail,South,Espresso,Caffe Mocha,88,888,47,738
-16/1/2021,Retail,South,Espresso,Decaf Espresso,47,473,73,881
-16/1/2021,Retail,South,Coffee,Columbian,48,488,81,817
-16/1/2021,Retail,South,Coffee,Decaf Irish Cream,98,8914,-9,888
-16/1/2021,Retail,South,Herbal tea,Chamomile,88,949,7,79
-16/1/2021,Retail,South,Herbal tea,Lemon,79,8118,8,64
-16/1/2021,Retail,South,Espresso,Caffe Latte,73,-888,-4,76
-16/1/2021,Retail,South,Espresso,Caffe Mocha,44,888,-7,816
-16/1/2021,Retail,South,Espresso,Decaf Espresso,88,739,9,98
-16/1/2021,Retail,South,Coffee,Columbian,99,868,78,811
-16/1/2021,Retail,South,Coffee,Decaf Irish Cream,86,968,81,99
-16/1/2021,Retail,South,Herbal tea,Chamomile,73,798,88,888
-16/1/2021,Retail,South,Herbal tea,Lemon,74,674,88,793
-16/1/2021,Retail,South,Espresso,Caffe Latte,818,-8118,97,738
-16/1/2021,Retail,South,Espresso,Caffe Mocha,88,498,79,91
-16/1/2021,Retail,South,Espresso,Decaf Espresso,79,779,68,797
-16/1/2021,Wholesale,South,Coffee,Columbian,888,8798,794,471
-16/1/2021,Wholesale,South,Coffee,Decaf Irish Cream,41,886,86,78
-16/1/2021,Wholesale,South,Herbal tea,Chamomile,79,488,88,889
-16/1/2021,Wholesale,South,Herbal tea,Lemon,46,473,88,793
-16/1/2021,Wholesale,South,Espresso,Caffe Latte,78,-8181,79,897
-16/1/2021,Wholesale,South,Espresso,Caffe Mocha,889,781,879,791
-16/1/2021,Wholesale,South,Espresso,Decaf Espresso,81,897,49,888
-16/1/2021,Retail,West,Herbal tea,Chamomile,46,886,81,888
-16/1/2021,Retail,West,Herbal tea,Lemon,48,488,81,817
-16/1/2021,Retail,West,Herbal tea,Mint,98,8914,-9,888
-16/1/2021,Retail,West,Tea,Darjeeling,44,888,-7,816
-16/1/2021,Retail,West,Tea,Earl Grey,88,739,7,98
-16/1/2021,Retail,West,Tea,Green Tea,73,888,-8,76
-16/1/2021,Retail,West,Coffee,Amaretto,67,8161,79,881
-16/1/2021,Retail,West,Coffee,Columbian,88,891,79,793
-16/1/2021,Retail,West,Coffee,Decaf Irish Cream,98,618,89,894
-16/1/2021,Retail,West,Espresso,Caffe Latte,88,986,79,98
-16/1/2021,Retail,West,Espresso,Caffe Mocha,818,888,98,888
-16/1/2021,Retail,West,Espresso,Decaf Espresso,73,998,88,888
-16/1/2021,Wholesale,West,Herbal tea,Chamomile,98,794,94,799
-16/1/2021,Wholesale,West,Herbal tea,Lemon,888,8798,794,471
-16/1/2021,Wholesale,West,Herbal tea,Mint,41,886,79,78
-16/1/2021,Wholesale,West,Tea,Darjeeling,889,781,889,791
-16/1/2021,Wholesale,West,Tea,Earl Grey,81,897,47,888
-16/1/2021,Wholesale,West,Tea,Green Tea,78,679,79,897
-16/1/2021,Wholesale,West,Coffee,Amaretto,888,7989,-86,886
-16/1/2021,Wholesale,West,Coffee,Columbian,737,8891,888,688
-16/1/2021,Wholesale,West,Coffee,Decaf Irish Cream,798,7917,-879,736
-16/1/2021,Wholesale,West,Espresso,Caffe Latte,888,7979,879,488
-16/1/2021,Wholesale,West,Espresso,Caffe Mocha,888,788,86,897
-16/1/2021,Wholesale,West,Espresso,Decaf Espresso,889,8678,797,888
-16/1/2021,Retail,West,Herbal tea,Chamomile,888,788,86,897
-16/1/2021,Retail,West,Herbal tea,Lemon,798,8881,889,488
-16/1/2021,Retail,West,Herbal tea,Mint,888,918,817,799
-16/1/2021,Retail,West,Tea,Darjeeling,889,8678,796,888
-16/1/2021,Retail,West,Tea,Earl Grey,888,7979,889,488
-16/1/2021,Retail,West,Tea,Green Tea,738,7688,-731,88
-16/1/2021,Retail,West,Coffee,Columbian,88,738,-4,74
-16/1/2021,Retail,West,Coffee,Decaf Irish Cream,79,8118,8,64
-16/1/2021,Retail,West,Espresso,Caffe Latte,1,897,88,48
-16/1/2021,Retail,West,Espresso,Caffe Mocha,88,949,7,79
-16/1/2021,Retail,West,Espresso,Decaf Espresso,88,918,79,86
-16/1/2021,Retail,West,Herbal tea,Chamomile,88,988,79,68
-16/1/2021,Retail,West,Herbal tea,Lemon,99,868,71,811
-16/1/2021,Retail,West,Tea,Darjeeling,88,498,89,91
-16/1/2021,Retail,West,Tea,Earl Grey,79,779,68,797
-16/1/2021,Retail,West,Tea,Green Tea,818,666,97,738
-16/1/2021,Retail,West,Coffee,Amaretto,88,817,-4,888
-16/1/2021,Retail,West,Coffee,Columbian,88,471,73,889
-16/1/2021,Retail,West,Coffee,Decaf Irish Cream,46,473,88,793
-16/1/2021,Retail,West,Espresso,Caffe Latte,88,481,86,793
-16/1/2021,Retail,West,Espresso,Caffe Mocha,79,488,88,889
-16/1/2021,Retail,West,Espresso,Decaf Espresso,898,8898,819,868
-16/1/2021,Retail,West,Herbal tea,Chamomile,881,8793,888,888
-16/1/2021,Retail,West,Herbal tea,Lemon,47,973,44,888
-16/1/2021,Retail,West,Tea,Darjeeling,88,888,47,738
-16/1/2021,Retail,West,Tea,Earl Grey,47,473,73,881
-16/1/2021,Retail,West,Tea,Green Tea,68,688,8,737
-16/1/2021,Retail,West,Coffee,Columbian,68,446,81,886
-16/1/2021,Retail,West,Coffee,Decaf Irish Cream,74,674,86,793
-16/1/2021,Retail,West,Espresso,Caffe Latte,88,791,88,88
-16/1/2021,Retail,West,Espresso,Caffe Mocha,73,798,88,888
-16/1/2021,Retail,West,Espresso,Decaf Espresso,78,8168,48,864
+11/1/2021,Wholesale,Central,Tea,Green Tea,99,868,71,811
+11/1/2021,Wholesale,Central,Herbal tea,Chamomile,898,8898,817,868
+11/1/2021,Wholesale,Central,Herbal tea,Lemon,88,817,-4,888
+11/1/2021,Wholesale,Central,Herbal tea,Mint,79,488,88,889
+11/1/2021,Wholesale,Central,Tea,Darjeeling,88,481,88,793
+11/1/2021,Wholesale,Central,Tea,Earl Grey,79,8148,79,888
+11/1/2021,Wholesale,Central,Espresso,Decaf Espresso,78,679,89,897
+11/1/2021,Wholesale,Central,Espresso,Caffe Mocha,81,897,49,888
+11/1/2021,Wholesale,Central,Coffee,Decaf Irish Cream,98,794,94,799
+11/1/2021,Wholesale,Central,Coffee,Amaretto,889,781,889,791
+11/1/2021,Wholesale,Central,Coffee,Columbian,41,886,79,78
+11/1/2021,Wholesale,Central,Herbal tea,Chamomile,889,781,879,791
+11/1/2021,Wholesale,Central,Herbal tea,Lemon,41,886,79,78
+11/1/2021,Wholesale,Central,Herbal tea,Mint,98,794,94,799
+11/1/2021,Wholesale,Central,Tea,Darjeeling,81,897,49,888
+11/1/2021,Wholesale,Central,Tea,Earl Grey,78,679,79,897
+11/1/2021,Wholesale,Central,Espresso,Decaf Espresso,888,7979,879,488
+11/1/2021,Wholesale,Central,Espresso,Caffe Mocha,889,8678,796,888
+11/1/2021,Wholesale,Central,Coffee,Decaf Irish Cream,888,918,816,799
+11/1/2021,Wholesale,Central,Coffee,Columbian,798,8881,879,488
+11/1/2021,Retail,Central,Herbal tea,Chamomile,889,8678,796,888
+11/1/2021,Retail,Central,Herbal tea,Lemon,888,918,817,799
+11/1/2021,Retail,Central,Tea,Darjeeling,888,7979,879,488
+11/1/2021,Retail,Central,Tea,Earl Grey,738,7994,798,738
+11/1/2021,Retail,Central,Espresso,Caffe Mocha,88,918,86,86
+11/1/2021,Retail,Central,Espresso,Decaf Espresso,1,897,88,48
+11/1/2021,Retail,Central,Coffee,Decaf Irish Cream,81,796,-8,88
+11/1/2021,Retail,Central,Coffee,Amaretto,88,949,9,79
+11/1/2021,Retail,Central,Coffee,Columbian,79,8118,8,64
+11/1/2021,Retail,Central,Tea,Green Tea,88,738,-4,74
+11/1/2021,Retail,Central,Herbal tea,Chamomile,44,888,-9,816
+11/1/2021,Retail,Central,Herbal tea,Lemon,98,8914,-7,888
+11/1/2021,Retail,Central,Tea,Darjeeling,88,739,7,98
+11/1/2021,Retail,Central,Tea,Earl Grey,73,888,-8,76
+11/1/2021,Retail,Central,Espresso,Caffe Mocha,73,998,88,888
+11/1/2021,Retail,Central,Espresso,Decaf Espresso,88,986,79,98
+11/1/2021,Retail,Central,Coffee,Decaf Irish Cream,67,8161,89,881
+11/1/2021,Retail,Central,Coffee,Columbian,98,618,89,894
+11/1/2021,Wholesale,Central,Tea,Darjeeling,79,779,68,797
+11/1/2021,Wholesale,Central,Tea,Earl Grey,818,666,97,738
+11/1/2021,Wholesale,Central,Herbal tea,Chamomile,88,498,79,91
+11/1/2021,Wholesale,Central,Herbal tea,Lemon,86,968,81,99
+11/1/2021,Wholesale,Central,Espresso,Caffe Mocha,898,8898,817,868
+11/1/2021,Wholesale,Central,Espresso,Decaf Espresso,88,481,86,793
+11/1/2021,Wholesale,Central,Coffee,Amaretto,79,488,88,889
+11/1/2021,Wholesale,Central,Coffee,Columbian,46,473,88,793
+11/1/2021,Wholesale,Central,Coffee,Decaf Irish Cream,88,817,-8,888
+11/1/2021,Retail,Central,Tea,Darjeeling,47,473,88,881
+11/1/2021,Retail,Central,Tea,Earl Grey,68,688,8,737
+11/1/2021,Retail,Central,Herbal tea,Chamomile,88,888,49,738
+11/1/2021,Retail,Central,Herbal tea,Lemon,88,986,79,79
+11/1/2021,Retail,Central,Espresso,Caffe Mocha,78,8168,48,864
+11/1/2021,Retail,Central,Espresso,Decaf Espresso,88,791,88,88
+11/1/2021,Retail,Central,Coffee,Amaretto,73,798,73,888
+11/1/2021,Retail,Central,Coffee,Columbian,74,674,86,793
+11/1/2021,Retail,Central,Coffee,Decaf Irish Cream,77,879,88,891
+11/1/2021,Retail,East,Tea,Darjeeling,73,998,88,888
+11/1/2021,Retail,East,Tea,Green Tea,86,917,88,71
+11/1/2021,Retail,East,Herbal tea,Lemon,98,618,89,894
+11/1/2021,Retail,East,Herbal tea,Mint,67,8161,89,881
+11/1/2021,Retail,East,Espresso,Caffe Mocha,68,688,8,737
+11/1/2021,Retail,East,Espresso,Decaf Espresso,88,891,86,793
+11/1/2021,Retail,East,Coffee,Columbian,881,8793,888,888
+11/1/2021,Wholesale,East,Tea,Darjeeling,89,978,88,71
+11/1/2021,Wholesale,East,Tea,Green Tea,88,986,89,79
+11/1/2021,Wholesale,East,Herbal tea,Chamomile,88,791,88,88
+11/1/2021,Wholesale,East,Herbal tea,Lemon,73,798,88,888
+11/1/2021,Wholesale,East,Herbal tea,Mint,78,8168,44,864
+11/1/2021,Wholesale,East,Espresso,Caffe Mocha,74,674,88,793
+11/1/2021,Wholesale,East,Espresso,Decaf Espresso,77,879,88,891
+11/1/2021,Wholesale,East,Coffee,Columbian,79,779,68,797
+11/1/2021,Wholesale,East,Coffee,Decaf Irish Cream,818,666,97,738
+11/1/2021,Wholesale,East,Tea,Darjeeling,86,968,88,99
+11/1/2021,Wholesale,East,Tea,Green Tea,88,498,79,91
+11/1/2021,Wholesale,East,Herbal tea,Lemon,88,481,88,793
+11/1/2021,Wholesale,East,Espresso,Caffe Mocha,88,793,-9,881
+11/1/2021,Wholesale,East,Espresso,Regular Espresso,898,8898,819,868
+11/1/2021,Wholesale,East,Coffee,Columbian,78,-8897,793,473
+11/1/2021,Retail,East,Tea,Darjeeling,88,949,9,79
+11/1/2021,Retail,East,Tea,Green Tea,1,897,88,48
+11/1/2021,Retail,East,Herbal tea,Lemon,88,738,-4,74
+11/1/2021,Retail,East,Espresso,Caffe Mocha,44,888,-9,816
+11/1/2021,Retail,East,Espresso,Regular Espresso,73,888,-8,76
+11/1/2021,Retail,East,Coffee,Columbian,48,488,81,817
+11/1/2021,Retail,East,Coffee,Amaretto,46,886,81,888
+11/1/2021,Wholesale,East,Tea,Darjeeling,98,794,94,799
+11/1/2021,Wholesale,East,Tea,Earl Grey,889,781,879,791
+11/1/2021,Wholesale,East,Tea,Green Tea,81,897,47,888
+11/1/2021,Wholesale,East,Herbal tea,Lemon,738,7914,814,796
+11/1/2021,Wholesale,East,Herbal tea,Mint,888,4748,-886,861
+11/1/2021,Wholesale,East,Espresso,Caffe Mocha,888,8898,-818,68
+11/1/2021,Wholesale,East,Espresso,Regular Espresso,888,788,898,678
+11/1/2021,Wholesale,East,Coffee,Columbian,737,8891,886,688
+11/1/2021,Retail,South,Coffee,Columbian,47,973,44,888
+11/1/2021,Retail,South,Coffee,Decaf Irish Cream,88,986,89,79
+11/1/2021,Retail,South,Herbal tea,Chamomile,818,888,98,888
+11/1/2021,Retail,South,Herbal tea,Lemon,98,618,89,894
+11/1/2021,Retail,South,Espresso,Caffe Latte,68,-716,8,737
+11/1/2021,Retail,South,Espresso,Caffe Mocha,88,888,47,738
+11/1/2021,Retail,South,Espresso,Decaf Espresso,47,473,73,881
+11/1/2021,Retail,South,Coffee,Columbian,48,488,81,817
+11/1/2021,Retail,South,Coffee,Decaf Irish Cream,98,8914,-9,888
+11/1/2021,Retail,South,Herbal tea,Chamomile,88,949,7,79
+11/1/2021,Retail,South,Herbal tea,Lemon,79,8118,8,64
+11/1/2021,Retail,South,Espresso,Caffe Latte,73,-888,-4,76
+11/1/2021,Retail,South,Espresso,Caffe Mocha,44,888,-7,816
+11/1/2021,Retail,South,Espresso,Decaf Espresso,88,739,9,98
+11/1/2021,Retail,South,Coffee,Columbian,99,868,78,811
+11/1/2021,Retail,South,Coffee,Decaf Irish Cream,86,968,81,99
+11/1/2021,Retail,South,Herbal tea,Chamomile,73,798,88,888
+11/1/2021,Retail,South,Herbal tea,Lemon,74,674,88,793
+11/1/2021,Retail,South,Espresso,Caffe Latte,818,-8118,97,738
+11/1/2021,Retail,South,Espresso,Caffe Mocha,88,498,79,91
+11/1/2021,Retail,South,Espresso,Decaf Espresso,79,779,68,797
+11/1/2021,Wholesale,South,Coffee,Columbian,888,8798,794,471
+11/1/2021,Wholesale,South,Coffee,Decaf Irish Cream,41,886,86,78
+11/1/2021,Wholesale,South,Herbal tea,Chamomile,79,488,88,889
+11/1/2021,Wholesale,South,Herbal tea,Lemon,46,473,88,793
+11/1/2021,Wholesale,South,Espresso,Caffe Latte,78,-8181,79,897
+11/1/2021,Wholesale,South,Espresso,Caffe Mocha,889,781,879,791
+11/1/2021,Wholesale,South,Espresso,Decaf Espresso,81,897,49,888
+11/1/2021,Retail,West,Herbal tea,Chamomile,46,886,81,888
+11/1/2021,Retail,West,Herbal tea,Lemon,48,488,81,817
+11/1/2021,Retail,West,Herbal tea,Mint,98,8914,-9,888
+11/1/2021,Retail,West,Tea,Darjeeling,44,888,-7,816
+11/1/2021,Retail,West,Tea,Earl Grey,88,739,7,98
+11/1/2021,Retail,West,Tea,Green Tea,73,888,-8,76
+11/1/2021,Retail,West,Coffee,Amaretto,67,8161,79,881
+11/1/2021,Retail,West,Coffee,Columbian,88,891,79,793
+11/1/2021,Retail,West,Coffee,Decaf Irish Cream,98,618,89,894
+11/1/2021,Retail,West,Espresso,Caffe Latte,88,986,79,98
+11/1/2021,Retail,West,Espresso,Caffe Mocha,818,888,98,888
+11/1/2021,Retail,West,Espresso,Decaf Espresso,73,998,88,888
+11/1/2021,Wholesale,West,Herbal tea,Chamomile,98,794,94,799
+11/1/2021,Wholesale,West,Herbal tea,Lemon,888,8798,794,471
+11/1/2021,Wholesale,West,Herbal tea,Mint,41,886,79,78
+11/1/2021,Wholesale,West,Tea,Darjeeling,889,781,889,791
+11/1/2021,Wholesale,West,Tea,Earl Grey,81,897,47,888
+11/1/2021,Wholesale,West,Tea,Green Tea,78,679,79,897
+11/1/2021,Wholesale,West,Coffee,Amaretto,888,7989,-86,886
+11/1/2021,Wholesale,West,Coffee,Columbian,737,8891,888,688
+11/1/2021,Wholesale,West,Coffee,Decaf Irish Cream,798,7917,-879,736
+11/1/2021,Wholesale,West,Espresso,Caffe Latte,888,7979,879,488
+11/1/2021,Wholesale,West,Espresso,Caffe Mocha,888,788,86,897
+11/1/2021,Wholesale,West,Espresso,Decaf Espresso,889,8678,797,888
+11/1/2021,Retail,West,Herbal tea,Chamomile,888,788,86,897
+11/1/2021,Retail,West,Herbal tea,Lemon,798,8881,889,488
+11/1/2021,Retail,West,Herbal tea,Mint,888,918,817,799
+11/1/2021,Retail,West,Tea,Darjeeling,889,8678,796,888
+11/1/2021,Retail,West,Tea,Earl Grey,888,7979,889,488
+11/1/2021,Retail,West,Tea,Green Tea,738,7688,-731,88
+11/1/2021,Retail,West,Coffee,Columbian,88,738,-4,74
+11/1/2021,Retail,West,Coffee,Decaf Irish Cream,79,8118,8,64
+11/1/2021,Retail,West,Espresso,Caffe Latte,1,897,88,48
+11/1/2021,Retail,West,Espresso,Caffe Mocha,88,949,7,79
+11/1/2021,Retail,West,Espresso,Decaf Espresso,88,918,79,86
+11/1/2021,Retail,West,Herbal tea,Chamomile,88,988,79,68
+11/1/2021,Retail,West,Herbal tea,Lemon,99,868,71,811
+11/1/2021,Retail,West,Tea,Darjeeling,88,498,89,91
+11/1/2021,Retail,West,Tea,Earl Grey,79,779,68,797
+11/1/2021,Retail,West,Tea,Green Tea,818,666,97,738
+11/1/2021,Retail,West,Coffee,Amaretto,88,817,-4,888
+11/1/2021,Retail,West,Coffee,Columbian,88,471,73,889
+11/1/2021,Retail,West,Coffee,Decaf Irish Cream,46,473,88,793
+11/1/2021,Retail,West,Espresso,Caffe Latte,88,481,86,793
+11/1/2021,Retail,West,Espresso,Caffe Mocha,79,488,88,889
+11/1/2021,Retail,West,Espresso,Decaf Espresso,898,8898,819,868
+11/1/2021,Retail,West,Herbal tea,Chamomile,881,8793,888,888
+11/1/2021,Retail,West,Herbal tea,Lemon,47,973,44,888
+11/1/2021,Retail,West,Tea,Darjeeling,88,888,47,738
+11/1/2021,Retail,West,Tea,Earl Grey,47,473,73,881
+11/1/2021,Retail,West,Tea,Green Tea,68,688,8,737
+11/1/2021,Retail,West,Coffee,Columbian,68,446,81,886
+11/1/2021,Retail,West,Coffee,Decaf Irish Cream,74,674,86,793
+11/1/2021,Retail,West,Espresso,Caffe Latte,88,791,88,88
+11/1/2021,Retail,West,Espresso,Caffe Mocha,73,798,88,888
+11/1/2021,Retail,West,Espresso,Decaf Espresso,78,8168,48,864
 12/1/2021,Wholesale,Central,Tea,Darjeeling,46,488,6,818
 12/1/2021,Wholesale,Central,Tea,Earl Grey,88,8173,86,886
 12/1/2021,Wholesale,Central,Tea,Green Tea,98,888,66,898
