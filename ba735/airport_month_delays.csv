@@ -1,4 +1,4 @@
-airport,month,flights,lflights,dep15,taxi_out,cancelled
+airport,month,flights,lflights,late,taxi_out,cancelled
 ABQ,2014-01-01,1910,7.55486,25.691,10.627,3.403
 ABQ,2014-02-01,1711,7.44483,21.791,11.587,2.104
 ABQ,2014-03-01,2118,7.65823,22.97,11.411,1.133
